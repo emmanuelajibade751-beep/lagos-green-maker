@@ -10,7 +10,8 @@ function showGrowingRequirements(plant) {
       (row.context ? ' · ' + escape(row.context) : '') +
       (sources ? '<br>' + sources : '') + '</p></div>';
   }).join('');
-  return '<p><a href="Growing_Requirements_100.csv" download>Download growing requirements for all 100 plants</a></p>' +
+  return '<p><a href="Growing_Requirements_100.csv" download>Download growing requirements for all 100 plants</a> · ' +
+    '<a href="Requirements_Research_Coverage_100.csv" download>Download evidence and gaps by species</a></p>' +
     '<section><h3>Growing requirements</h3>' + entries + '</section>' +
     '<details><summary>How to establish local quantities</summary>' +
     '<p>Compare plants at the same growth stage and stock size. Record the bay exposure, container, substrate, rainfall, irrigation delivered, drainage and plant response. Repeat in wet and dry periods. ' +

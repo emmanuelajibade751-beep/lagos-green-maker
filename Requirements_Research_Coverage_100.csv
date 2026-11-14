@@ -1,0 +1,101 @@
+﻿plant_id,species,numeric_water,numeric_watering_interval,numeric_water_chemistry,numeric_rainfall,numeric_light,numeric_soil,exact_lagos_system
+LAG-294,Hibiscus rosa-sinensis,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-226,Acalypha wilkesiana,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-254,Codiaeum variegatum,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-302,Ixora coccinea,Reference available,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-328,Ocimum gratissimum,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-295,Hibiscus sabdariffa,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-471,Cajanus cajan,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-343,Senna alata,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-779,Murraya paniculata,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-250,Clerodendrum paniculatum,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-289,Gardenia jasminoides,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-752,Manihot esculenta,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-241,Canna indica,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-400,Abelmoschus esculentus,Reference available,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-430,Amaranthus cruentus,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-243,Celosia argentea,Reference available,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-554,Corchorus olitorius,Unknown,Unknown,Unknown,Reference available,Reference available,Unknown,Unmeasured
+LAG-262,Costus afer,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-267,Curcuma longa,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-1024,Zingiber officinale,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-345,Spathiphyllum wallisii,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-507,Chlorophytum comosum,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-266,Crossandra infundibuliformis,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-256,Coleus scutellarioides,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-330,Paspalum vaginatum,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-237,Bambusa vulgaris,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-366,Cymbopogon citratus,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-268,Cynodon dactylon,Reference available,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-236,Axonopus compressus,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-244,Cenchrus purpureus,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-319,Megathyrsus maximus,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-876,Saccharum officinarum,Reference available,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-255,Coix lacryma-jobi,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-273,Cyperus papyrus,Reference available,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-269,Cyperus articulatus,Reference available,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-270,Cyperus esculentus,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-271,Cyperus haspan,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-272,Cyperus ligularis,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-966,Telfairia occidentalis,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-238,Basella alba,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-253,Clitoria ternatea,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-230,Allamanda cathartica,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-258,Combretum indicum,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-283,Epipremnum aureum,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-651,Ficus pumila,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-316,Luffa aegyptiaca,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-334,Piper guineense,Unknown,Reference available,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-331,Passiflora foetida,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-301,Ipomoea pes-caprae,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-479,Canavalia rosea,Unknown,Reference available,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-497,Centella asiatica,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-260,Commelina diffusa,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-709,Ipomoea batatas,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-769,Mimosa pudica,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-363,Heterotis rotundifolia,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-834,Phyla nodiflora,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-983,Tradescantia zebrina,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-324,Nephrolepis biserrata,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-787,Nephrolepis exaltata,Unknown,Unknown,Unknown,Unknown,Reference available,Unknown,Unmeasured
+LAG-227,Acrostichum aureum,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-245,Ceratopteris cornuta,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-320,Microsorum scolopendria,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-337,Platycerium stemaria,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-325,Nymphaea lotus,Reference available,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-326,Nymphaea micrantha,Unknown,Unknown,Unknown,Unknown,Unknown,Reference available,Unmeasured
+LAG-313,Lasimorpha senegalensis,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-978,Thalia geniculata,Reference available,Unknown,Unknown,Unknown,Unknown,Reference available,Unmeasured
+LAG-353,Typha domingensis,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-335,Pistia stratiotes,Unknown,Unknown,Reference available,Unknown,Reference available,"Floating system, no soil",Unmeasured
+LAG-424,Aloe vera,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-630,Dracaena trifasciata,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-310,Kalanchoe pinnata,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-410,Adenium obesum,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-362,Portulaca oleracea,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-485,Carica papaya,Reference available,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-781,Musa × paradisiaca,Reference available,Unknown,Unknown,Unknown,Unknown,Reference available,Unmeasured
+LAG-865,Ravenala madagascariensis,Unknown,Unknown,Unknown,Unknown,Reference available,Reference available,Unmeasured
+LAG-082,Elaeis guineensis,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-061,Cocos nucifera,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-173,Raphia hookeri,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-157,Phoenix reclinata,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-728,Laguncularia racemosa,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-552,Conocarpus erectus,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-105,Gymnanthemum amygdalinum,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-201,Terminalia catappa,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-031,Avicennia germinans,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-177,Rhizophora racemosa,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unmeasured
+LAG-132,Mangifera indica,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-032,Azadirachta indica,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-076,Delonix regia,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-053,Casuarina equisetifolia,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-054,Ceiba pentandra,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-135,Milicia excelsa,Unknown,Unknown,Unknown,Reference available,Unknown,Unknown,Unmeasured
+LAG-118,Khaya senegalensis,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-712,Irvingia gabonensis,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-156,Persea americana,Unknown,Unknown,Unknown,Reference available,Reference available,Reference available,Unmeasured
+LAG-169,Psidium guajava,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-142,Moringa oleifera,Unknown,Reference available,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-208,Theobroma cacao,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
+LAG-027,Artocarpus altilis,Unknown,Unknown,Unknown,Reference available,Unknown,Reference available,Unmeasured
