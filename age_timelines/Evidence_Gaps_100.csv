@@ -1,0 +1,101 @@
+﻿id,species,disposition,conditional_stages,missing_evidence,exact_container_calibration,birth_age_calibration
+LAG-294,Hibiscus rosa-sinensis,size_time_evidence,0,No dated nursery-to-large-shrub height series verified.,missing,missing
+LAG-226,Acalypha wilkesiana,size_time_evidence,0,No follow-through from nursery dimensions to large shrub stages.,missing,missing
+LAG-254,Codiaeum variegatum,size_time_evidence,0,No compatible whole-canopy height trajectory verified.,missing,missing
+LAG-302,Ixora coccinea,size_time_evidence,1,No observed chronological bracket above 55.4 cm in this cohort.,missing,missing
+LAG-328,Ocimum gratissimum,size_time_evidence,1,No height evidence above 92.6 cm in these two selected cohorts; pot-grown equivalents remain unverified.,missing,missing
+LAG-295,Hibiscus sabdariffa,size_time_evidence,0,No matched same-treatment growth series between early nursery stages and flowering-size plants. The University of Lagos trial constrains one documented treatment endpoint only.,missing,missing
+LAG-471,Cajanus cajan,size_time_evidence,1,Unmanaged and Lagos-specific stock/size trajectories remain unverified.,missing,missing
+LAG-343,Senna alata,size_time_evidence,0,"Ilorin study plotted heights over 2–12 weeks, but the archived chart did not render in available source access. No comparable metre-scale or bloom-height series verified.",missing,missing
+LAG-779,Murraya paniculata,size_time_evidence,0,No continuous measured sequence to larger hedge stages verified in this greenhouse study.,missing,missing
+LAG-250,Clerodendrum paniculatum,size_time_evidence,0,Whole-shrub timing remains unavailable.,missing,missing
+LAG-289,Gardenia jasminoides,size_time_evidence,0,No dated observed height series or defined growth origin in the reviewed size profile.,missing,missing
+LAG-752,Manihot esculenta,size_time_evidence,2,The field series omit the earliest weeks and dimensions beyond six months.,missing,missing
+LAG-241,Canna indica,size_time_evidence,0,No robust within-season intermediate measurements for comparable stock and containers verified.,missing,missing
+LAG-400,Abelmoschus esculentus,size_time_evidence,3,No equivalent container trajectory was verified.,missing,missing
+LAG-430,Amaranthus cruentus,size_time_evidence,1,No timed seed-bearing height or later canopy trajectory verified.,missing,missing
+LAG-243,Celosia argentea,size_time_evidence,0,A matched genotype tracked longitudinally and dated reproductive-state heights remain unverified.,missing,missing
+LAG-554,Corchorus olitorius,size_time_evidence,1,No verified later size trajectory or analogous planter-controlled rate.,missing,missing
+LAG-262,Costus afer,no_usable_age_size_evidence,0,No verified plant dimension paired with dated growth from a defined starting stock.,missing,missing
+LAG-267,Curcuma longa,size_time_evidence,3,Exact single cultivar × spacing series or Lagos planter trajectory not verified for this record.,missing,missing
+LAG-1024,Zingiber officinale,size_time_evidence,1,No comparable dated height above 40.24 cm verified for this cultivar and treatment.,missing,missing
+LAG-345,Spathiphyllum wallisii,size_time_evidence,0,No developmental height-from-propagation trajectory verified with this endpoint.,missing,missing
+LAG-507,Chlorophytum comosum,size_time_evidence,0,No direct evidence links hanging plant Z bounds and chronological whole-plant size.,missing,missing
+LAG-266,Crossandra infundibuliformis,size_time_evidence,2,"Stages above the selected trial range, or different sized propagation stock, have no inferred age.",missing,missing
+LAG-256,Coleus scutellarioides,size_time_evidence,0,No equivalent chronological data above the extracted 13.2 cm endpoint.,missing,missing
+LAG-330,Paspalum vaginatum,size_time_evidence,0,No verified undisturbed canopy or quantitative footprint chronology matched to the study container.,missing,missing
+LAG-237,Bambusa vulgaris,size_time_evidence,0,No dated whole-clump height tied to timed container growth.,missing,missing
+LAG-366,Cymbopogon citratus,size_time_evidence,2,No planter-specific chronology or ages outside the 4–8 month observation interval.,missing,missing
+LAG-268,Cynodon dactylon,size_time_evidence,0,No verified undisturbed canopy or quantitative footprint chronology matched to the study container.,missing,missing
+LAG-236,Axonopus compressus,size_time_evidence,0,No verified undisturbed canopy or quantitative footprint chronology matched to the study container.,missing,missing
+LAG-244,Cenchrus purpureus,size_time_evidence,0,Comparable establishment-since-planting trajectory remains unverified.,missing,missing
+LAG-319,Megathyrsus maximus,size_time_evidence,0,Larger stage heights need compatible observations rather than extrapolation from harvest groups.,missing,missing
+LAG-876,Saccharum officinarum,size_time_evidence,0,A chronological cane-height sequence in a higher-vigour habitat matching the larger stage sizes remains unverified.,missing,missing
+LAG-255,Coix lacryma-jobi,size_time_evidence,2,"Earlier and later reliable heights, and directly verified reproductive state at these sizes, remain unknown.",missing,missing
+LAG-273,Cyperus papyrus,no_usable_age_size_evidence,0,"Figure d gives a potentially usable post-planting series, but the image could not be independently digitized during this pass.",missing,missing
+LAG-269,Cyperus articulatus,event_only,0,"Absolute time-linked heights were not verified from Figure 4, and the tuber-harvest clock is separate.",missing,missing
+LAG-270,Cyperus esculentus,size_time_evidence,0,Height data are restricted to crop selections at a late hoop-house endpoint; an early height series remains missing.,missing,missing
+LAG-271,Cyperus haspan,no_usable_age_size_evidence,0,No inspected source couples a measured C. haspan stem height to elapsed time.,missing,missing
+LAG-272,Cyperus ligularis,inaccessible,0,"A wetland thesis was located, but individual dimensions, original stock, units and elapsed measurement dates were not verified.",missing,missing
+LAG-966,Telfairia occidentalis,size_time_evidence,0,The seed-size comparison is a first-week vine endpoint; support-specific canopy height and a seed-to-maturity series remain missing.,missing,missing
+LAG-238,Basella alba,size_time_evidence,0,"The 75-day height range is a planting-treatment comparison, with no matched support and cultivar conditions for stage inversion.",missing,missing
+LAG-253,Clitoria ternatea,size_time_evidence,0,The verified field series describes regrowth from an established cut stand; first establishment and climbing-support height remain separate.,missing,missing
+LAG-230,Allamanda cathartica,size_time_evidence,0,Early propagation shoot length is available; a rooted vine-to-support height trajectory is unverified.,missing,missing
+LAG-258,Combretum indicum,event_only,0,The measured sprouting times are not dated shoot-height values; endpoints are interpreted from the Results table because the abstract conflicts.,missing,missing
+LAG-283,Epipremnum aureum,size_time_evidence,0,Osmocote no-storage cuttings have a verified harvested vine length; supported climbing height and long-term trajectory remain missing.,missing,missing
+LAG-651,Ficus pumila,no_usable_age_size_evidence,0,Original comparative cutting research includes shoot/root development but no usable paired juvenile-climbing height numbers were verified.,missing,missing
+LAG-316,Luffa aegyptiaca,event_only,0,The institutional account gives a genus-level sowing schedule and a separate maximum stem length for smooth loofah; dated vine lengths are missing.,missing,missing
+LAG-334,Piper guineense,inaccessible,0,Unable to check the reported 12-week cutting-treatment means from an accessible original table in this pass.,missing,missing
+LAG-331,Passiflora foetida,event_only,0,This propagation trial establishes germination time; the measured seedling-size graph was not recoverable as a numeric point from the text.,missing,missing
+LAG-301,Ipomoea pes-caprae,size_time_evidence,0,"Nursery measurements quantify height increment after sowing. Initial shoot datum, open-coast spread, and total mature height at known age are not available.",missing,missing
+LAG-479,Canavalia rosea,size_time_evidence,0,"A nursery stem-height endpoint is available, but elapsed creeping spread and larger plant heights were not measured.",missing,missing
+LAG-497,Centella asiatica,event_only,0,No calibrated patch footprint or vegetative spread series was verified; published average leaf areas are organ-size observations.,missing,missing
+LAG-260,Commelina diffusa,event_only,0,The independently read phenology interval refers to flowering after vegetative growth; dated stolon spread or top height is lacking.,missing,missing
+LAG-709,Ipomoea batatas,size_time_evidence,0,"Primary-vine length is verified for a Nigerian crop trial; the catalogue has vertical height and whole footprint, so those stage metrics cannot be inverted from runner length.",missing,missing
+LAG-769,Mimosa pudica,event_only,0,"The mechanosensory study supplies age-labelled sample groups, without plant height values for either group.",missing,missing
+LAG-363,Heterotis rotundifolia,inaccessible,0,No field or nursery plant dimensions tied to elapsed ages were verified for the accepted taxon or the Dissotis synonym.,missing,missing
+LAG-834,Phyla nodiflora,inaccessible,0,A named Kurapia groundcover establishment trial and separate study PDF were located; the full numerical coverage records could not be checked.,missing,missing
+LAG-983,Tradescantia zebrina,size_time_evidence,0,The indoor green-wall study provides a hanging shoot-length series for existing stock. It does not measure mat footprint or vertical height from planting.,missing,missing
+LAG-324,Nephrolepis biserrata,schedule_only,0,The paper abstract reports a cover development interval and an overall maximum without pairing a specific cover percentage to a dated endpoint.,missing,missing
+LAG-787,Nephrolepis exaltata,schedule_only,0,"Study measured canopy height and width, but published only a derived rectangular growth-index figure rather than component sizes.",missing,missing
+LAG-227,Acrostichum aureum,event_only,0,"The study times spore and sporophyte transitions, but gives no compatible frond expansion or whole height series for the rendered fern stages.",missing,missing
+LAG-245,Ceratopteris cornuta,no_usable_age_size_evidence,0,Exact-species timed frond dimensions remain unverified; the 3-day timing lead concerns a congener.,missing,missing
+LAG-320,Microsorum scolopendria,no_usable_age_size_evidence,0,Institutional frond morphology lacks dates; a verified frond length series from a known establishment clock is missing.,missing,missing
+LAG-337,Platycerium stemaria,no_usable_age_size_evidence,0,Published culture proceedings describe nursery multiplication; externally measured fertile and shield frond dimensions over known ages remain unverified.,missing,missing
+LAG-325,Nymphaea lotus,event_only,0,"Seedling progression was measured after transplanting in Ibadan, but the numerical height figure requires digitization and a clarified water/substrate datum before height matching.",missing,missing
+LAG-326,Nymphaea micrantha,event_only,0,No numeric leaf span linked to plant age was verified; the second-year observation has an unspecified age origin.,missing,missing
+LAG-313,Lasimorpha senegalensis,no_usable_age_size_evidence,0,"No dated measurements for rhizome-origin age, petiole elongation, or whole-plant stature were verified.",missing,missing
+LAG-978,Thalia geniculata,size_time_evidence,0,"Two substrate-dependent maxima have an upper elapsed bound but no exact sampling age, measured starting height, or validated equivalent stage state.",missing,missing
+LAG-353,Typha domingensis,size_time_evidence,0,Only the first-to-last monitoring interval is supported; chronological age at planting and at the first observation remain unknown.,missing,missing
+LAG-335,Pistia stratiotes,no_usable_age_size_evidence,0,"A measured starting diameter of selected adult ramets is available, but the experiment does not provide age since establishment for that diameter or a linked diameter series.",missing,missing
+LAG-424,Aloe vera,size_time_evidence,0,A common field endpoint is verified for different ecotypes; it cannot provide an elapsed-height trajectory for the unidentified catalogue ecotype.,missing,missing
+LAG-630,Dracaena trifasciata,size_time_evidence,0,"A dwarf form has a propagation-height series, but Table 3 and Methods disagree on the clock, and the material cannot calibrate a standard tall form.",missing,missing
+LAG-310,Kalanchoe pinnata,event_only,0,"Leaf-detachment plantlet timing is verified, while eventual parent-level dimensions and age remain uncalibrated.",missing,missing
+LAG-410,Adenium obesum,schedule_only,0,The technical account names crop phases after transplanting but supplies no paired measured height or caudex diameter for those phases.,missing,missing
+LAG-362,Portulaca oleracea,size_time_evidence,0,Study-specific fitted heights are available for three dense field harvest dates. They characterize a crop cohort and do not assign model stage ages.,missing,missing
+LAG-485,Carica papaya,size_time_evidence,0,Verified early whole-plant heights are below the model stages. Later insertion heights cannot calibrate total plant height; the final harvest-height clock needs resolution.,missing,missing
+LAG-781,Musa × paradisiaca,size_time_evidence,0,Cultivar and pseudostem-versus-leaf-tip definition are unresolved in the accessible abstract. No generic plantain stage ages assigned.,missing,missing
+LAG-865,Ravenala madagascariensis,size_time_evidence,0,Only a horticultural maturity envelope was verified; propagation clock and matching juvenile height trajectory are missing.,missing,missing
+LAG-082,Elaeis guineensis,size_time_evidence,0,"Verified nursery series measures the third opened leaf tip, not the maximum model top; mature stem growth rates cannot date total crown height.",missing,missing
+LAG-061,Cocos nucifera,size_time_evidence,0,Seedling age origin is not explicitly defined; tall/dwarf cultivar and mature crown versus stem endpoint require clarification before matching.,missing,missing
+LAG-173,Raphia hookeri,event_only,0,"Flowering age is known only as a broad planting-clock event; no paired dated height trajectory verified. Clump, individual stem and genet ages differ.",missing,missing
+LAG-157,Phoenix reclinata,size_time_evidence,0,"Attainable 5 m endpoint does not define a trajectory; clock origin, stock and Lagos container transfer remain unresolved.",missing,missing
+LAG-728,Laguncularia racemosa,size_time_evidence,0,Nursery endpoint exists but does not match all measured model heights; no field-to-mature timeline verified.,missing,missing
+LAG-552,Conocarpus erectus,size_time_evidence,0,Verified treatment endpoint follows establishment of saplings; no chronological age or early-to-mature series established.,missing,missing
+LAG-105,Gymnanthemum amygdalinum,size_time_evidence,0,Published paper has conflicting measurement weeks and problematic table alignment; retain the reported endpoint as context until timing is independently resolved.,missing,missing
+LAG-201,Terminalia catappa,size_time_evidence,0,Isolated plantation endpoint does not date the three design stages; stock age and same-cohort trajectory missing.,missing,missing
+LAG-031,Avicennia germinans,no_usable_age_size_evidence,0,"Only an upper attainment value verified; no lower bound, individual age distribution or mature trajectory.",missing,missing
+LAG-177,Rhizophora racemosa,no_usable_age_size_evidence,0,Original restoration study contains a plotted height series; numerical endpoints require source data or documented graph digitization. A growth rate alone cannot assign model ages.,missing,missing
+LAG-132,Mangifera indica,size_time_evidence,0,"Verified pruned-orchard endpoints are not an unpruned growth trajectory. Model cultivar, rootstock and management are unspecified.",missing,missing
+LAG-032,Azadirachta indica,size_time_evidence,0,"Institutional accounts conflict on timing of the 5–11 m endpoint (5 versus 8 years). Stock, site and age origin unresolved; not suitable for assigning stage ages.",missing,missing
+LAG-076,Delonix regia,size_time_evidence,0,"Nursery series measures last leaf insertion, not total foliage height; no verified tree-scale series for current model sizes.",missing,missing
+LAG-053,Casuarina equisetifolia,size_time_evidence,1,Plantation chronology offers site-specific height brackets; nursery age before plantation establishment and Lagos container transfer remain unknown.,missing,missing
+LAG-054,Ceiba pentandra,size_time_evidence,0,Verified seedling series is far below all current model stages; rates cannot extend it into mature age estimates.,missing,missing
+LAG-135,Milicia excelsa,size_time_evidence,0,Available plantation observations come from different countries and cannot form one trajectory; age origin and model-size matching incomplete.,missing,missing
+LAG-118,Khaya senegalensis,size_time_evidence,0,"Strong site effects; natural, managed and coppice observations must remain separate. No same-cohort trajectory across model sizes verified.",missing,missing
+LAG-712,Irvingia gabonensis,size_time_evidence,0,Onne and Ibadan are separate sites with different rainfall and soil; no interpolation or pooled 8–12 m age distribution.,missing,missing
+LAG-156,Persea americana,no_usable_age_size_evidence,0,"A genuine 3–4 year rootstock height graph is available, but exact numeric heights were not tabulated/extracted. Digitization and rootstock-specific matching remain outstanding.",missing,missing
+LAG-169,Psidium guajava,no_usable_age_size_evidence,0,Verified publisher abstract reports height but no linked plant age. Full PDF access failed; initial stock age and measurement clock remain missing.,missing,missing
+LAG-142,Moringa oleifera,size_time_evidence,0,"Verified early field endpoint is isolated; branch length, pruning and other-site heights cannot be concatenated. No mature timeline verified.",missing,missing
+LAG-208,Theobroma cacao,size_time_evidence,0,Nursery size-age envelope exists; jorquette formation is a branching/stem endpoint and cannot date total mature crown height.,missing,missing
+LAG-027,Artocarpus altilis,event_only,0,Reliable propagation and pruning schedules exist; no verified numeric whole-tree age-height trajectory extracted. A new Cuba trial lead remained inaccessible.,missing,missing
