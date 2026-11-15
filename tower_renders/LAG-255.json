@@ -1,0 +1,224 @@
+{
+  "id": "LAG-255",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-e9b539e8ba09dd60db25b9547e803f55ab27d9a2aff111ab410848aae5434f58",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-255-9df25a4aa81d02d54cfd4bf18b6c9beb653428e98d2df33370171027a1441765.json",
+    "fileSha256": "44d5546995b3f4de7025e9dc410a87109ed0c6e56cbb0e3b83218ea7b66ca76f",
+    "receiptContentSha256": "9df25a4aa81d02d54cfd4bf18b6c9beb653428e98d2df33370171027a1441765",
+    "sourceBlendSha256": "3f7e128477c9ed3860d34088274c0f641f36241a9e50f1b428e13b3b314a9bd3",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-255.blend",
+  "sourceSha256": "3f7e128477c9ed3860d34088274c0f641f36241a9e50f1b428e13b3b314a9bd3",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    6.0,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 89,
+  "sourceObjectBounds": {
+    "min": [
+      -2.2498347759246826,
+      -1.9088689088821411,
+      0.0
+    ],
+    "max": [
+      2.086451530456543,
+      1.1836352348327637,
+      3.121460437774658
+    ]
+  },
+  "materialCount": 12,
+  "materialObjectFingerprint": "0287dc1bca229c804b4eeacf8f06e23268e2d4ab4bbd14523108b29bd93b430f",
+  "sourceObjects": [
+    "Drained round pot.006",
+    "Growing medium.006",
+    "Pot foot.018",
+    "Pot foot.019",
+    "Pot foot.020",
+    "Drained round pot.007",
+    "Growing medium.007",
+    "Pot foot.021",
+    "Pot foot.022",
+    "Pot foot.023",
+    "Drained round pot.008",
+    "Growing medium.008",
+    "Pot foot.024",
+    "Pot foot.025",
+    "Pot foot.026",
+    "Job's tears | jointed or flowering culms.015",
+    "Job's tears | inflorescence axes.008",
+    "Job's tears | beads.008",
+    "Folded leaf blades.016",
+    "Longitudinal blade midribs.016",
+    "Job's tears | jointed or flowering culms.016",
+    "Job's tears | inflorescence axes.009",
+    "Job's tears | beads.009",
+    "Folded leaf blades.017",
+    "Longitudinal blade midribs.017",
+    "Job's tears | jointed or flowering culms.017",
+    "Job's tears | inflorescence axes.010",
+    "Job's tears | beads.010",
+    "Folded leaf blades.018",
+    "Longitudinal blade midribs.018",
+    "Draining stand slat.007",
+    "Draining stand slat.008",
+    "Draining stand slat.009",
+    "Draining stand slat.010",
+    "Draining stand slat.011",
+    "Draining stand slat.012",
+    "Draining stand slat.013",
+    "Frame post.016",
+    "Frame foot.016",
+    "Frame post.017",
+    "Frame foot.017",
+    "Transverse frame rail.008",
+    "Frame post.018",
+    "Frame foot.018",
+    "Frame post.019",
+    "Frame foot.019",
+    "Transverse frame rail.009",
+    "Frame post.020",
+    "Frame foot.020",
+    "Frame post.021",
+    "Frame foot.021",
+    "Transverse frame rail.010",
+    "Frame post.022",
+    "Frame foot.022",
+    "Frame post.023",
+    "Frame foot.023",
+    "Transverse frame rail.011",
+    "Longitudinal frame rail.004",
+    "Longitudinal frame rail.005",
+    "Drained round pot.009",
+    "Growing medium.009",
+    "Pot foot.027",
+    "Pot foot.028",
+    "Pot foot.029",
+    "Drained round pot.010",
+    "Growing medium.010",
+    "Pot foot.030",
+    "Pot foot.031",
+    "Pot foot.032",
+    "Drained round pot.011",
+    "Growing medium.011",
+    "Pot foot.033",
+    "Pot foot.034",
+    "Pot foot.035",
+    "Job's tears | jointed or flowering culms.018",
+    "Job's tears | inflorescence axes.011",
+    "Job's tears | beads.011",
+    "Folded leaf blades.019",
+    "Longitudinal blade midribs.019",
+    "Job's tears | jointed or flowering culms.019",
+    "Job's tears | inflorescence axes.012",
+    "Job's tears | beads.012",
+    "Folded leaf blades.020",
+    "Longitudinal blade midribs.020",
+    "Job's tears | jointed or flowering culms.020",
+    "Job's tears | inflorescence axes.013",
+    "Job's tears | beads.013",
+    "Folded leaf blades.021",
+    "Longitudinal blade midribs.021"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-255-whole.png",
+      "sha256": "4f70ff218462698eedb0eedba03695002262609613dcc2ca17833e0f9d345cb6",
+      "seconds": 21.77,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-255-detail.png",
+      "sha256": "a19e0293930783fbf399346401c6bd28f5bc9fd906489d36e4cabc5534ff44f5",
+      "seconds": 35.67,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 59.24
+}

@@ -1,0 +1,187 @@
+{
+  "id": "LAG-283",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-62000487d40a1b33a8f28836fee2a866855166ef3cc2e666edc9eec5e95968e9",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-283-589303ccc5bf05aeebc667d55004ce96d0413537893f30c552e066124a677bb1.json",
+    "fileSha256": "174dae9bb56f6ac590afe005fea25b8a0060739a222c232c2b4afb005c42ba93",
+    "receiptContentSha256": "589303ccc5bf05aeebc667d55004ce96d0413537893f30c552e066124a677bb1",
+    "sourceBlendSha256": "89abbc123717b7a5a69f1c591bf682d83cdebcabb5a0db5a283ea53f5e80ddfc",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/climbers_10_review/LAG-283.blend",
+  "sourceSha256": "89abbc123717b7a5a69f1c591bf682d83cdebcabb5a0db5a283ea53f5e80ddfc",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 52,
+  "sourceObjectBounds": {
+    "min": [
+      -0.5999999046325684,
+      -0.9800000190734863,
+      0.0
+    ],
+    "max": [
+      0.5999999046325684,
+      -0.46000000834465027,
+      1.685499906539917
+    ]
+  },
+  "materialCount": 11,
+  "materialObjectFingerprint": "c8f1ef42c4ba69312c751546d2ddb3d5043166ce6b9ab22d42a0be857e355891",
+  "sourceObjects": [
+    "Planter base.002",
+    "Long trough wall.004",
+    "Short trough wall.004",
+    "Long trough wall.005",
+    "Short trough wall.005",
+    "Rootable substrate.002",
+    "Trough foot.004",
+    "Trough foot.005",
+    "Mesh frame upright.004",
+    "Mesh frame upright.005",
+    "Mesh frame crossrail.004",
+    "Mesh frame crossrail.005",
+    "Vertical mesh wire.016",
+    "Vertical mesh wire.017",
+    "Vertical mesh wire.018",
+    "Vertical mesh wire.019",
+    "Vertical mesh wire.020",
+    "Vertical mesh wire.021",
+    "Vertical mesh wire.022",
+    "Vertical mesh wire.023",
+    "Horizontal mesh wire.016",
+    "Horizontal mesh wire.017",
+    "Horizontal mesh wire.018",
+    "Horizontal mesh wire.019",
+    "Horizontal mesh wire.020",
+    "Horizontal mesh wire.021",
+    "Horizontal mesh wire.022",
+    "Horizontal mesh wire.023",
+    "Soft training tie.007",
+    "Soft training tie.008",
+    "Soft training tie.009",
+    "Soft training tie.010",
+    "Soft training tie.011",
+    "Soft training tie.012",
+    "Soft training tie.013",
+    "Soft training tie.014",
+    "Soft training tie.015",
+    "Soft training tie.016",
+    "Soft training tie.017",
+    "Soft training tie.018",
+    "Soft training tie.019",
+    "Soft training tie.020",
+    "LAG-283 | attached axes and pedicels.005",
+    "LAG-283 | aerial roots.005",
+    "Individual blade meshes.003",
+    "Connecting petioles.002",
+    "Visible midribs.002",
+    "New stems | trained lateral growth.001",
+    "New leaf blades | lateral shoots.001",
+    "Petioles.002",
+    "Midribs.002",
+    "Secondary veins.002"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-283-whole.png",
+      "sha256": "c5fce86e27e68dc4e77c3fc58419a8377963027ef4c661f872725ffee0527726",
+      "seconds": 17.11,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-283-detail.png",
+      "sha256": "e8d1b20186eb8af10bd810075b3268a1b3a18f50754babac8c6fab2d646acd75",
+      "seconds": 24.55,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 42.99
+}

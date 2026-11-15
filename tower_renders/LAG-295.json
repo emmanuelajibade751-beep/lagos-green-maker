@@ -1,0 +1,169 @@
+{
+  "id": "LAG-295",
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2628272136aadca0596870b11880e6c7d84bc57e0140d1a573712bfff5bd6dff",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/shrubs_12_revision_02/LAG-295.blend",
+  "sourceSha256": "a2b0cf8f7014d5a8747dc289ad82dbcd2f8fe2c5ac0b276efb3140ed1206d5ce",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    11.0,
+    0.0,
+    0.0
+  ],
+  "stage": "Developed panel by deck location",
+  "sourceObjectCount": 43,
+  "sourceObjectBounds": {
+    "min": [
+      -1.8000001907348633,
+      -1.294029712677002,
+      0.0
+    ],
+    "max": [
+      1.8000001907348633,
+      1.3300000429153442,
+      2.246617078781128
+    ]
+  },
+  "materialCount": 15,
+  "materialObjectFingerprint": "f0813a4377de59f83cd433280495246d93f9c5b88ffa669f95f873219c8434a5",
+  "sourceObjects": [
+    "Seat.002",
+    "Seat leg.004",
+    "Seat leg.005",
+    "Trough base.002",
+    "Trough side.004",
+    "Trough end.004",
+    "Trough side.005",
+    "Trough end.005",
+    "Continuous root medium.002",
+    "Drain outlet.002",
+    "roselle | shoots and axillary stalks.009",
+    "Individual blade meshes.040",
+    "Connecting petioles.032",
+    "Visible midribs.030",
+    "Individual blade meshes.041",
+    "Connecting petioles.033",
+    "Visible midribs.031",
+    "roselle | five petal corollas and dark eye.005",
+    "roselle | staminal column and stigma.005",
+    "roselle | anthers.005",
+    "Fleshy ribbed calyces with epicalyx bractlets.005",
+    "roselle | shoots and axillary stalks.010",
+    "Individual blade meshes.042",
+    "Connecting petioles.034",
+    "Visible midribs.032",
+    "Individual blade meshes.043",
+    "Connecting petioles.035",
+    "Visible midribs.033",
+    "roselle | five petal corollas and dark eye.006",
+    "roselle | staminal column and stigma.006",
+    "roselle | anthers.006",
+    "Fleshy ribbed calyces with epicalyx bractlets.006",
+    "roselle | shoots and axillary stalks.011",
+    "Individual blade meshes.044",
+    "Connecting petioles.036",
+    "Visible midribs.034",
+    "Individual blade meshes.045",
+    "Connecting petioles.037",
+    "Visible midribs.035",
+    "roselle | five petal corollas and dark eye.007",
+    "roselle | staminal column and stigma.007",
+    "roselle | anthers.007",
+    "Fleshy ribbed calyces with epicalyx bractlets.007"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-295-whole.png",
+      "sha256": "99ee327cee63872844597104e041c006788f2d2f822310c847b3fd6199bbf738",
+      "seconds": 17.79,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-295-detail.png",
+      "sha256": "5a38d644202a3b7756a0bb03f8b2a9a19b271cd650910f70e4c06a0b093f3c46",
+      "seconds": 26.89,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 51.9
+}

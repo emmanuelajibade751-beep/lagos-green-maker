@@ -1,0 +1,431 @@
+{
+  "batch": 6,
+  "ids": [
+    "LAG-319",
+    "LAG-876",
+    "LAG-273",
+    "LAG-269",
+    "LAG-270",
+    "LAG-271",
+    "LAG-272",
+    "LAG-326",
+    "LAG-325",
+    "LAG-313"
+  ],
+  "sourceReportHashes": {
+    "LAG-319": "1e2a2565c100a519dc73c44b67b676b057cf38c3debe03de8151ac3d8655e47a",
+    "LAG-876": "93c108f98a8f8288c24698ab8371e05ec74780e72e5dd8732dd6229df40c8f34",
+    "LAG-273": "26063fe682e89fe1f683747904061ce64c6337038658d51335d87838eba54789",
+    "LAG-269": "83758ee879a70368bebad66ac6e105636e8ab54124b91778d04082863d55eb3f",
+    "LAG-270": "c2d100270495ad0bc164c6a5305dc7b2bac8905e1600530ec77e3e18a4710bc3",
+    "LAG-271": "08b0431dfdbb6ec3e49d34f5c170ab46faa1f1aff921b817dfab7be41000f379",
+    "LAG-272": "b5e1c9481623d3b8d7698f816f015dbf9706371b2ba472b45f51670e267a513f",
+    "LAG-326": "b8071621fc83e8c70f520dce4121a93f797a6d0a29c4f46df0de80b5686063bd",
+    "LAG-325": "1bf1e48b103881c6391d219b97fac13eafb453f8e188c3590ebb13a64849d733",
+    "LAG-313": "c4ec5b0dcd3df1a04a7db6cf3f16d2be11e4fe0885dda3314522d726b1a33e9b"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "findings": [
+      "All10 whole/detail pairs retain native source plant and container features. Whole frames show full tower/base; tall stalks above tower remain inside image.",
+      "319 and876 retain six separate stepped pots, with sugarcane visibly taller;273 preserves umbrella-topped papyrus stems and blue aquatic troughs.",
+      "269 tall fine stems,270 shorter clustered sedge,271 low sparse water sedge and272 basal grass with taller inflorescence stems remain distinct.",
+      "326 and325 retain floating leaf pads/white flowers in single aquatic containers;313 retains one large upright aquatic clump with visible buds.",
+      "Large source plants may cross deck/bay/floor bounds; no geometrical fit approval is implied."
+    ]
+  },
+  "reviewedUtc": "2026-11-15T15:28:02.996152+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\batch06_sheet1.jpg",
+    "tmp\\native_batch_reviews\\batch06_sheet2.jpg",
+    "tmp\\native_batch_reviews\\batch06_sheet3.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-319",
+      "label": "Guinea grass",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "0a39f8f4f5662bdf7059dfa1be5a8c986903f0e3729eae322ccbbeb83d5898a6",
+      "viewHashes": {
+        "whole": "3a6459bcfe8392aaf822cfd9eb4f68e3424c861c662d79bda8132c6f85713815",
+        "detail": "fdde2432d9f660ca92fc17ca388204e80a0d627e526823ffee1a8241bc014c76"
+      },
+      "sourceObjectCount": 89,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -2.5482826232910156,
+          -2.1661956310272217,
+          0.0
+        ],
+        "max": [
+          2.3376312255859375,
+          1.596564769744873,
+          3.406046152114868
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-8d9822126372c552d083f27c1f7218d78f87c513bb80dd921d28d92cfc2767e9",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-319-4f32b0587a847fb325f4b08a18980c79e9ca1bb87bb04ea724a13da5845aa861.json",
+        "fileSha256": "80bbd012597ae3c4318f591bbf8797724013f1ac4596b0fd898f61dc1952e7f5",
+        "receiptContentSha256": "4f32b0587a847fb325f4b08a18980c79e9ca1bb87bb04ea724a13da5845aa861",
+        "sourceBlendSha256": "0a39f8f4f5662bdf7059dfa1be5a8c986903f0e3729eae322ccbbeb83d5898a6",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-319.png",
+      "approvedSourceImageSha256": "9e982c7af8c03d805785ea8e9b89fd51f8726075f576dc0c654ff23f780fff41"
+    },
+    {
+      "id": "LAG-876",
+      "label": "Sugarcane",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "41574ec83d66eff5132985b639a31c5c8a6a62ace9bf48ddbe3680899c251150",
+      "viewHashes": {
+        "whole": "09ef6bff580e755fdf07d15900f2d53f993fc0f691c249a3a0957c1bf8f0abb5",
+        "detail": "beee3b7d5c227412b98f981da2450f6c88557d9590e5187e08ccf5343593989d"
+      },
+      "sourceObjectCount": 83,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -2.6525888442993164,
+          -2.237175941467285,
+          0.0
+        ],
+        "max": [
+          2.362544059753418,
+          1.5650041103363037,
+          5.653267860412598
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-f251386c3f8bdee10051b376807af5e90ab81fe5859936216874bdc9198c2769",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-876-accc323c6f4afc8c92e0efe04a2a84cf29b2ab78d62dab0cf64048c2cf7f983f.json",
+        "fileSha256": "ef3a02946f014868d31a620a872e394008a5fddbc8465dd569d1ed1df5d79f57",
+        "receiptContentSha256": "accc323c6f4afc8c92e0efe04a2a84cf29b2ab78d62dab0cf64048c2cf7f983f",
+        "sourceBlendSha256": "41574ec83d66eff5132985b639a31c5c8a6a62ace9bf48ddbe3680899c251150",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-876.png",
+      "approvedSourceImageSha256": "7221fe6be7625d611799aecaac67e16569d1b8cc553d3a073561176fa599f2dc"
+    },
+    {
+      "id": "LAG-273",
+      "label": "Papyrus",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "2dc7f44fce0b0447406da8fd2a3fc2aef5812691874d2d9e7dd0fc14752559fd",
+      "viewHashes": {
+        "whole": "577d5f736556296f38d2e4cbce62fa05f05d4148922781f3af20a08e21bd3d9f",
+        "detail": "2514b14d79801e7e5c68c4a24fce5231fdebcc814e3fbf526f85e98590e77f69"
+      },
+      "sourceObjectCount": 184,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9399998188018799,
+          -1.257507562637329,
+          0.0
+        ],
+        "max": [
+          1.940000057220459,
+          1.3550000190734863,
+          4.394842147827148
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-056cac0f3085da63c51bc73e05e8613a11c0346e73083a4c9284315d4e63c0fe",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-273-67faf0ef84ba52041349540b538c71731fe4e576405b3bc5ac72f99b20a127cf.json",
+        "fileSha256": "1158d4be46de9060966655abb6c9f6ae02db635314f4ed11f4c8ced44d235246",
+        "receiptContentSha256": "67faf0ef84ba52041349540b538c71731fe4e576405b3bc5ac72f99b20a127cf",
+        "sourceBlendSha256": "2dc7f44fce0b0447406da8fd2a3fc2aef5812691874d2d9e7dd0fc14752559fd",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/sedges_05_stepped_review_02/LAG-273.png",
+      "approvedSourceImageSha256": "cdd969d26a70c9760529c2c64441ec4c84edf3957e2e7b60abc5cc6ea9a2de9e"
+    },
+    {
+      "id": "LAG-269",
+      "label": "Jointed flatsedge",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "77ff445ba2f229007d90b6fa37c7cee199c4d6013254486d656c6d55dcbf9e84",
+      "viewHashes": {
+        "whole": "22b7438750612a28020bb400b0b2e289863c9440661948d84588c6c2b99235f5",
+        "detail": "0d0816d4e1b1773bea3aadb439566d2d4fe4753dea5dca62a490fc5644efa494"
+      },
+      "sourceObjectCount": 264,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9399998188018799,
+          -1.1213140487670898,
+          0.0
+        ],
+        "max": [
+          1.940000057220459,
+          1.3550000190734863,
+          2.608120918273926
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-06c7fe1e0a6bc282a2052d34f328ed7a08ca1e5c2fd66b983d7c69a898fece93",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-269-01e5185dd553395ea38f19cfb0bac1ac5ba5b601d27594608de367351bd49084.json",
+        "fileSha256": "5ca21584c4ec8f69929a0e5c4bbc2a543b5a05f4b5c9abe37e70676d28bb21e8",
+        "receiptContentSha256": "01e5185dd553395ea38f19cfb0bac1ac5ba5b601d27594608de367351bd49084",
+        "sourceBlendSha256": "77ff445ba2f229007d90b6fa37c7cee199c4d6013254486d656c6d55dcbf9e84",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/sedges_05_stepped_review_02/LAG-269.png",
+      "approvedSourceImageSha256": "bfdafad9109175b4ab2d8435abd3df2a7f34abfbe0c470274c0f102310cb9976"
+    },
+    {
+      "id": "LAG-270",
+      "label": "Yellow nutsedge",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "204831c435f77f91c35b1d0281d785ed93acb81534afbac642ca523154f7a6ee",
+      "viewHashes": {
+        "whole": "27e0f12e2ada26c7fd592abea3e65642e7429f53d057451df220364c7bf30642",
+        "detail": "0366aaf46edfc489da213dbcec91956cec3d7caa72532d0cfd0f63412487f907"
+      },
+      "sourceObjectCount": 150,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.9071688652038574,
+          -1.100000023841858,
+          0.0
+        ],
+        "max": [
+          1.9266777038574219,
+          1.0800000429153442,
+          1.6419599056243896
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-db07fdac608bc5e2f70ba6ce872f6fd3b9ca450f0bac477041f3c7cc67d1c556",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-270-ccb5ac76dec86e83743e6ea7d3b763594b8695c663899b7464f81682f3b1107a.json",
+        "fileSha256": "0186a3825d49d232f221369a72be2f33676720513eaf2f311b2d955be04b0e7a",
+        "receiptContentSha256": "ccb5ac76dec86e83743e6ea7d3b763594b8695c663899b7464f81682f3b1107a",
+        "sourceBlendSha256": "204831c435f77f91c35b1d0281d785ed93acb81534afbac642ca523154f7a6ee",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/sedges_05_stepped_review_02/LAG-270.png",
+      "approvedSourceImageSha256": "637198efcdc32a510fbdd71573f1965f1794fb4685dfefdcb4ab357db554d56c"
+    },
+    {
+      "id": "LAG-271",
+      "label": "Sharp edge sedge",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "adb5a140a4e7a29871a9ce48baca29b18e1048547a8d4ce58088992d4f3aef22",
+      "viewHashes": {
+        "whole": "15ced8776c8f0cc044935e46684d4ad2bf4e0c1592c97a200f52fe0ad5365d10",
+        "detail": "38e90ad6f37144b3305c332109bfd3e79d1370ca02583a16b7e89280790392b0"
+      },
+      "sourceObjectCount": 264,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9399998188018799,
+          -1.182708978652954,
+          0.0
+        ],
+        "max": [
+          1.8549304008483887,
+          1.3550000190734863,
+          1.6393520832061768
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-7f0169ec22bf3ae854d8f7b148c9a0ed45839cf897e2b04f5ff4c3ccf9e6d103",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-271-d845606dec7646e874f5908ae0bc11325b9bb117dac61886a1270c5c2bbed2ac.json",
+        "fileSha256": "4864afa5672ba5358fa073dfc5687f99127b08a044bf710ec20a90f98d31549b",
+        "receiptContentSha256": "d845606dec7646e874f5908ae0bc11325b9bb117dac61886a1270c5c2bbed2ac",
+        "sourceBlendSha256": "adb5a140a4e7a29871a9ce48baca29b18e1048547a8d4ce58088992d4f3aef22",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/sedges_05_stepped_review_02/LAG-271.png",
+      "approvedSourceImageSha256": "e76d9ef6baa5417da15eff7411cfd9844d9e786249b30ef77f0c8e2b45515270"
+    },
+    {
+      "id": "LAG-272",
+      "label": "Rocket sedge",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "a9256fde08f2c72167296cbc5b4337b337f4a8cc849f352996fc131ebf94932b",
+      "viewHashes": {
+        "whole": "ee2dd53829fcf7bf18c8bfa996a92b5922b2979b3f843684a40ad4bf5ed2a5d4",
+        "detail": "af4c0eab03224ec1b1ad1087bdaa6f2dd5cf22d8a6df8d3388ce58fd2a69fed0"
+      },
+      "sourceObjectCount": 194,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9399998188018799,
+          -1.2708172798156738,
+          0.0
+        ],
+        "max": [
+          1.940000057220459,
+          1.3550000190734863,
+          2.2626843452453613
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-f77c8a3710df7957c743a914d22e499ff8ac1705abb4f83e1cecb44aab5bde61",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-272-a1b35a983f07d04572bd51bcfb264973443eb84ebd9e067cf450bad5a7951060.json",
+        "fileSha256": "ba7e2ccfb147e34b173ed82867e812e664a58f0163952da980f24f80b0f42fb9",
+        "receiptContentSha256": "a1b35a983f07d04572bd51bcfb264973443eb84ebd9e067cf450bad5a7951060",
+        "sourceBlendSha256": "a9256fde08f2c72167296cbc5b4337b337f4a8cc849f352996fc131ebf94932b",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/sedges_05_stepped_review_02/LAG-272.png",
+      "approvedSourceImageSha256": "1e7b4750fc2cf86736407604b3a6e49b43250bab342872ccc23901f8f09b1318"
+    },
+    {
+      "id": "LAG-326",
+      "label": "Nymphaea micrantha",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "f8ecc5c29153fb133fbf3313285dad3e34652c7d557b498ac6b88f4649606373",
+      "viewHashes": {
+        "whole": "c22994721c921264e4f97f0f8304fdebe2816c8b7a99a9bb734b9c3d86cede36",
+        "detail": "4b2984893795542db6c8eea3c383a9aad90b85e4a5a652f936faf0a1394fe793"
+      },
+      "sourceObjectCount": 75,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.0699999332427979,
+          0.0
+        ],
+        "max": [
+          1.8000001907348633,
+          0.4449999928474426,
+          0.8188899755477905
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-f5c5406588b75a8c07fb35614efa1c972ec5144f2eaf6cf01383129739b7c0f2",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-326-b4a8534d42f3a3bab4cbe46f0607728b8e1c70f5856e0be5f25de9231f04740c.json",
+        "fileSha256": "7d89af90232832a8241ba9cbd192f9f1786d06be0acb655f587c7cda16334b14",
+        "receiptContentSha256": "b4a8534d42f3a3bab4cbe46f0607728b8e1c70f5856e0be5f25de9231f04740c",
+        "sourceBlendSha256": "f8ecc5c29153fb133fbf3313285dad3e34652c7d557b498ac6b88f4649606373",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_and_wetland_balconies/LAG-326.png",
+      "approvedSourceImageSha256": "ab5ed46f053d479fe1f677db40d3a86249babf5554045913f81c4fad8dd6e76c"
+    },
+    {
+      "id": "LAG-325",
+      "label": "Egyptian white waterlily",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "2fb73456a02d8f82454741875b3ee50602e89555e98171383389197abea62b95",
+      "viewHashes": {
+        "whole": "c691bc6f7ea9ecd8cb2d9dd4bc55f43c1a57502c5cad0ad3b166516ce73e6af4",
+        "detail": "8cb7787e066b9ccb842de1c29ead71d039a1758b7ac4d2800f7a953e046a40fa"
+      },
+      "sourceObjectCount": 75,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.0699999332427979,
+          0.0
+        ],
+        "max": [
+          1.8000001907348633,
+          0.4449999928474426,
+          0.7565799951553345
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-1a1de592a7ca33a8bf42699634bd6da3bad862786612db9cebeffb20bda96998",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-325-d3cbe5bc1ca3d43f4cd6d72867be6740eca282291fe454bea9c124da3c0cd023.json",
+        "fileSha256": "c7e1132609f4140d34aceeb31d28f24b2ffb57e34f07ebddae86cec8f88860d3",
+        "receiptContentSha256": "d3cbe5bc1ca3d43f4cd6d72867be6740eca282291fe454bea9c124da3c0cd023",
+        "sourceBlendSha256": "2fb73456a02d8f82454741875b3ee50602e89555e98171383389197abea62b95",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_and_wetland_balconies/LAG-325.png",
+      "approvedSourceImageSha256": "dd73a4e969ee088a1ba8d3c1a8a1e735d056f7546635b74575fe577b580fce3c"
+    },
+    {
+      "id": "LAG-313",
+      "label": "Lasimorpha",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "08a1381247cb140aa9079a3a12f1eef40164d144aaed70cb20efccbdede48ed9",
+      "viewHashes": {
+        "whole": "90a2da15e6c57eb3a159f28f2f809f439ac18277a8da5c3adbdf9c7efdd5e9dc",
+        "detail": "ff902a860042a784d1a673f4334ffbea5302feb0561af5e14f18065b937614a0"
+      },
+      "sourceObjectCount": 64,
+      "materialCount": 17,
+      "fitBounds": {
+        "min": [
+          -1.4000000953674316,
+          -1.2219698429107666,
+          0.0
+        ],
+        "max": [
+          1.4000000953674316,
+          0.9419698715209961,
+          2.8667662143707275
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-9007c982b304245f2c0e1563ae34f28ef313bc0c582b51a02f336f34bd6a7983",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-313-31355908e80b6038284fa6fc7ffc9334cdd2ebe559032ff473b5505e49160e0a.json",
+        "fileSha256": "6f10c96e74a7df4c07c90b9f0d2942c7bff7e0b5af331ce95032b5ca947653bb",
+        "receiptContentSha256": "31355908e80b6038284fa6fc7ffc9334cdd2ebe559032ff473b5505e49160e0a",
+        "sourceBlendSha256": "08a1381247cb140aa9079a3a12f1eef40164d144aaed70cb20efccbdede48ed9",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_and_wetland_balconies/LAG-313.png",
+      "approvedSourceImageSha256": "aad21161bdf935b193c0d606fab39b928f17505e587d41f25ad9e796f9f8f787"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

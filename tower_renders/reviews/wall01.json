@@ -1,0 +1,70 @@
+{
+  "batch": 1,
+  "ids": [
+    "LAG-497"
+  ],
+  "sourceReportHashes": {
+    "LAG-497": "113988b6719aef15e021c489314c67ea56cd19800f752e14f016c41447672cc8"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Developed pennywort looping runners and small rounded leaf clusters match approved source crop.",
+      "White/grey native growing layer is visible without dark rectangular grid artefacts. Railings and balconies remain visible; full tower framing includes top and base.",
+      "Tower detail is more shaded than approved isolated source; no recolouring is inferred from lighting differences."
+    ],
+    "independentPixelProof": "tmp/native_batch_reviews/LAG-497-wall-exr.json",
+    "proofScope": "Both whole/detail EXRs independently decoded and masks, counts, clipped pixels, unchanged linear pixels and mask hashes recomputed. Final PNG hashes/dimensions checked separately; display colour transform not independently recomputed.",
+    "constructionCaveat": "Original recessed growing layer attachment still needs construction coordination; image visibility correction does not resolve it."
+  },
+  "reviewedUtc": "2026-11-15T14:27:17.257518+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall01_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-497",
+      "label": "Indian pennywort",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "e9e09b0bbcb6354313037ba2b6479b1fa6bc2575afbf19a6eadcbb3f8ea39485",
+      "viewHashes": {
+        "whole": "6e235f283ff78c6603890eb7fd7e7038cee45fefc04c1d47f41b6142ddb93388",
+        "detail": "70789e7bed3859cdef7ca849ca1fb6aadd54960126c20289c8b5baf8270584d6"
+      },
+      "sourceObjectCount": 25,
+      "materialCount": 7,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.4074567556381226,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-8727c32dfefcb3232e1e056c6e1402b4f134133bbc7269a6c598fb87e740228d",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-497-86b25f2d4aba0279247d8238e1e05d2d115b41af3ef3036e7149f0fc36acc130.json",
+        "fileSha256": "e77c9bed071a00327ff83b6a2e31926ed10465bd8886accb346f7f8b911a245f",
+        "receiptContentSha256": "86b25f2d4aba0279247d8238e1e05d2d115b41af3ef3036e7149f0fc36acc130",
+        "sourceBlendSha256": "e9e09b0bbcb6354313037ba2b6479b1fa6bc2575afbf19a6eadcbb3f8ea39485",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-497.png",
+      "approvedSourceImageSha256": "c12ad4b0acec2d14fa550b00b199c19830a94218b675f20966e277b829a6dd31"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

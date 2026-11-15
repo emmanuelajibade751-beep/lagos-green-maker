@@ -1,0 +1,67 @@
+{
+  "batch": 3,
+  "ids": [
+    "LAG-260"
+  ],
+  "sourceReportHashes": {
+    "LAG-260": "143297c09475a0547e169eef3223e81098f78a9726671c694d328fe95ca6327c"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Sparse branching dayflower network and small leaves match approved source, including open white spaces.",
+      "Pale native medium retained, no dark coplanar rectangles; full tower and detail rails remain visible."
+    ],
+    "proofScope": "Source and both final PNG hashes, common cameras, 800 placements and diagnostics verified. Per-species EXRs not recomputed; LAG-497 provides representative independent mask recomputation."
+  },
+  "reviewedUtc": "2026-11-15T14:34:19.533902+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall03_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-260",
+      "label": "Spreading dayflower",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "4d31b4a3ed9f1bca132c2f785fd371381933c5ed114f08c5d204bd5fe16cd080",
+      "viewHashes": {
+        "whole": "27129374b7a8814ab6390a0c53feb4c9dce3bd3314bd95acbf7cfb95e6366a6a",
+        "detail": "9f1f7e549d3ede98e0ae9ffd0a6a3fc5dbce30844549aa45b6b1a74433c584a1"
+      },
+      "sourceObjectCount": 31,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.3891507387161255,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-dfa7dd7945773c1a046d5c1c8a625ff41afb50831b215e2ea987ad29a8f75f90",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-260-857104358dcd14f7f59d772548622b138670e33ad0ea457835b084022b212add.json",
+        "fileSha256": "f59daee452b16c5481f14d8f6697412886422263b475108a4c24840a85d732a1",
+        "receiptContentSha256": "857104358dcd14f7f59d772548622b138670e33ad0ea457835b084022b212add",
+        "sourceBlendSha256": "4d31b4a3ed9f1bca132c2f785fd371381933c5ed114f08c5d204bd5fe16cd080",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-260.png",
+      "approvedSourceImageSha256": "023356f62eff1699fa0ee6f12bf0eb651702c51875912230eb504ea0a7bfd653"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

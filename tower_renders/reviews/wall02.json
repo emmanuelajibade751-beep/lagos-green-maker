@@ -1,0 +1,68 @@
+{
+  "batch": 2,
+  "ids": [
+    "LAG-479"
+  ],
+  "sourceReportHashes": {
+    "LAG-479": "803fb991a95aee25f5256ba795a552ca870d799fae77eddf2f9acb788d5a1d3f"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Dense bay-bean foliage and the two horizontal banks of three clumps match the approved developed source.",
+      "Small pale gaps across middle and lower foliage are source features, not missing layers. Native pale growing medium and balcony rails remain visible.",
+      "Full tower framing and detail are coherent; no dark rectangle or blank plant panel observed."
+    ],
+    "proofScope": "Source/render hashes and all per-view diagnostics checked; EXRs not independently recomputed for this species. Representative independent EXR proof exists for LAG-497."
+  },
+  "reviewedUtc": "2026-11-15T14:29:02.283032+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall02_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-479",
+      "label": "Bay bean",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "4be0ccbb4b82afc8b316938dccdfdb8577e4deb35e45c86a9c4cbdccaf33f48b",
+      "viewHashes": {
+        "whole": "35fae35a247b8f48755d1df31c453ddbbc79fb00c6305df7643bcaf96c88b40f",
+        "detail": "fd245247aa35d30f726794be9c077177844b7ee1e110fc927fd0ff75dffaa865"
+      },
+      "sourceObjectCount": 31,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.3073217868804932,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7999999523162842,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-430655e74d58a730e72a0c542cbacb851be4f728cbead1c4ce6f221d4c19a477",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-479-1f8851037eada3820bf5b7a9a20fce0802d93f4a0996e67d4bbf7acc410252e2.json",
+        "fileSha256": "a55f8f0b93ad95f2dc43cfcf5c9c8f39f4e54ac2754488309058eb848bd3fd92",
+        "receiptContentSha256": "1f8851037eada3820bf5b7a9a20fce0802d93f4a0996e67d4bbf7acc410252e2",
+        "sourceBlendSha256": "4be0ccbb4b82afc8b316938dccdfdb8577e4deb35e45c86a9c4cbdccaf33f48b",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-479.png",
+      "approvedSourceImageSha256": "9f4ea93ac1bdb00a6bb2659e7f2d4aa0070c658c60ca239a6ee86c13f9eeccbc"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

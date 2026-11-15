@@ -1,0 +1,126 @@
+{
+  "id": "LAG-253",
+  "presentationSignature": "4b51a2df922b2bd0492d9217d7ffc3825f74bf6fd4adcc1bfceed1693a866d37",
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/butterfly_pea_balcony_01/Butterfly_Pea_Three_Stages.blend",
+  "sourceSha256": "d13e247bd0ec0e7a3a1080a6be72f28223a004bbe41adb0b70834aca046d2bd1",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 40,
+  "sourceObjectBounds": {
+    "min": [
+      -0.7225747108459473,
+      -1.0399999618530273,
+      0.0
+    ],
+    "max": [
+      0.7617740631103516,
+      -0.23249387741088867,
+      2.7125000953674316
+    ]
+  },
+  "materialCount": 15,
+  "materialObjectFingerprint": "7d23efee6aa8e2e22eddfa46e6303b9e4d055f2b4794060e46608ac1a9f7987e",
+  "sourceObjects": [
+    "Open vessel | proposed shell.003",
+    "Rootable substrate.003",
+    "Filter fabric | soil and drain separator.004",
+    "Protection layer | above planter base.004",
+    "Open drainage channel spacer.028",
+    "Open drainage channel spacer.029",
+    "Open drainage channel spacer.030",
+    "Open drainage channel spacer.031",
+    "Open drainage channel spacer.032",
+    "Open drainage channel spacer.033",
+    "Open drainage channel spacer.034",
+    "Open drainage channel spacer.035",
+    "Open drainage channel spacer.036",
+    "Gravity drainage outlet | continuous hollow elbow.004",
+    "Gravity drainage outlet | flange.007",
+    "Gravity drainage outlet | flange.008",
+    "Freeboard overflow | continuous hollow elbow.004",
+    "Freeboard overflow | flange.007",
+    "Freeboard overflow | flange.008",
+    "Planter foot.008",
+    "Planter foot.009",
+    "Planter foot.010",
+    "Planter foot.011",
+    "Upright.004",
+    "Upright.005",
+    "Horizontal rail.014",
+    "Horizontal rail.015",
+    "Horizontal rail.016",
+    "Horizontal rail.017",
+    "Horizontal rail.018",
+    "Horizontal rail.019",
+    "Horizontal rail.020",
+    "Vertical wire.008",
+    "Vertical wire.009",
+    "Vertical wire.010",
+    "Vertical wire.011",
+    "LAG-253 | attached axes and pedicels.005",
+    "Individual blade meshes.006",
+    "Connecting petioles.002",
+    "pea blue.003"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-253-whole.png",
+      "sha256": "3c62d9fa6537f2f42699a05bd88439adf4d1eef6758b43280231b1cf6ea78ae7",
+      "seconds": 18.63,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-253-detail.png",
+      "sha256": "e2502f945e26b6de79d33f25fcad54d2efb3c01f5d577cc16b60a735fd38d786",
+      "seconds": 25.79,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 46.32
+}

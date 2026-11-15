@@ -1,0 +1,9 @@
+{
+  "verified_cases": 33,
+  "scope": "800 vertical wall slots; roof excluded. Individual stage/voxel entries remain primary.",
+  "solar_snapshot_sha256": "fb4e1077b8e146f0c4c70a15f8f2323bb58e5b83a36b71eb8e5d2adac19b1ffc",
+  "file_sha256": {
+    "Full_Wall_Solar_Comparison.png": "b439f8cae6d305c8ea4fc9b6437995188a3b5006e738aba850cb42f6d6a4ab75",
+    "full_wall_stage_comparison.csv": "72f6ac222902e2af93939833b795e159dacd19e0603ae726de6613efc0cda0fe"
+  }
+}

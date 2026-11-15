@@ -1,0 +1,75 @@
+{
+  "source_sha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "source_hash_matches": true,
+  "units": "m",
+  "voxel_count": 1600,
+  "context_buildings": 64,
+  "site_solids": 93,
+  "balcony_occurrences": 384,
+  "parts_per_balcony": 15,
+  "all_source_objects_accounted_for": true,
+  "box_geometry_verified": true,
+  "all_5760_transformed_part_bounds_match": true,
+  "all_instance_transforms_match_rhino": true,
+  "source_render_material_count": 0,
+  "source_display_colors_preserved": true,
+  "custom_shader_unrepresentable": false,
+  "unique_display_colors": [
+    "#556266",
+    "#5f533c",
+    "#c1c7cc",
+    "#d9dcdb",
+    "#dcdfdd",
+    "#e0dfd4",
+    "#f7f7f4",
+    "#f8f8f5",
+    "#fafaf7"
+  ],
+  "south_sample": {
+    "id": "BAL_S_L01_B01",
+    "guid": "997b1aae-2c02-4d6d-965f-798138961e8a",
+    "transform": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        6.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        -1.5
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        4.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "entryVoxel": "2b",
+    "belowVoxel": "2a",
+    "face": "S",
+    "bay": 2,
+    "level": 1,
+    "anchor": [
+      6.0,
+      0.0,
+      4.0
+    ]
+  },
+  "host_js_bytes": 1021665,
+  "limitations": [
+    "Schematic neighbourhood, not surveyed site",
+    "Model north is assumed",
+    "Source contains no planting",
+    "Saved display colors are exact; browser lighting is not Rhino viewport lighting"
+  ]
+}

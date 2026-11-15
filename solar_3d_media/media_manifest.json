@@ -1,0 +1,133 @@
+{
+  "numerical_index": {
+    "path": "outputs/solar_approved_balcony_studies/green_maker_solar_index.json",
+    "sha256": "fb4e1077b8e146f0c4c70a15f8f2323bb58e5b83a36b71eb8e5d2adac19b1ffc"
+  },
+  "comparison_sheets": {
+    "SE": {
+      "path": "outputs/solar_approved_balcony_studies/planted_irradiation_views/Planted_Irradiation_SE.png",
+      "sha256": "e329c7bde935493be578bd051e5069b64a59dfcfe20b200c5d243894f0d87462"
+    },
+    "NW": {
+      "path": "outputs/solar_approved_balcony_studies/planted_irradiation_views/Planted_Irradiation_NW.png",
+      "sha256": "41cff098af560c25842eb818263b501bab9a78fdfd2739791c8642a8e6ef1cb3"
+    }
+  },
+  "stage": "developed",
+  "units": "kWh/m^2/year",
+  "receiver_faces_per_case": 864,
+  "scale": [
+    0,
+    1800
+  ],
+  "studies": {
+    "LAG-983": {
+      "render_receipt": {
+        "path": "outputs/solar_approved_balcony_studies/planted_irradiation_views/LAG-983-render_receipt.json",
+        "sha256": "a5400a99fa8eebc9b5fee96fafb6f6f8718335a2d6f1ec9e9308a5d9af814560"
+      },
+      "analytical_assembly": {
+        "path": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-983-4702e90d6b08451747856094f21d21a3a4a75d1b37e3a1def8a472cb08c6a54d.json",
+        "sha256": "e3ed955ed478b97830aaf597e7ee9a9372b8accef43d8d57ebc5fcb3b4c51586"
+      },
+      "face_values": {
+        "path": "outputs/solar_approved_balcony_studies/plant_modeller_matched/LAG-983-two-rows/developed/voxel_face_exposure.csv",
+        "sha256": "ea08b86e8652e95be0a2ca8dcdcf9909dbbf7c1dcb9919ae9f921357fa25c715"
+      },
+      "join_columns": [
+        "voxel",
+        "face"
+      ],
+      "metric": "study_kwh_m2",
+      "placement_count": 384,
+      "minimum": 144.5919383,
+      "maximum": 1796.1244855,
+      "cameras": {
+        "SE": {
+          "path": "LAG-983-SE.png",
+          "sha256": "e864a2574d463d87a1baedb77874726cbe7c44b4db5e49550d7939c5d0a3df8b",
+          "camera": [
+            170,
+            -220,
+            165
+          ],
+          "target": [
+            16,
+            16,
+            45
+          ],
+          "ortho_scale": 141
+        },
+        "NW": {
+          "path": "LAG-983-NW.png",
+          "sha256": "c9135dfd32a88b1e7d0b4d13ca877b4b329fed3f243745aac45d8a6ae55cde3d",
+          "camera": [
+            -138,
+            252,
+            165
+          ],
+          "target": [
+            16,
+            16,
+            45
+          ],
+          "ortho_scale": 141
+        }
+      }
+    },
+    "LAG-497": {
+      "render_receipt": {
+        "path": "outputs/solar_approved_balcony_studies/planted_irradiation_views/LAG-497-render_receipt.json",
+        "sha256": "fa22111893fa0982d91216a8c2b0ef224e864d623e5b207e456e20d49fbb84b6"
+      },
+      "analytical_assembly": {
+        "path": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-497-86b25f2d4aba0279247d8238e1e05d2d115b41af3ef3036e7149f0fc36acc130.json",
+        "sha256": "e77c9bed071a00327ff83b6a2e31926ed10465bd8886accb346f7f8b911a245f"
+      },
+      "face_values": {
+        "path": "outputs/solar_approved_balcony_studies/plant_modeller_matched/LAG-497/developed/voxel_face_exposure.csv",
+        "sha256": "852a8c6b0cd0ea7f89a1841688b81f09970aa41e42a82562546f0cd24d764857"
+      },
+      "join_columns": [
+        "voxel",
+        "face"
+      ],
+      "metric": "study_kwh_m2",
+      "placement_count": 800,
+      "minimum": 119.9165845,
+      "maximum": 1796.1244855,
+      "cameras": {
+        "SE": {
+          "path": "LAG-497-SE.png",
+          "sha256": "ae481fbd2e8109f3e44d9ecc0b555b0be4a6caddc898b0540bba9040510f261c",
+          "camera": [
+            170,
+            -220,
+            165
+          ],
+          "target": [
+            16,
+            16,
+            45
+          ],
+          "ortho_scale": 141
+        },
+        "NW": {
+          "path": "LAG-497-NW.png",
+          "sha256": "b15a8cada033f4b94106f458c677b2784ec57c98f4bb8fc80b86733739e48341",
+          "camera": [
+            -138,
+            252,
+            165
+          ],
+          "target": [
+            16,
+            16,
+            45
+          ],
+          "ortho_scale": 141
+        }
+      }
+    }
+  }
+}

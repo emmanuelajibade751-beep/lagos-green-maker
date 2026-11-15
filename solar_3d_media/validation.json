@@ -1,0 +1,21 @@
+{
+  "media_manifest_sha256": "519052df8140b67093abfd239458ed11703bf2777003eee160368defd748bbd9",
+  "numerical_index_sha256": "fb4e1077b8e146f0c4c70a15f8f2323bb58e5b83a36b71eb8e5d2adac19b1ffc",
+  "verified_face_values": {
+    "LAG-983": 864,
+    "LAG-497": 864
+  },
+  "copied_file_hashes": {
+    "media_manifest.json": "519052df8140b67093abfd239458ed11703bf2777003eee160368defd748bbd9",
+    "LAG-983-face-values.csv": "ea08b86e8652e95be0a2ca8dcdcf9909dbbf7c1dcb9919ae9f921357fa25c715",
+    "LAG-983-render_receipt.json": "a5400a99fa8eebc9b5fee96fafb6f6f8718335a2d6f1ec9e9308a5d9af814560",
+    "LAG-983-SE.png": "e864a2574d463d87a1baedb77874726cbe7c44b4db5e49550d7939c5d0a3df8b",
+    "LAG-983-NW.png": "c9135dfd32a88b1e7d0b4d13ca877b4b329fed3f243745aac45d8a6ae55cde3d",
+    "LAG-497-face-values.csv": "852a8c6b0cd0ea7f89a1841688b81f09970aa41e42a82562546f0cd24d764857",
+    "LAG-497-render_receipt.json": "fa22111893fa0982d91216a8c2b0ef224e864d623e5b207e456e20d49fbb84b6",
+    "LAG-497-SE.png": "ae481fbd2e8109f3e44d9ecc0b555b0be4a6caddc898b0540bba9040510f261c",
+    "LAG-497-NW.png": "b15a8cada033f4b94106f458c677b2784ec57c98f4bb8fc80b86733739e48341",
+    "Planted_Irradiation_SE.png": "e329c7bde935493be578bd051e5069b64a59dfcfe20b200c5d243894f0d87462",
+    "Planted_Irradiation_NW.png": "41cff098af560c25842eb818263b501bab9a78fdfd2739791c8642a8e6ef1cb3"
+  }
+}

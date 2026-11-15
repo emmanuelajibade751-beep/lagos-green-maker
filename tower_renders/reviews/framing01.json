@@ -1,0 +1,117 @@
+{
+  "batch": 1,
+  "ids": [
+    "LAG-076",
+    "LAG-082"
+  ],
+  "sourceReportHashes": {
+    "LAG-076": "19e369dbf4de09fd47fe103199325074ab71b8dba5a96be37766c740310c7a4e",
+    "LAG-082": "d943d88724ef1280babb5b20c3f2b4d8df519bf2b923c12df59c88d04328da67"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "findings": [
+      "Both revised whole views include complete top crowns, full tower base and surrounding context within frame; no visible top or side crop.",
+      "Delonix retains spreading fine foliage, branching trunks, red flowers and native circular pots. Oil palm retains long arching fronds, tall trunk and native circular pots.",
+      "Both detail PNG hashes exactly match pre-rerender files; sources unchanged. Detail frame remains an assembly close-up and intentionally cannot show an entire large tree.",
+      "Large source trees visibly cross multiple floor and bay envelopes. This is a faithful source-scale comparison, not an approved constructible arrangement."
+    ],
+    "wholeFrame": "Approved tall13 camera [170,-220,157], target [16,16,58], ortho170",
+    "unchangedDetailVerified": true
+  },
+  "reviewedUtc": "2026-11-15T15:14:40.300767+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\framing01_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-076",
+      "label": "Flamboyant",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "80a86e1cd2cbd776bd5e4bf7438910d7e214768e6f9af85964a8f486cffa6003",
+      "viewHashes": {
+        "whole": "8daa26ada3ad47af71b7caeddf84c050d6bf482081793aecbca8a86d07520101",
+        "detail": "4498610b25a248464be76baf6d4ac81afeb74507b884faf39c9cb24bdf1a02da"
+      },
+      "sourceObjectCount": 7,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -6.61069917678833,
+          -6.263981819152832,
+          0.0
+        ],
+        "max": [
+          6.242237091064453,
+          6.014550685882568,
+          13.580695152282715
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-5f36c5d6814bede5289a26954f1763fb85cae708a066461e8cd4e1305240b4c2",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-076-25806d401e3055d74747568b78a4b52dc503046f8658861ca102154152dd0168.json",
+        "fileSha256": "3efea296051753b15f9ca65770f884178e4d948beb1179d8e1294dd60b31f875",
+        "receiptContentSha256": "25806d401e3055d74747568b78a4b52dc503046f8658861ca102154152dd0168",
+        "sourceBlendSha256": "80a86e1cd2cbd776bd5e4bf7438910d7e214768e6f9af85964a8f486cffa6003",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-076.png",
+      "approvedSourceImageSha256": "15896698301b030d93e49f65802ab1b0c650c0c2c07ace96b36e3eeadec915ab"
+    },
+    {
+      "id": "LAG-082",
+      "label": "African oil palm",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "73d882ca4ccb84214c1c3a0042e82b1a3b36ed7488226edb4bcf97752caa688c",
+      "viewHashes": {
+        "whole": "edb6ab12f6b6c56dec041e9eb68c08ee5709e1dede0159fbb1b357e5a0c02490",
+        "detail": "d17a04b7ad087b3aedbd19066336708dbf0ca00a0294c4b2b038875383eac701"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -5.056397914886475,
+          -4.775705814361572,
+          0.0
+        ],
+        "max": [
+          4.763404846191406,
+          4.848934650421143,
+          15.919909477233887
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-209d302a003c1d7bbb0a15e77f8330ea215ba7404ce03e9c8c1673f27003ab9d",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-082-ddc4af1cad82786eab7a6ba56a503aeda1627fd80f1e40b7c09447aafa9f27e1.json",
+        "fileSha256": "1061b711f222b7904ad7a4aff99202be06ffc4abb46a7cc82dac3b5abcaf2ba0",
+        "receiptContentSha256": "ddc4af1cad82786eab7a6ba56a503aeda1627fd80f1e40b7c09447aafa9f27e1",
+        "sourceBlendSha256": "73d882ca4ccb84214c1c3a0042e82b1a3b36ed7488226edb4bcf97752caa688c",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/palms_04_balcony_review/LAG-082.png",
+      "approvedSourceImageSha256": "1fad0572d2abf872507c73c22915a0b5ac6572e9d7af0275aea9c300e6068a19"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "scope": "Independent single balcony test. Native source, object membership and origin matched. Whole-tower placements are not used by the local zones.",
+  "stage_matches": [
+    {
+      "plant_id": "LAG-983",
+      "stage": "establishment",
+      "object_count": 339,
+      "source_sha256": "8a591a34b0f814bfd0eeaea7a497c1b3bcea0b6e94e7e668d55fcfcd67b54538",
+      "source_origin": [
+        -4.849999904632568,
+        0.0,
+        0.0
+      ],
+      "exact_native_source_object_membership_verified": true,
+      "immutable_assembly_receipt": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-983-4702e90d6b08451747856094f21d21a3a4a75d1b37e3a1def8a472cb08c6a54d.json",
+      "immutable_assembly_receipt_sha256": "e3ed955ed478b97830aaf597e7ee9a9372b8accef43d8d57ebc5fcb3b4c51586",
+      "assembly_id": "lgm-assembly-498e63e4b0f6ad7146001396edd2c564ab6c7255bfbe4149354da465f242f9db",
+      "stage_selection_sha256": "5fbb9233e199cf0b5201008abea48f2797cab7f2fc476a6048dfd6eabdef522e"
+    },
+    {
+      "plant_id": "LAG-983",
+      "stage": "intermediate",
+      "object_count": 339,
+      "source_sha256": "8a591a34b0f814bfd0eeaea7a497c1b3bcea0b6e94e7e668d55fcfcd67b54538",
+      "source_origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_native_source_object_membership_verified": true,
+      "immutable_assembly_receipt": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-983-4702e90d6b08451747856094f21d21a3a4a75d1b37e3a1def8a472cb08c6a54d.json",
+      "immutable_assembly_receipt_sha256": "e3ed955ed478b97830aaf597e7ee9a9372b8accef43d8d57ebc5fcb3b4c51586",
+      "assembly_id": "lgm-assembly-498e63e4b0f6ad7146001396edd2c564ab6c7255bfbe4149354da465f242f9db",
+      "stage_selection_sha256": "ede45a4f0de48b0f0636f1f7ef7502f38b9411f8ddc74e332f27bcde35a5abb6"
+    },
+    {
+      "plant_id": "LAG-983",
+      "stage": "developed",
+      "object_count": 339,
+      "source_sha256": "8a591a34b0f814bfd0eeaea7a497c1b3bcea0b6e94e7e668d55fcfcd67b54538",
+      "source_origin": [
+        4.849999904632568,
+        0.0,
+        0.0
+      ],
+      "exact_native_source_object_membership_verified": true,
+      "immutable_assembly_receipt": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-983-4702e90d6b08451747856094f21d21a3a4a75d1b37e3a1def8a472cb08c6a54d.json",
+      "immutable_assembly_receipt_sha256": "e3ed955ed478b97830aaf597e7ee9a9372b8accef43d8d57ebc5fcb3b4c51586",
+      "assembly_id": "lgm-assembly-498e63e4b0f6ad7146001396edd2c564ab6c7255bfbe4149354da465f242f9db",
+      "stage_selection_sha256": "78b62358c13b0ac173b9e2af999bb6746018783b22c35e64c25a43d4645f69cc"
+    },
+    {
+      "plant_id": "LAG-497",
+      "stage": "establishment",
+      "object_count": 25,
+      "source_sha256": "e9e09b0bbcb6354313037ba2b6479b1fa6bc2575afbf19a6eadcbb3f8ea39485",
+      "source_origin": [
+        -4.849999904632568,
+        0.0,
+        0.0
+      ],
+      "exact_native_source_object_membership_verified": true,
+      "immutable_assembly_receipt": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-497-86b25f2d4aba0279247d8238e1e05d2d115b41af3ef3036e7149f0fc36acc130.json",
+      "immutable_assembly_receipt_sha256": "e77c9bed071a00327ff83b6a2e31926ed10465bd8886accb346f7f8b911a245f",
+      "assembly_id": "lgm-assembly-8727c32dfefcb3232e1e056c6e1402b4f134133bbc7269a6c598fb87e740228d",
+      "stage_selection_sha256": "ddea99c2d23841af5f989a155063be8d2bda84ac3c0e98b0c1c425eede183d2a"
+    },
+    {
+      "plant_id": "LAG-497",
+      "stage": "intermediate",
+      "object_count": 31,
+      "source_sha256": "e9e09b0bbcb6354313037ba2b6479b1fa6bc2575afbf19a6eadcbb3f8ea39485",
+      "source_origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_native_source_object_membership_verified": true,
+      "immutable_assembly_receipt": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-497-86b25f2d4aba0279247d8238e1e05d2d115b41af3ef3036e7149f0fc36acc130.json",
+      "immutable_assembly_receipt_sha256": "e77c9bed071a00327ff83b6a2e31926ed10465bd8886accb346f7f8b911a245f",
+      "assembly_id": "lgm-assembly-8727c32dfefcb3232e1e056c6e1402b4f134133bbc7269a6c598fb87e740228d",
+      "stage_selection_sha256": "776dd732ce57668185aa11bb38e77b09a470c58871da2ca17a97f64045aa3200"
+    },
+    {
+      "plant_id": "LAG-497",
+      "stage": "developed",
+      "object_count": 25,
+      "source_sha256": "e9e09b0bbcb6354313037ba2b6479b1fa6bc2575afbf19a6eadcbb3f8ea39485",
+      "source_origin": [
+        4.849999904632568,
+        0.0,
+        0.0
+      ],
+      "exact_native_source_object_membership_verified": true,
+      "immutable_assembly_receipt": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-497-86b25f2d4aba0279247d8238e1e05d2d115b41af3ef3036e7149f0fc36acc130.json",
+      "immutable_assembly_receipt_sha256": "e77c9bed071a00327ff83b6a2e31926ed10465bd8886accb346f7f8b911a245f",
+      "assembly_id": "lgm-assembly-8727c32dfefcb3232e1e056c6e1402b4f134133bbc7269a6c598fb87e740228d",
+      "stage_selection_sha256": "041f17065124a147d46703edde4702c741a48681a60a93d23aaf6dd9e73743c5"
+    }
+  ]
+}

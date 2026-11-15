@@ -1,0 +1,74 @@
+{
+  "plant": "LAG-497",
+  "stage": "developed",
+  "units": "kWh/m\u00b2/year",
+  "values": "incident irradiation, mean of four sensors on each exposed voxel face",
+  "exposed_faces": 864,
+  "occurrences": 800,
+  "assembly_sha256": "e77c9bed071a00327ff83b6a2e31926ed10465bd8886accb346f7f8b911a245f",
+  "source_sha256": "e9e09b0bbcb6354313037ba2b6479b1fa6bc2575afbf19a6eadcbb3f8ea39485",
+  "host_sha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "face_data_sha256": "852a8c6b0cd0ea7f89a1841688b81f09970aa41e42a82562546f0cd24d764857",
+  "colour_scale": [
+    [
+      0,
+      "#193784"
+    ],
+    [
+      300,
+      "#287eb8"
+    ],
+    [
+      600,
+      "#61b8d0"
+    ],
+    [
+      900,
+      "#d7e58b"
+    ],
+    [
+      1200,
+      "#f7ce4e"
+    ],
+    [
+      1500,
+      "#ef7432"
+    ],
+    [
+      1800,
+      "#b81727"
+    ]
+  ],
+  "images": {
+    "SE": {
+      "path": "LAG-497-SE.png",
+      "sha256": "ae481fbd2e8109f3e44d9ecc0b555b0be4a6caddc898b0540bba9040510f261c",
+      "camera": [
+        170,
+        -220,
+        165
+      ],
+      "target": [
+        16,
+        16,
+        45
+      ],
+      "ortho_scale": 141
+    },
+    "NW": {
+      "path": "LAG-497-NW.png",
+      "sha256": "b15a8cada033f4b94106f458c677b2784ec57c98f4bb8fc80b86733739e48341",
+      "camera": [
+        -138,
+        252,
+        165
+      ],
+      "target": [
+        16,
+        16,
+        45
+      ],
+      "ortho_scale": 141
+    }
+  }
+}

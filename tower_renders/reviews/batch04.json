@@ -1,0 +1,432 @@
+{
+  "batch": 4,
+  "ids": [
+    "LAG-324",
+    "LAG-227",
+    "LAG-245",
+    "LAG-320",
+    "LAG-337",
+    "LAG-241",
+    "LAG-400",
+    "LAG-430",
+    "LAG-243",
+    "LAG-554"
+  ],
+  "sourceReportHashes": {
+    "LAG-324": "d0e9145e76eee451021e4ad64965a9ed6278ece145adafc88e941072d4d97a8a",
+    "LAG-227": "3729f7eca0c3b4d94133c746f0f1bc5738939be758e7f4aa80d239e3793df2fe",
+    "LAG-245": "a626f98d4a87f0a3cd87c1e3cdc8f696e57f813b98a45db5d8cae702f5023dfb",
+    "LAG-320": "04db5e3d2d0a261f5cd8166429b9f9916e05a97be710a528656fe355e3bfcd8f",
+    "LAG-337": "373285922a70e28c0dc6a28e692088255097c002579690a29d38ea603b54dda1",
+    "LAG-241": "456245226c690e8062fc072d303aa37857cbfb5e461c2aaa0a79325d86db9bb3",
+    "LAG-400": "9e1ab41972027aebfc8b282d57903293ebdd587da82cdec3a3b64cdbed9a08b2",
+    "LAG-430": "d81e5ec3582f5b7da0ca873c196f7ec3b4b2044c9bff27db1b8148450dfec518",
+    "LAG-243": "c7d7439c9a9923f2a2f44fac152a69b9065ef917b3ee39aff70afce5a5c787d1",
+    "LAG-554": "e7712d590ebab2ff90ea47c100670592ea8d97fa7b8e28797064d842f3bde093"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "findings": [
+      "All10 whole/detail pairs retain approved developed-stage plant distribution and native holders. No blank panel or absent container observed.",
+      "324 retains three arching fine-frond ferns in one trough;227 retains larger separated leaflets and blue-grey growing surface.",
+      "245 retains eight compact crowns across two troughs;320 retains two fine fern rows and steel supports.",
+      "337 retains four pale staghorn plants on the wood-coloured mounted panel; its subtle foliage is present in approved source too.",
+      "241 retains broad leaves/red-orange flowers;400 retains lobed okra leaves;430 retains red stems/pink spikes.",
+      "243 retains sparse red-stemmed celosia and554 the fine green jute mallow habit. Two tiered holders remain visible."
+    ],
+    "limits": "Comparison establishes source feature retention at render resolution, not complete botanical anatomy or construction fit certification."
+  },
+  "reviewedUtc": "2026-11-15T15:03:14.177593+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\batch04_sheet1.jpg",
+    "tmp\\native_batch_reviews\\batch04_sheet2.jpg",
+    "tmp\\native_batch_reviews\\batch04_sheet3.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-324",
+      "label": "Giant sword fern",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "f553e59872bb0019e636571045f8f908631961acedeabc1b4011d8ce6ee07ffd",
+      "viewHashes": {
+        "whole": "1347e4d0afb4913c6e299b6c5181516cccd10cddb62c6ca8da22d237d5dd0363",
+        "detail": "b3526bd33d621ce28d369a7e3bd8af85cbb39d537557ca85afee5435480b9a2c"
+      },
+      "sourceObjectCount": 21,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -2.7378058433532715,
+          -1.5641517639160156,
+          0.0
+        ],
+        "max": [
+          2.1579394340515137,
+          2.1653857231140137,
+          2.2351837158203125
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-d249b843d20f1759a16df69140208424d43cd33d67de8f480da4984d375d8031",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-324-877ff3600c502f9101a838727950c54975cf0c805e0731e6d695051c7abcd59e.json",
+        "fileSha256": "574b1b8d14624591894bff14e5f16264c0ccab05944aa7f8b7165bebd4bd688a",
+        "receiptContentSha256": "877ff3600c502f9101a838727950c54975cf0c805e0731e6d695051c7abcd59e",
+        "sourceBlendSha256": "f553e59872bb0019e636571045f8f908631961acedeabc1b4011d8ce6ee07ffd",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/ferns_06_review_03/LAG-324.png",
+      "approvedSourceImageSha256": "d4afd2f6b6f6f2496f0b39ce36177e348ea5962c4bcc3a965fa1c83d2a670f6b"
+    },
+    {
+      "id": "LAG-227",
+      "label": "Golden leather fern",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "2ecf021e3fc863893a08be995a707cc5523b1d43fb89e0c85c4c13791b5a9558",
+      "viewHashes": {
+        "whole": "c6fd63fca353d61f3bdff77814691e69d345e40476f505f1b8d2c502f89c215a",
+        "detail": "d71cccfa58307d90637e40233cb07cc440db98e1febe169d04e86a2ac30748f2"
+      },
+      "sourceObjectCount": 25,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -2.38572096824646,
+          -1.42635977268219,
+          0.0
+        ],
+        "max": [
+          2.784508228302002,
+          2.079488515853882,
+          2.026426315307617
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-a49959875db126743c7d1c4ceec7a35d92b34df4accfaafbe786e9df6080eccf",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-227-1c629e04cdbeba71c328dbbfd3575c14d201b3a5278d74d86314829825a80d1f.json",
+        "fileSha256": "8702ac5a1c8e010188ae5164655d7a5d0c667c1f0d977fe2177a0285117f4578",
+        "receiptContentSha256": "1c629e04cdbeba71c328dbbfd3575c14d201b3a5278d74d86314829825a80d1f",
+        "sourceBlendSha256": "2ecf021e3fc863893a08be995a707cc5523b1d43fb89e0c85c4c13791b5a9558",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/ferns_06_review_03/LAG-227.png",
+      "approvedSourceImageSha256": "ee52d05cc858c83ced7a6d7ae4c141c8a498084b5773d1057cafa8eeb6600c57"
+    },
+    {
+      "id": "LAG-245",
+      "label": "Horn fern",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "5fa3bdc5adbf7c3f3cf2d6a6a5056c438dc423787bd42b5a210fe50d5252c8ff",
+      "viewHashes": {
+        "whole": "d57628c7afd86b6f93a323775c0c5c22a271920f89fab63693b5c2e721fca582",
+        "detail": "4d21ea52bc3541c1c709ddd36461cb1ec053292d535ac720943e7c2d089af3bd"
+      },
+      "sourceObjectCount": 156,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.0749999284744263,
+          -0.009999999776482582
+        ],
+        "max": [
+          1.799999713897705,
+          0.5125499963760376,
+          2.1594130992889404
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-2d9a2678e7e27348fd1aeaea0a16f55d1a0cdc360830d50aafe0fb08b93435fd",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-245-b3cfed89cdba10f4039c164548947754c3848be810b75e437126923554d8d238.json",
+        "fileSha256": "ec267c045bfe5db96c1cb751a2b19d5d9d20314c07c2642394e5e97ae5a5a497",
+        "receiptContentSha256": "b3cfed89cdba10f4039c164548947754c3848be810b75e437126923554d8d238",
+        "sourceBlendSha256": "5fa3bdc5adbf7c3f3cf2d6a6a5056c438dc423787bd42b5a210fe50d5252c8ff",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/ferns_06_review_03/LAG-245.png",
+      "approvedSourceImageSha256": "7b5ac5f0c3bf686ed2b70f1aa6524afdd8f06009175a2865d33b20b48405f54e"
+    },
+    {
+      "id": "LAG-320",
+      "label": "Wart fern",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "c7d1a74cc810c15e0ac24ad6feaeb27443436dcc772417bd80961ab066346ace",
+      "viewHashes": {
+        "whole": "9d86a2cd1c515260941c520156622c5b7940015a0b49c4c0e49877aa365dd5f0",
+        "detail": "964889698a33a29657aafbb7381125c098e5f7ca4e6fcc343cba526cb46cb0d0"
+      },
+      "sourceObjectCount": 170,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -2.0108540058135986,
+          -1.4120488166809082,
+          0.0
+        ],
+        "max": [
+          1.8568496704101562,
+          0.75,
+          1.5147864818572998
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-3ef4ea04ad516481de84af704beb2bbcce1818884932506c4b55b200926077e1",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-320-cafcf572cc06f758e6b26c2495785dd9f3fdc3bfff42859018f1255ec829d58d.json",
+        "fileSha256": "3768402dfc156e43705492bd5158abd6cb208e431e21209364f0044f1a5067c1",
+        "receiptContentSha256": "cafcf572cc06f758e6b26c2495785dd9f3fdc3bfff42859018f1255ec829d58d",
+        "sourceBlendSha256": "c7d1a74cc810c15e0ac24ad6feaeb27443436dcc772417bd80961ab066346ace",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/ferns_06_review_03/LAG-320.png",
+      "approvedSourceImageSha256": "95840ad94269f40280dc35841c9666c3c79c55e4d5f8eccbb13c41aaf38c810c"
+    },
+    {
+      "id": "LAG-337",
+      "label": "African staghorn fern",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "e7b0a00d8906465b7dee24810cb66afeb292cd4b62956d8c5aa7c17349231505",
+      "viewHashes": {
+        "whole": "0487fb7db259872ec652086093818e95526d597e8d7844c74a5408bf86c6847b",
+        "detail": "ab5b3bb11248aac043b1bb4e39cc7cdb2956b4f035722d2543c5caece326529f"
+      },
+      "sourceObjectCount": 77,
+      "materialCount": 17,
+      "fitBounds": {
+        "min": [
+          -2.0235002040863037,
+          -1.3899999856948853,
+          0.0
+        ],
+        "max": [
+          2.0234999656677246,
+          -0.8320000171661377,
+          1.1175000667572021
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-89aa7a3d92c691897920a83c45068a5406353e97cc17aea14244f50956ac61a7",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-337-099278ce5ad6cde8177dd2855395e63beb5ee22352d007a4187dad568f995860.json",
+        "fileSha256": "8ea51a2cce92a166935e62accd19d9c840c1ed9ab2aa70f935538d0d864a45bc",
+        "receiptContentSha256": "099278ce5ad6cde8177dd2855395e63beb5ee22352d007a4187dad568f995860",
+        "sourceBlendSha256": "e7b0a00d8906465b7dee24810cb66afeb292cd4b62956d8c5aa7c17349231505",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/ferns_06_review_03/LAG-337.png",
+      "approvedSourceImageSha256": "3013ac030dd7ddeda4652a2c5e9b10eeadf465e6069097ad488f629514077d31"
+    },
+    {
+      "id": "LAG-241",
+      "label": "Indian shot",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "7f5dd718febab2a593afc3a53b787f73266ddbf633ab455c2d6ddb22052e16b2",
+      "viewHashes": {
+        "whole": "faa7174d7d339bc3e6e568cca713827dec5f57850374fb65f4b7873d05a29252",
+        "detail": "73d3a521213fc0a6d1c3dc406e45d5ce59bda56220506b2e16ded62e5e589ceb"
+      },
+      "sourceObjectCount": 138,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -1.9435651302337646,
+          -1.1656787395477295,
+          0.0
+        ],
+        "max": [
+          1.9390792846679688,
+          1.3513939380645752,
+          2.3886830806732178
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-e2b50a9ef9e5791c173c77f6fec8d73919d5c6f73bcf58b18836ea16e21c2145",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-241-f8ec344564b2f0c292c88c4a6cb7c122eed7b446c1b78d37f55def5aee898626.json",
+        "fileSha256": "236008ed7e1e353b942e98061a3a4453c368df91cc84ba109697234a265a9381",
+        "receiptContentSha256": "f8ec344564b2f0c292c88c4a6cb7c122eed7b446c1b78d37f55def5aee898626",
+        "sourceBlendSha256": "7f5dd718febab2a593afc3a53b787f73266ddbf633ab455c2d6ddb22052e16b2",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-241.png",
+      "approvedSourceImageSha256": "9a37e7355acbbd524e1f06ec5c78a6b70c65ef789f59d656c5561ca5deb72702"
+    },
+    {
+      "id": "LAG-400",
+      "label": "Okra",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "076b409a0a29aa9084b9dada921a752e02c18750ddb49d0144178ade2174798f",
+      "viewHashes": {
+        "whole": "89addf99a55dabcf645f0e414a5c949d96848118952a38dc221559b7a526f73e",
+        "detail": "e1fd231643ad9b96b00ccacdfbd3dba1dc5cc20e90f28b96884e29eee5d5ef74"
+      },
+      "sourceObjectCount": 170,
+      "materialCount": 15,
+      "fitBounds": {
+        "min": [
+          -1.920485019683838,
+          -1.040000081062317,
+          0.0
+        ],
+        "max": [
+          1.9256877899169922,
+          1.1392836570739746,
+          2.6296563148498535
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-8f7d9800a78527e720b4a2a39ead76a0a7c9b8329fa50b789d84abb581336d57",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-400-cd922baab2a3d922df34a2f95ae03ff88f8e9e496383d3cbe40f1064666e1aa5.json",
+        "fileSha256": "5061a2ec79f4777f2c8c54cc8023d3bcb373d7c91524b9e9954eeb427c5e92f0",
+        "receiptContentSha256": "cd922baab2a3d922df34a2f95ae03ff88f8e9e496383d3cbe40f1064666e1aa5",
+        "sourceBlendSha256": "076b409a0a29aa9084b9dada921a752e02c18750ddb49d0144178ade2174798f",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-400.png",
+      "approvedSourceImageSha256": "e35ec0fba8b0cabc9a91ad99b5696bda2f5d4f20f7a5a826aa3b7b849b5d3ee4"
+    },
+    {
+      "id": "LAG-430",
+      "label": "Amaranth",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "9c7032de75060291ed18352209f53f1f49728b97e8d869e4bf547668b50ee09a",
+      "viewHashes": {
+        "whole": "75a6043d8aacb9cee6a8f4fa872e4eae0a1496963fe0a9e2522f876b19eb285a",
+        "detail": "43f84bc82813be0e5dd143467c44e6aa93928e0eb612b5a1b8ea156dbfb012d4"
+      },
+      "sourceObjectCount": 130,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9599997997283936,
+          -1.1428858041763306,
+          0.0
+        ],
+        "max": [
+          1.9600000381469727,
+          1.100000023841858,
+          2.4336929321289062
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-2aa8bbe8a63683e2c49e8c7ed624beeebfa191a7de99345a30f28cad78244d97",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-430-a5a024329f1f2b68aa9c31c34caa1ef2a9b420ae614db83cd4ccf5b80dc0a6ec.json",
+        "fileSha256": "f733cd3aba1b5018f715a45f5570485518e593cf5b5005c2f0961f88ec1fe6e7",
+        "receiptContentSha256": "a5a024329f1f2b68aa9c31c34caa1ef2a9b420ae614db83cd4ccf5b80dc0a6ec",
+        "sourceBlendSha256": "9c7032de75060291ed18352209f53f1f49728b97e8d869e4bf547668b50ee09a",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-430.png",
+      "approvedSourceImageSha256": "95dab4963b1b56c8e4fc3ec28e224ccbe2b891b601a6fbce2616288c9d1405f3"
+    },
+    {
+      "id": "LAG-243",
+      "label": "Celosia",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "a0527fa4a8198339f901604199c1c6809f7bb184dcad66ce8a97990a819cd3e1",
+      "viewHashes": {
+        "whole": "5503f21039df02c6e0904071b7fc47988a34b8455066c05e61c5deb87c9d6b00",
+        "detail": "8e0260f859e51e7483ba5d1728de1c87fe8b138afb6d3d52a5a109b59458b064"
+      },
+      "sourceObjectCount": 130,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9600000381469727,
+          -1.040000081062317,
+          0.0
+        ],
+        "max": [
+          1.9127755165100098,
+          1.1364372968673706,
+          2.366577625274658
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-df3ac9a0a0719f8c0fa39807c909ac6421325809db02f78935ca949d20da9411",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-243-0c2bea47a531cc386b2e94f2df509221a86b15b8524c99bb41b2c25f84550f61.json",
+        "fileSha256": "78ca57b4c76c7b23df8726b5531036852fd88523e26be1aa3adb4f8b498a7ef5",
+        "receiptContentSha256": "0c2bea47a531cc386b2e94f2df509221a86b15b8524c99bb41b2c25f84550f61",
+        "sourceBlendSha256": "a0527fa4a8198339f901604199c1c6809f7bb184dcad66ce8a97990a819cd3e1",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-243.png",
+      "approvedSourceImageSha256": "9a6bd803cf61cfe737be5c697e273092c02b558cd6c327e3c1f68651d3568fe9"
+    },
+    {
+      "id": "LAG-554",
+      "label": "Jute mallow",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "f59866ca20365db5729a6e87c3e4791325fe0e35dfcf79629e5329b56f647ac5",
+      "viewHashes": {
+        "whole": "010f0ca7c4ea992e9fc5ff769430ca5b04b1382cedc1961e0d649b094c936b7a",
+        "detail": "5cb74bc3a3fb506d1123452df573ec9a7f220b5d3f05197162ee375ab8b1adb5"
+      },
+      "sourceObjectCount": 130,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9599997997283936,
+          -1.1326885223388672,
+          0.0
+        ],
+        "max": [
+          1.908987045288086,
+          1.100000023841858,
+          2.510612964630127
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-210efc7f05ee295fe265eca664968ea20d35690c451639a202e3f1c231c5f5c8",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-554-b009d02238a766d68eb70135851b486a1108e503db0fac16180d0e2ab2e67726.json",
+        "fileSha256": "ee40f2c1185c2a3411db2c81192acf016e7159c9f79cee56ed2d11fdf1ce212c",
+        "receiptContentSha256": "b009d02238a766d68eb70135851b486a1108e503db0fac16180d0e2ab2e67726",
+        "sourceBlendSha256": "f59866ca20365db5729a6e87c3e4791325fe0e35dfcf79629e5329b56f647ac5",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-554.png",
+      "approvedSourceImageSha256": "1c0906bef296767a73b1243331db4b277e169aaf01de8c4955253e5d3ffebc8d"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "batch": 9,
+  "ids": [
+    "LAG-330"
+  ],
+  "sourceReportHashes": {
+    "LAG-330": "818194b32338cf0174410125b9e6f92cceed95e3445139740439e1c3c134bfc3"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Seashore paspalum continuous fine-bladed turf mat and pale surrounding medium match the approved native source.",
+      "Full-resolution detail confirms visible grass strands and natural edge rather than a replacement flat rectangle.",
+      "Tower grass is darker under tower lighting than isolated source render; original source/material fingerprints and ordinary foliage pixels remain unchanged. No extra coplanar patches observed."
+    ],
+    "independentPixelProof": "tmp/native_batch_reviews/LAG-330-wall-exr.json",
+    "proofScope": "Both whole/detail EXRs independently decoded: masks and hashes/counts reproduced, corrected ID exactly1, far-side clipping and unchanged noncorrected linear pixels confirmed. Final PNG hashes checked; display colour transform not independently reconstructed."
+  },
+  "reviewedUtc": "2026-11-15T14:47:40.826034+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall09_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-330",
+      "label": "Seashore paspalum",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "81d572c3690648d28a7e223a9f6b2e86becbe6f92803c24ac893c399eda4694d",
+      "viewHashes": {
+        "whole": "c411c24d00d43222a150027eaaf28b41b3dc4720ddd76dfd86f6149b51bef358",
+        "detail": "e83d8e6addf004add5f4dd97ab3635f8c40dd522510e7f4ec733fc79b1161f7c"
+      },
+      "sourceObjectCount": 25,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.4114741086959839,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-2459054ac0d74710a77dbde629723efdbb52594a4e9309cbb9ddd2fca0f5da82",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-330-362abe8a897fb7fad068afa062d9381b551c17e2a40682387521402157c21e4f.json",
+        "fileSha256": "44146c6cbec7a30bd726f2a0bb0c101d4d8ac36a161498fcb5f3334b9914542f",
+        "receiptContentSha256": "362abe8a897fb7fad068afa062d9381b551c17e2a40682387521402157c21e4f",
+        "sourceBlendSha256": "81d572c3690648d28a7e223a9f6b2e86becbe6f92803c24ac893c399eda4694d",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-330.png",
+      "approvedSourceImageSha256": "97e2b4d315e1748f8b594d15e5dc6b4b78fc40687e7fb74d8e787ee602220449"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

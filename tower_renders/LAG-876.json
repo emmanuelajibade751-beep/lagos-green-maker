@@ -1,0 +1,242 @@
+{
+  "id": "LAG-876",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-f251386c3f8bdee10051b376807af5e90ab81fe5859936216874bdc9198c2769",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-876-accc323c6f4afc8c92e0efe04a2a84cf29b2ab78d62dab0cf64048c2cf7f983f.json",
+    "fileSha256": "ef3a02946f014868d31a620a872e394008a5fddbc8465dd569d1ed1df5d79f57",
+    "receiptContentSha256": "accc323c6f4afc8c92e0efe04a2a84cf29b2ab78d62dab0cf64048c2cf7f983f",
+    "sourceBlendSha256": "41574ec83d66eff5132985b639a31c5c8a6a62ace9bf48ddbe3680899c251150",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2cb2b04177a80cfbe79cfddd3142871a64e233e6394386041e21e7e4b7750266",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-876.blend",
+  "sourceSha256": "41574ec83d66eff5132985b639a31c5c8a6a62ace9bf48ddbe3680899c251150",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    6.0,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 83,
+  "sourceObjectBounds": {
+    "min": [
+      -2.6525888442993164,
+      -2.237175941467285,
+      0.0
+    ],
+    "max": [
+      2.362544059753418,
+      1.5650041103363037,
+      5.653267860412598
+    ]
+  },
+  "materialCount": 10,
+  "materialObjectFingerprint": "97436223020419aee6fc5810a0f7dfe83a7476f78cccc36b368a5c0c80811601",
+  "sourceObjects": [
+    "Drained round pot.006",
+    "Growing medium.006",
+    "Pot foot.018",
+    "Pot foot.019",
+    "Pot foot.020",
+    "Drained round pot.007",
+    "Growing medium.007",
+    "Pot foot.021",
+    "Pot foot.022",
+    "Pot foot.023",
+    "Drained round pot.008",
+    "Growing medium.008",
+    "Pot foot.024",
+    "Pot foot.025",
+    "Pot foot.026",
+    "Sugarcane | jointed or flowering culms.015",
+    "Sugarcane | nodes and leaf scars.015",
+    "Folded leaf blades.016",
+    "Longitudinal blade midribs.016",
+    "Sugarcane | jointed or flowering culms.016",
+    "Sugarcane | nodes and leaf scars.016",
+    "Folded leaf blades.017",
+    "Longitudinal blade midribs.017",
+    "Sugarcane | jointed or flowering culms.017",
+    "Sugarcane | nodes and leaf scars.017",
+    "Folded leaf blades.018",
+    "Longitudinal blade midribs.018",
+    "Draining stand slat.007",
+    "Draining stand slat.008",
+    "Draining stand slat.009",
+    "Draining stand slat.010",
+    "Draining stand slat.011",
+    "Draining stand slat.012",
+    "Draining stand slat.013",
+    "Frame post.016",
+    "Frame foot.016",
+    "Frame post.017",
+    "Frame foot.017",
+    "Transverse frame rail.008",
+    "Frame post.018",
+    "Frame foot.018",
+    "Frame post.019",
+    "Frame foot.019",
+    "Transverse frame rail.009",
+    "Frame post.020",
+    "Frame foot.020",
+    "Frame post.021",
+    "Frame foot.021",
+    "Transverse frame rail.010",
+    "Frame post.022",
+    "Frame foot.022",
+    "Frame post.023",
+    "Frame foot.023",
+    "Transverse frame rail.011",
+    "Longitudinal frame rail.004",
+    "Longitudinal frame rail.005",
+    "Drained round pot.009",
+    "Growing medium.009",
+    "Pot foot.027",
+    "Pot foot.028",
+    "Pot foot.029",
+    "Drained round pot.010",
+    "Growing medium.010",
+    "Pot foot.030",
+    "Pot foot.031",
+    "Pot foot.032",
+    "Drained round pot.011",
+    "Growing medium.011",
+    "Pot foot.033",
+    "Pot foot.034",
+    "Pot foot.035",
+    "Sugarcane | jointed or flowering culms.018",
+    "Sugarcane | nodes and leaf scars.018",
+    "Folded leaf blades.019",
+    "Longitudinal blade midribs.019",
+    "Sugarcane | jointed or flowering culms.019",
+    "Sugarcane | nodes and leaf scars.019",
+    "Folded leaf blades.020",
+    "Longitudinal blade midribs.020",
+    "Sugarcane | jointed or flowering culms.020",
+    "Sugarcane | nodes and leaf scars.020",
+    "Folded leaf blades.021",
+    "Longitudinal blade midribs.021"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-876-whole.png",
+      "sha256": "09ef6bff580e755fdf07d15900f2d53f993fc0f691c249a3a0957c1bf8f0abb5",
+      "seconds": 24.45,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-876-detail.png",
+      "sha256": "beee3b7d5c227412b98f981da2450f6c88557d9590e5187e08ccf5343593989d",
+      "seconds": 44.13,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "wholeFraming": {
+    "name": "standard140",
+    "towerHeightM": 100,
+    "projectionProof": {
+      "method": "Conservative source bounds transformed through every placement and projected into orthographic camera; not a mesh silhouette measurement",
+      "screenExtentsM": {
+        "x": [
+          -25.471153259277344,
+          25.471153259277344
+        ],
+        "y": [
+          -48.06829071044922,
+          60.70479965209961
+        ],
+        "depth": [
+          -37.95232009887695,
+          41.78044128417969
+        ]
+      },
+      "frameHalfWidthM": 58.333333333333336,
+      "frameHalfHeightM": 70.0,
+      "completePlantEnvelopeFits": true
+    }
+  },
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 70.15
+}

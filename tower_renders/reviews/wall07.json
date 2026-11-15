@@ -1,0 +1,67 @@
+{
+  "batch": 7,
+  "ids": [
+    "LAG-834"
+  ],
+  "sourceReportHashes": {
+    "LAG-834": "359d0ce2dd563dc654baaffa3b3cc5b5d69d35862c7debb59c25df62a3e3a80d"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Texas frogfruit fine open trailing network matches source distribution and leaf scale.",
+      "Pale medium and rails retained; no absent assembly or rectangular shading artefacts observed."
+    ],
+    "proofScope": "Source and both final PNG hashes, common cameras, 800 placements and diagnostics verified. Per-species EXRs not recomputed; LAG-497 provides representative independent mask recomputation."
+  },
+  "reviewedUtc": "2026-11-15T14:44:30.181643+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall07_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-834",
+      "label": "Texas frogfruit",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "041a398ec72937c872979094048d0d1c35125c6e9d7466cdbc34f0ff46290404",
+      "viewHashes": {
+        "whole": "ed8da319a0eb45ea973805211de1429463cbcff9bda08c4cfdc063d6e89412ad",
+        "detail": "06b6208ad82784c26d126a154f66b8fd7131b461858a911e0a27244f35fb7ee9"
+      },
+      "sourceObjectCount": 31,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.389145851135254,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-bdc1f55f0205c0e7d0a02399a1358c80b21541e99d5f5638c113b37f4cf14d29",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-834-e989fa20fe378f6fbe2949bee52556aba7d1639811f92352e40a96c85e55bcd8.json",
+        "fileSha256": "2fbd9f26362aadaf70cca4f9ea90e760f4899736b939be2edb5721eb17415b79",
+        "receiptContentSha256": "e989fa20fe378f6fbe2949bee52556aba7d1639811f92352e40a96c85e55bcd8",
+        "sourceBlendSha256": "041a398ec72937c872979094048d0d1c35125c6e9d7466cdbc34f0ff46290404",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-834.png",
+      "approvedSourceImageSha256": "27a47b3e310c1449a1987e8994b09f5dee467b3056dba726f646cb2c67e6fde4"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": "LAG-268",
+  "source": "holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-268.blend",
+  "sourceSha256": "4688194a0091e16682d4a3233a250e65d2472ba440d5fdcca8db62a90123029f",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    5.079999923706055,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 25,
+  "sourceObjectBounds": {
+    "min": [
+      -1.9000000953674316,
+      1.4259941577911377,
+      0.31999993324279785
+    ],
+    "max": [
+      1.9000000953674316,
+      1.7000000476837158,
+      3.2300000190734863
+    ]
+  },
+  "materialCount": 8,
+  "materialObjectFingerprint": "6bae2d705b402d544e11bbec013d7dba5bfc1d7b7429965cc4d73ad6522ff171",
+  "sourceObjects": [
+    "Bermuda grass | creeping stolons and racemes.015",
+    "Bermuda grass | spikelets.008",
+    "Folded leaf blades.016",
+    "Longitudinal blade midribs.016",
+    "Bermuda grass | creeping stolons and racemes.016",
+    "Bermuda grass | spikelets.009",
+    "Folded leaf blades.017",
+    "Longitudinal blade midribs.017",
+    "Bermuda grass | creeping stolons and racemes.017",
+    "Bermuda grass | spikelets.010",
+    "Folded leaf blades.018",
+    "Longitudinal blade midribs.018",
+    "Bermuda grass | creeping stolons and racemes.018",
+    "Bermuda grass | spikelets.011",
+    "Folded leaf blades.019",
+    "Longitudinal blade midribs.019",
+    "Bermuda grass | creeping stolons and racemes.019",
+    "Bermuda grass | spikelets.012",
+    "Folded leaf blades.020",
+    "Longitudinal blade midribs.020",
+    "Bermuda grass | creeping stolons and racemes.020",
+    "Bermuda grass | spikelets.013",
+    "Folded leaf blades.021",
+    "Longitudinal blade midribs.021",
+    "Flush wall growing layer.002"
+  ],
+  "plantingInstances": 800,
+  "placementMode": "all-four-facades-800-v1",
+  "attachmentIssue": "Authored root layer is recessed behind the exterior face of the solid architectural model. Anchor remains fixed; a construction recess, waterproofing and fastenings require separate coordination. Source background walls and balcony decks are context; never duplicate them into the host.",
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original linked source objects, geometry, modifiers, procedural materials and textures unchanged. Exact audited 800 transforms; no roof planting. Host volumes unchanged.",
+  "presentation": "White sharp voxel host and source-grid annotation. Original source surfaces selected deterministically by linear RGBA/Z compositing at numerical coplanar ties.",
+  "presentationConfig": {
+    "version": "native-wall-depth-priority-v1",
+    "depthToleranceMetres": 0.0001,
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wallAuditSha256": "44f0d5dd6db2f45a9838c07d6b6b37cb2c4d266bcca649b8a4feaa45d0c05d45",
+    "secondaryRayPriority": true,
+    "maskErosionPixels": 0
+  },
+  "rendererScriptSha256": "be4a76653304b10d2cdbf495178cfe2ccd0c541dff9c5864a302f3b37ce2fa35",
+  "samples": 16,
+  "views": {
+    "whole": {
+      "file": "LAG-268-whole.png",
+      "sha256": "5270a17afbb0158b75f209e8c34156e68f8c5deed35e828f79fe9f34bda9d24a",
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ],
+      "seconds": 66.22,
+      "priorityDiagnostics": {
+        "depthToleranceMetres": 0.0001,
+        "plantPixels": 312615,
+        "visiblePlantPixels": 176009,
+        "coplanarPriorityPixels": 73090,
+        "behindHostPixelsClipped": 136606,
+        "farSideLeakPixels": 0,
+        "allOutputsFinite": true,
+        "colourOperation": "Linear premultiplied alpha-over, followed once by original source view transform",
+        "linearRgbRange": [
+          0.0015829094918444753,
+          1.558205485343933
+        ],
+        "hostDepthRange": [
+          187.6952362060547,
+          10000000000.0
+        ],
+        "plantDepthRange": [
+          260.26556396484375,
+          10000000000.0
+        ],
+        "maskSha256": "a9cebef250bd36fc3a6eecfa6c9a718cfbb6ec9a2e46bb9636a29730d9f481ce",
+        "correctedMediumPixels": 73049,
+        "maskErosionPixels": 0,
+        "unaffectedPixelsBitIdentical": true,
+        "unaffectedPixelCount": 1126951,
+        "maskPolicy": "Only copied growing-layer object index 1 AND original/secondary depth agreement AND exact host coplanarity within 0.1mm. Foliage and nonoverlap use unmodified original shaded pass.",
+        "correctionMaskSha256": "ccd13276c225dbadfc6289c37d4f3b9c1ce23bc15b005050665ee4dc499932b0"
+      },
+      "passes": {
+        "host": {
+          "rgbaFile": "LAG-268-secondary/whole/host/rgba/frame.exr",
+          "rgbaMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 4,
+            "channelNames": [
+              "value.R",
+              "value.G",
+              "value.B",
+              "value.A"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "depthFile": "LAG-268-secondary/whole/host/depth/frame.exr",
+          "depthMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "seconds": 26.02
+        },
+        "plants": {
+          "rgbaFile": "LAG-268-secondary/whole/plants/rgba/frame.exr",
+          "rgbaMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 4,
+            "channelNames": [
+              "value.R",
+              "value.G",
+              "value.B",
+              "value.A"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "depthFile": "LAG-268-secondary/whole/plants/depth/frame.exr",
+          "depthMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "seconds": 19.77
+        },
+        "secondary": {
+          "rgbaFile": "LAG-268-secondary/whole/secondary/rgba/frame.exr",
+          "rgbaMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 4,
+            "channelNames": [
+              "value.R",
+              "value.G",
+              "value.B",
+              "value.A"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "depthFile": "LAG-268-secondary/whole/secondary/depth/frame.exr",
+          "depthMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "objectIndexFile": "LAG-268-secondary/whole/secondary/objectIndex/frame.exr",
+          "objectIndexMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "seconds": 20.43
+        }
+      }
+    },
+    "detail": {
+      "file": "LAG-268-detail.png",
+      "sha256": "8a44fd6b6fa5eee60f26ac071982f8be296b030e73b7d8afa7f8b8d26b63dfe4",
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ],
+      "seconds": 127.38,
+      "priorityDiagnostics": {
+        "depthToleranceMetres": 0.0001,
+        "plantPixels": 1136242,
+        "visiblePlantPixels": 697442,
+        "coplanarPriorityPixels": 334673,
+        "behindHostPixelsClipped": 438800,
+        "farSideLeakPixels": 0,
+        "allOutputsFinite": true,
+        "colourOperation": "Linear premultiplied alpha-over, followed once by original source view transform",
+        "linearRgbRange": [
+          0.0,
+          1.0109224319458008
+        ],
+        "hostDepthRange": [
+          19.941650390625,
+          28.683931350708008
+        ],
+        "plantDepthRange": [
+          23.013757705688477,
+          10000000000.0
+        ],
+        "maskSha256": "bd0c42307dc7fa0f6e9d85731b04dd77fb9e72829a094de9057d653e2ce9a19a",
+        "correctedMediumPixels": 334538,
+        "maskErosionPixels": 0,
+        "unaffectedPixelsBitIdentical": true,
+        "unaffectedPixelCount": 865462,
+        "maskPolicy": "Only copied growing-layer object index 1 AND original/secondary depth agreement AND exact host coplanarity within 0.1mm. Foliage and nonoverlap use unmodified original shaded pass.",
+        "correctionMaskSha256": "63f22d8a241d4d95fd74ecb3ab0643453076a809c2224e52149b769437e4042d"
+      },
+      "passes": {
+        "host": {
+          "rgbaFile": "LAG-268-secondary/detail/host/rgba/frame.exr",
+          "rgbaMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 4,
+            "channelNames": [
+              "value.R",
+              "value.G",
+              "value.B",
+              "value.A"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "depthFile": "LAG-268-secondary/detail/host/depth/frame.exr",
+          "depthMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "seconds": 42.69
+        },
+        "plants": {
+          "rgbaFile": "LAG-268-secondary/detail/plants/rgba/frame.exr",
+          "rgbaMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 4,
+            "channelNames": [
+              "value.R",
+              "value.G",
+              "value.B",
+              "value.A"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "depthFile": "LAG-268-secondary/detail/plants/depth/frame.exr",
+          "depthMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "seconds": 40.94
+        },
+        "secondary": {
+          "rgbaFile": "LAG-268-secondary/detail/secondary/rgba/frame.exr",
+          "rgbaMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 4,
+            "channelNames": [
+              "value.R",
+              "value.G",
+              "value.B",
+              "value.A"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "depthFile": "LAG-268-secondary/detail/secondary/depth/frame.exr",
+          "depthMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "objectIndexFile": "LAG-268-secondary/detail/secondary/objectIndex/frame.exr",
+          "objectIndexMetadata": {
+            "size": [
+              1000,
+              1200
+            ],
+            "channels": 1,
+            "channelNames": [
+              "value.V"
+            ],
+            "alphaMode": "PREMUL",
+            "colourSpace": "scene-linear",
+            "float": true
+          },
+          "seconds": 43.75
+        }
+      }
+    }
+  },
+  "surfacePriorityVerified": true,
+  "reviewStatus": "Passed native whole/detail visual review and source, image, medium-only mask, untouched-pixel and depth-clipping gates; independent batch critic review follows.",
+  "presentationSignature": "61271d41f6cc9d70952fa4386d753ef81e57c9220748f026e445145235a041e3",
+  "solarAnalysisUnchanged": true,
+  "surfacePriorityScope": "Image visibility only. No planting plane, dimensions, geometry, source material, host volume, sensor or solar result is modified.",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-f352237246805d3266a884e5d1d42b31a16b8855a0ec3dc4035332079e462357",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-268-7d274fbc3603383b94f9c1dcaf65730472eb648c504c72b2de6af5f8abd365de.json",
+    "fileSha256": "fbfed7f7611ed1215738bcea7983a36a2c8b5e5db6b0db5efb57d57df9e8b1b5",
+    "receiptContentSha256": "7d274fbc3603383b94f9c1dcaf65730472eb648c504c72b2de6af5f8abd365de",
+    "sourceBlendSha256": "4688194a0091e16682d4a3233a250e65d2472ba440d5fdcca8db62a90123029f",
+    "placementMode": "wall800",
+    "stageCount": 3
+  },
+  "analyticalCoplanarityReceipt": {
+    "file": "outputs/solar_approved_balcony_studies/centella_coplanar_analytical_check.json",
+    "sha256": "a6ce4227297bc209b6a119c8a3c7dbd2ed00d58ca1240c759da16d798f270931"
+  },
+  "secondaryRayPriority": true,
+  "secondaryRayPolicy": "Extra colour-source pass excludes tower voxel secondary rays, but contributes ONLY object-ID isolated original growing-medium pixels at exact host coplanar depth. Normal foliage, host, context, balcony and nonoverlap pixels are bit-identical to the original shaded composition.",
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 202.64,
+  "surfacePriorityReview": {
+    "reviewer": "wall_compositor",
+    "reviewedUtc": "2026-11-15T14:51:08.998207+00:00",
+    "method": "Original-resolution whole/detail visual inspection: consistent pale source finish, original foliage structure, no random depth patches or heavy black mask erosion halos. Exact no-erosion object-ID/depth mask reviewed by root/critic on LAG-497 pilot.",
+    "scope": "Presentation-only, not solar evidence; hard object-ID coverage rather than calibrated antialiased material decomposition."
+  }
+}

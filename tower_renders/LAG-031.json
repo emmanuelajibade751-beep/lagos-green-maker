@@ -1,0 +1,165 @@
+{
+  "id": "LAG-031",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-f83df7c801a3ec06a42ede237d94225d500d0b44bc61e82fc4bd302fa4a40efb",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-031-d5ef5d64a7097791781de9e0598adf981864c10884c22d9c9ab2f0d13b37b9e2.json",
+    "fileSha256": "b9f31d4737fa652282780fd94acc9e6a65a147639434ba260c4dc48644588cb7",
+    "receiptContentSha256": "d5ef5d64a7097791781de9e0598adf981864c10884c22d9c9ab2f0d13b37b9e2",
+    "sourceBlendSha256": "635a695d2d914c8d6d177aff7317511305a41a35fcfd5a4103efd2dab2c7987c",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2cb2b04177a80cfbe79cfddd3142871a64e233e6394386041e21e7e4b7750266",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/trees_16_balcony_review/LAG-031.blend",
+  "sourceSha256": "635a695d2d914c8d6d177aff7317511305a41a35fcfd5a4103efd2dab2c7987c",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    10.481249809265137,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 6,
+  "sourceObjectBounds": {
+    "min": [
+      -5.929786205291748,
+      -4.520495414733887,
+      0.0
+    ],
+    "max": [
+      5.432676315307617,
+      7.093096733093262,
+      12.188982009887695
+    ]
+  },
+  "materialCount": 8,
+  "materialObjectFingerprint": "f36bcf0685419060c9ec4bcc31c4a1f70b25791b527f3842fa4ec177a7cb369d",
+  "sourceObjects": [
+    "Round planter shell.002",
+    "Growing medium envelope.002",
+    "black mangrove | laterals, twigs and fruit stalks.005",
+    "black mangrove | trunk, stems and branch axes.005",
+    "Individual blade meshes.003",
+    "Connecting petioles.002"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-031-whole.png",
+      "sha256": "329ae794f5903e0612a2039c1f3cb1caec3380716fba2d9758c04735e583b4b5",
+      "seconds": 28.23,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-031-detail.png",
+      "sha256": "0cf8967d83e0d864a456b9465ec842c4d005cae47ce9dc09f408bdafbd01c277",
+      "seconds": 48.82,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "wholeFraming": {
+    "name": "standard140",
+    "towerHeightM": 100,
+    "projectionProof": {
+      "method": "Conservative source bounds transformed through every placement and projected into orthographic camera; not a mesh silhouette measurement",
+      "screenExtentsM": {
+        "x": [
+          -29.06114387512207,
+          29.06114387512207
+        ],
+        "y": [
+          -49.25820541381836,
+          68.1943359375
+        ],
+        "depth": [
+          -41.33937454223633,
+          47.71339416503906
+        ]
+      },
+      "frameHalfWidthM": 58.333333333333336,
+      "frameHalfHeightM": 70.0,
+      "completePlantEnvelopeFits": true
+    }
+  },
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 79.46
+}

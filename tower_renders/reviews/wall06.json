@@ -1,0 +1,67 @@
+{
+  "batch": 6,
+  "ids": [
+    "LAG-363"
+  ],
+  "sourceReportHashes": {
+    "LAG-363": "d6918508bb4499d37e272163790cac50825672bebdbb9feb6bffa78cd8c001b0"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Spanish shawl trailing branches and open network match source. Full-resolution detail confirms pink flowers retained.",
+      "Pale medium and rails remain visible with no large dark coplanar blocks or missing vegetation."
+    ],
+    "proofScope": "Source and both final PNG hashes, common cameras, 800 placements and diagnostics verified. Per-species EXRs not recomputed; LAG-497 provides representative independent mask recomputation."
+  },
+  "reviewedUtc": "2026-11-15T14:39:23.306037+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall06_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-363",
+      "label": "Spanish shawl",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "b4c1cf193673d03ee0980a260008bea7491b99d3580d65abf023ea930ce88a66",
+      "viewHashes": {
+        "whole": "1322ee59f6b3aefd5066e24214c33bc5db5dba5423e2a8b9efac95a47877f89b",
+        "detail": "9a8dcbea4f208cadeb698cb376d02ebe8e40ed416bce948653b91a10820086de"
+      },
+      "sourceObjectCount": 31,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.3885529041290283,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-9750d8d57dbd1bd4ed56505fedbe045115aab677d6e079cbe8bb9ea96d5c7a34",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-363-732a561b12482c4d71b9a82f55fb1096ec48336b3b53f1336dcd1eb1008c9133.json",
+        "fileSha256": "23f9c75700ffff1e8a431a8d1ec78b75a7919e07cf8efcb1273e089605079a87",
+        "receiptContentSha256": "732a561b12482c4d71b9a82f55fb1096ec48336b3b53f1336dcd1eb1008c9133",
+        "sourceBlendSha256": "b4c1cf193673d03ee0980a260008bea7491b99d3580d65abf023ea930ce88a66",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-363.png",
+      "approvedSourceImageSha256": "63ea4b7fb610e391a7dd2362d46d5bd37946b5e85aba291b1403b8dc007b6ec1"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "LAG-353",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-aa70ca2844350ef72689b23c7ad009b0379f7534e74321611975fbc08ae34816",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-353-a49f084da0a1e214f1a71513e82e64e6c49cf6a39e323359311bedb1564fbc94.json",
+    "fileSha256": "7f9e143a7bbbf19b3e9d4f4209a3adb76231b9eeaa119b09332e85fe0662860e",
+    "receiptContentSha256": "a49f084da0a1e214f1a71513e82e64e6c49cf6a39e323359311bedb1564fbc94",
+    "sourceBlendSha256": "67c9cc5272b72cc7e606921cabaa5d3219f3023ed0de19987a98d65ad3cd0325",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2cb2b04177a80cfbe79cfddd3142871a64e233e6394386041e21e7e4b7750266",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/groundcovers_and_wetland_balconies/LAG-353.blend",
+  "sourceSha256": "67c9cc5272b72cc7e606921cabaa5d3219f3023ed0de19987a98d65ad3cd0325",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 64,
+  "sourceObjectBounds": {
+    "min": [
+      -2.046372890472412,
+      -2.113455295562744,
+      0.0
+    ],
+    "max": [
+      2.046372890472412,
+      1.8334553241729736,
+      3.3424570560455322
+    ]
+  },
+  "materialCount": 13,
+  "materialObjectFingerprint": "97b1d7f12eb0652173721ff28feb5b63ace0acde1eb9a2ca5f3c4f0f37229235",
+  "sourceObjects": [
+    "Sealed shell base.002",
+    "Sealed end.004",
+    "Sealed end.005",
+    "Front wall.002",
+    "Back wall beside overflow.004",
+    "Back wall beside overflow.005",
+    "Back wall to waterline.002",
+    "Back wall above overflow.002",
+    "Removable overflow screen wire.082",
+    "Removable overflow screen wire.083",
+    "Removable overflow screen wire.084",
+    "Removable overflow screen wire.085",
+    "Removable overflow screen wire.086",
+    "Removable overflow screen wire.087",
+    "Removable overflow screen wire.088",
+    "Removable overflow screen wire.089",
+    "Removable overflow screen wire.090",
+    "Removable overflow screen wire.091",
+    "Removable overflow screen wire.092",
+    "Removable overflow screen wire.093",
+    "Removable overflow screen wire.094",
+    "Removable overflow screen wire.095",
+    "Removable overflow screen wire.096",
+    "Removable overflow screen wire.097",
+    "Removable overflow screen wire.098",
+    "Removable overflow screen wire.099",
+    "Removable overflow screen wire.100",
+    "Removable overflow screen wire.101",
+    "Removable overflow screen wire.102",
+    "Removable overflow screen wire.103",
+    "Removable overflow screen wire.104",
+    "Removable overflow screen wire.105",
+    "Removable overflow screen wire.106",
+    "Removable overflow screen wire.107",
+    "Removable overflow screen wire.108",
+    "Removable overflow screen wire.109",
+    "Removable overflow screen wire.110",
+    "Removable overflow screen wire.111",
+    "Removable overflow screen wire.112",
+    "Removable overflow screen wire.113",
+    "Removable overflow screen wire.114",
+    "Removable overflow screen wire.115",
+    "Removable overflow screen wire.116",
+    "Removable overflow screen wire.117",
+    "Removable overflow screen wire.118",
+    "Removable overflow screen wire.119",
+    "Removable overflow screen wire.120",
+    "Removable overflow screen wire.121",
+    "Removable overflow screen wire.122",
+    "Overflow channel floor.002",
+    "Overflow channel side.004",
+    "Overflow channel side.005",
+    "Saturated rooting medium.002",
+    "Freshwater to overflow datum.002",
+    "Removable catch vessel base.002",
+    "Catch vessel end.004",
+    "Catch vessel side.004",
+    "Catch vessel end.005",
+    "Catch vessel side.005",
+    "Southern cattail | jointed or flowering culms.005",
+    "Southern cattail | inflorescence axes.003",
+    "Southern cattail | cattail spike.003",
+    "Folded leaf blades.003",
+    "Longitudinal blade midribs.003"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-353-whole.png",
+      "sha256": "d0cc88be4627226f25d86ebe0b35d2c22ab9684d90e36f730b5fbeef333751d6",
+      "seconds": 20.31,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-353-detail.png",
+      "sha256": "152ec83a793c492339d0453901dc461400d190cbdc3d933195f7845d02342fd0",
+      "seconds": 34.68,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "wholeFraming": {
+    "name": "standard140",
+    "towerHeightM": 100,
+    "projectionProof": {
+      "method": "Conservative source bounds transformed through every placement and projected into orthographic camera; not a mesh silhouette measurement",
+      "screenExtentsM": {
+        "x": [
+          -25.194759368896484,
+          25.194759368896484
+        ],
+        "y": [
+          -47.976680755615234,
+          58.33393859863281
+        ],
+        "depth": [
+          -37.691551208496094,
+          40.471744537353516
+        ]
+      },
+      "frameHalfWidthM": 58.333333333333336,
+      "frameHalfHeightM": 70.0,
+      "completePlantEnvelopeFits": true
+    }
+  },
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 56.4
+}

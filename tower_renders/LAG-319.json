@@ -1,0 +1,248 @@
+{
+  "id": "LAG-319",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-8d9822126372c552d083f27c1f7218d78f87c513bb80dd921d28d92cfc2767e9",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-319-4f32b0587a847fb325f4b08a18980c79e9ca1bb87bb04ea724a13da5845aa861.json",
+    "fileSha256": "80bbd012597ae3c4318f591bbf8797724013f1ac4596b0fd898f61dc1952e7f5",
+    "receiptContentSha256": "4f32b0587a847fb325f4b08a18980c79e9ca1bb87bb04ea724a13da5845aa861",
+    "sourceBlendSha256": "0a39f8f4f5662bdf7059dfa1be5a8c986903f0e3729eae322ccbbeb83d5898a6",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2cb2b04177a80cfbe79cfddd3142871a64e233e6394386041e21e7e4b7750266",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-319.blend",
+  "sourceSha256": "0a39f8f4f5662bdf7059dfa1be5a8c986903f0e3729eae322ccbbeb83d5898a6",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    6.0,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 89,
+  "sourceObjectBounds": {
+    "min": [
+      -2.5482826232910156,
+      -2.1661956310272217,
+      0.0
+    ],
+    "max": [
+      2.3376312255859375,
+      1.596564769744873,
+      3.406046152114868
+    ]
+  },
+  "materialCount": 12,
+  "materialObjectFingerprint": "0c9e85778c794b33efd77e78bac0ef867632dc9e3a3b24af15bc67d78bd86bd5",
+  "sourceObjects": [
+    "Drained round pot.006",
+    "Growing medium.006",
+    "Pot foot.018",
+    "Pot foot.019",
+    "Pot foot.020",
+    "Drained round pot.007",
+    "Growing medium.007",
+    "Pot foot.021",
+    "Pot foot.022",
+    "Pot foot.023",
+    "Drained round pot.008",
+    "Growing medium.008",
+    "Pot foot.024",
+    "Pot foot.025",
+    "Pot foot.026",
+    "Guinea grass | jointed or flowering culms.024",
+    "Guinea grass | inflorescence axes.014",
+    "Guinea grass | open panicle.014",
+    "Folded leaf blades.025",
+    "Longitudinal blade midribs.025",
+    "Guinea grass | jointed or flowering culms.025",
+    "Guinea grass | inflorescence axes.015",
+    "Guinea grass | open panicle.015",
+    "Folded leaf blades.026",
+    "Longitudinal blade midribs.026",
+    "Guinea grass | jointed or flowering culms.026",
+    "Guinea grass | inflorescence axes.016",
+    "Guinea grass | open panicle.016",
+    "Folded leaf blades.027",
+    "Longitudinal blade midribs.027",
+    "Draining stand slat.007",
+    "Draining stand slat.008",
+    "Draining stand slat.009",
+    "Draining stand slat.010",
+    "Draining stand slat.011",
+    "Draining stand slat.012",
+    "Draining stand slat.013",
+    "Frame post.016",
+    "Frame foot.016",
+    "Frame post.017",
+    "Frame foot.017",
+    "Transverse frame rail.008",
+    "Frame post.018",
+    "Frame foot.018",
+    "Frame post.019",
+    "Frame foot.019",
+    "Transverse frame rail.009",
+    "Frame post.020",
+    "Frame foot.020",
+    "Frame post.021",
+    "Frame foot.021",
+    "Transverse frame rail.010",
+    "Frame post.022",
+    "Frame foot.022",
+    "Frame post.023",
+    "Frame foot.023",
+    "Transverse frame rail.011",
+    "Longitudinal frame rail.004",
+    "Longitudinal frame rail.005",
+    "Drained round pot.009",
+    "Growing medium.009",
+    "Pot foot.027",
+    "Pot foot.028",
+    "Pot foot.029",
+    "Drained round pot.010",
+    "Growing medium.010",
+    "Pot foot.030",
+    "Pot foot.031",
+    "Pot foot.032",
+    "Drained round pot.011",
+    "Growing medium.011",
+    "Pot foot.033",
+    "Pot foot.034",
+    "Pot foot.035",
+    "Guinea grass | jointed or flowering culms.027",
+    "Guinea grass | inflorescence axes.017",
+    "Guinea grass | open panicle.017",
+    "Folded leaf blades.028",
+    "Longitudinal blade midribs.028",
+    "Guinea grass | jointed or flowering culms.028",
+    "Guinea grass | inflorescence axes.018",
+    "Guinea grass | open panicle.018",
+    "Folded leaf blades.029",
+    "Longitudinal blade midribs.029",
+    "Guinea grass | jointed or flowering culms.029",
+    "Guinea grass | inflorescence axes.019",
+    "Guinea grass | open panicle.019",
+    "Folded leaf blades.030",
+    "Longitudinal blade midribs.030"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-319-whole.png",
+      "sha256": "3a6459bcfe8392aaf822cfd9eb4f68e3424c861c662d79bda8132c6f85713815",
+      "seconds": 24.5,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-319-detail.png",
+      "sha256": "fdde2432d9f660ca92fc17ca388204e80a0d627e526823ffee1a8241bc014c76",
+      "seconds": 42.29,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "wholeFraming": {
+    "name": "standard140",
+    "towerHeightM": 100,
+    "projectionProof": {
+      "method": "Conservative source bounds transformed through every placement and projected into orthographic camera; not a mesh silhouette measurement",
+      "screenExtentsM": {
+        "x": [
+          -25.398096084594727,
+          25.398096084594727
+        ],
+        "y": [
+          -48.0440788269043,
+          58.54280090332031
+        ],
+        "depth": [
+          -37.883392333984375,
+          40.91658401489258
+        ]
+      },
+      "frameHalfWidthM": 58.333333333333336,
+      "frameHalfHeightM": 70.0,
+      "completePlantEnvelopeFits": true
+    }
+  },
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 90.31
+}

@@ -1,0 +1,1178 @@
+{
+  "version": "two-whole-framings-v1",
+  "standard": {
+    "camera": [
+      170,
+      -220,
+      145
+    ],
+    "target": [
+      16,
+      16,
+      46
+    ],
+    "orthoScale": 140
+  },
+  "wide": {
+    "camera": [
+      170,
+      -220,
+      157
+    ],
+    "target": [
+      16,
+      16,
+      58
+    ],
+    "orthoScale": 170
+  },
+  "widePlantIds": [
+    "LAG-082",
+    "LAG-061",
+    "LAG-201",
+    "LAG-177",
+    "LAG-132",
+    "LAG-032",
+    "LAG-076",
+    "LAG-053",
+    "LAG-054",
+    "LAG-135",
+    "LAG-118",
+    "LAG-712",
+    "LAG-027"
+  ],
+  "towerHeightM": 100,
+  "detailCameraUnchanged": true,
+  "sourceGeometryUnchanged": true,
+  "evidenceFile": "tmp\\native_whole_camera_envelope_check.json",
+  "evidenceSha256": "b78ebf52bf4aafac28c65436dad33e8aac5c02d57014753f1cbac44696719d4f",
+  "projectionEvidence": {
+    "method": "Conservative source assembly bounding boxes transformed to every384 placement, projected into fixed orthographic whole camera; bounding-box corners may overestimate actual mesh extents.",
+    "candidates": {
+      "LAG-082": {
+        "maximum_conservative_crop_m": 1.5182,
+        "screen_x_m": [
+          -28.9091,
+          28.9091
+        ],
+        "screen_y_m": [
+          -49.2078,
+          71.5182
+        ]
+      },
+      "LAG-061": {
+        "maximum_conservative_crop_m": 4.6619,
+        "screen_x_m": [
+          -28.5106,
+          28.5106
+        ],
+        "screen_y_m": [
+          -49.0757,
+          74.6619
+        ]
+      },
+      "LAG-201": {
+        "maximum_conservative_crop_m": 6.3225,
+        "screen_x_m": [
+          -32.6884,
+          32.6884
+        ],
+        "screen_y_m": [
+          -50.4605,
+          76.3225
+        ]
+      },
+      "LAG-177": {
+        "maximum_conservative_crop_m": 2.3217,
+        "screen_x_m": [
+          -28.5628,
+          28.5628
+        ],
+        "screen_y_m": [
+          -49.093,
+          72.3217
+        ]
+      },
+      "LAG-132": {
+        "maximum_conservative_crop_m": 0.6201,
+        "screen_x_m": [
+          -34.4361,
+          34.4361
+        ],
+        "screen_y_m": [
+          -51.0397,
+          70.6201
+        ]
+      },
+      "LAG-032": {
+        "maximum_conservative_crop_m": 3.3006,
+        "screen_x_m": [
+          -34.5878,
+          34.5878
+        ],
+        "screen_y_m": [
+          -51.0634,
+          73.3006
+        ]
+      },
+      "LAG-076": {
+        "maximum_conservative_crop_m": 0.0122,
+        "screen_x_m": [
+          -30.9637,
+          30.9637
+        ],
+        "screen_y_m": [
+          -49.8888,
+          70.0122
+        ]
+      },
+      "LAG-053": {
+        "maximum_conservative_crop_m": 7.6886,
+        "screen_x_m": [
+          -28.9549,
+          28.9549
+        ],
+        "screen_y_m": [
+          -49.223,
+          77.6886
+        ]
+      },
+      "LAG-054": {
+        "maximum_conservative_crop_m": 19.286,
+        "screen_x_m": [
+          -38.6865,
+          38.6865
+        ],
+        "screen_y_m": [
+          -52.4478,
+          89.286
+        ]
+      },
+      "LAG-135": {
+        "maximum_conservative_crop_m": 23.2705,
+        "screen_x_m": [
+          -35.959,
+          35.959
+        ],
+        "screen_y_m": [
+          -51.301,
+          93.2705
+        ]
+      },
+      "LAG-118": {
+        "maximum_conservative_crop_m": 11.3689,
+        "screen_x_m": [
+          -37.8747,
+          37.8747
+        ],
+        "screen_y_m": [
+          -52.1795,
+          81.3689
+        ]
+      },
+      "LAG-712": {
+        "maximum_conservative_crop_m": 14.5498,
+        "screen_x_m": [
+          -41.5089,
+          41.5089
+        ],
+        "screen_y_m": [
+          -53.2577,
+          84.5498
+        ]
+      },
+      "LAG-027": {
+        "maximum_conservative_crop_m": 3.8784,
+        "screen_x_m": [
+          -34.8187,
+          34.8187
+        ],
+        "screen_y_m": [
+          -51.1666,
+          73.8784
+        ]
+      }
+    },
+    "records": {
+      "LAG-226": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.6148,
+          24.6148
+        ],
+        "screen_y_m": [
+          -47.8071,
+          58.1516
+        ]
+      },
+      "LAG-250": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.561,
+          24.561
+        ],
+        "screen_y_m": [
+          -47.7893,
+          57.6563
+        ]
+      },
+      "LAG-254": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.5064,
+          24.5064
+        ],
+        "screen_y_m": [
+          -47.7712,
+          57.6482
+        ]
+      },
+      "LAG-289": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2898,
+          24.2898
+        ],
+        "screen_y_m": [
+          -47.6994,
+          56.6783
+        ]
+      },
+      "LAG-294": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.5304,
+          24.5304
+        ],
+        "screen_y_m": [
+          -47.7791,
+          57.687
+        ]
+      },
+      "LAG-295": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3739,
+          24.3739
+        ],
+        "screen_y_m": [
+          -47.7046,
+          57.0832
+        ]
+      },
+      "LAG-302": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.5322,
+          24.5322
+        ],
+        "screen_y_m": [
+          -47.7797,
+          57.5079
+        ]
+      },
+      "LAG-328": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2619,
+          24.2619
+        ],
+        "screen_y_m": [
+          -47.6901,
+          57.2999
+        ]
+      },
+      "LAG-343": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3974,
+          24.3974
+        ],
+        "screen_y_m": [
+          -47.735,
+          58.437
+        ]
+      },
+      "LAG-471": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.6578,
+          24.6578
+        ],
+        "screen_y_m": [
+          -47.8213,
+          57.9082
+        ]
+      },
+      "LAG-752": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.8769,
+          24.8769
+        ],
+        "screen_y_m": [
+          -47.894,
+          58.6478
+        ]
+      },
+      "LAG-779": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.8552,
+          24.8552
+        ],
+        "screen_y_m": [
+          -47.8868,
+          58.9098
+        ]
+      },
+      "LAG-253": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.5938,
+          23.5938
+        ],
+        "screen_y_m": [
+          -47.446,
+          57.1777
+        ]
+      },
+      "LAG-238": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.6144,
+          23.6144
+        ],
+        "screen_y_m": [
+          -47.4529,
+          57.1875
+        ]
+      },
+      "LAG-230": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.6102,
+          23.6102
+        ],
+        "screen_y_m": [
+          -47.4515,
+          57.526
+        ]
+      },
+      "LAG-258": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.5976,
+          23.5976
+        ],
+        "screen_y_m": [
+          -47.4473,
+          58.5791
+        ]
+      },
+      "LAG-331": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.6096,
+          23.6096
+        ],
+        "screen_y_m": [
+          -47.4513,
+          57.2418
+        ]
+      },
+      "LAG-966": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.7001,
+          23.7001
+        ],
+        "screen_y_m": [
+          -47.4813,
+          58.6137
+        ]
+      },
+      "LAG-316": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.694,
+          23.694
+        ],
+        "screen_y_m": [
+          -47.4793,
+          57.8926
+        ]
+      },
+      "LAG-283": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.4551,
+          23.4551
+        ],
+        "screen_y_m": [
+          -47.4001,
+          56.1639
+        ]
+      },
+      "LAG-334": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.6162,
+          23.6162
+        ],
+        "screen_y_m": [
+          -47.4535,
+          57.2339
+        ]
+      },
+      "LAG-651": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.5238,
+          23.5238
+        ],
+        "screen_y_m": [
+          -47.4228,
+          58.014
+        ]
+      },
+      "LAG-787": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.6039,
+          24.6039
+        ],
+        "screen_y_m": [
+          -47.7808,
+          57.5714
+        ]
+      },
+      "LAG-324": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.7957,
+          24.7957
+        ],
+        "screen_y_m": [
+          -47.8444,
+          57.3817
+        ]
+      },
+      "LAG-227": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.0227,
+          25.0227
+        ],
+        "screen_y_m": [
+          -47.9197,
+          57.062
+        ]
+      },
+      "LAG-245": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1904,
+          24.1904
+        ],
+        "screen_y_m": [
+          -47.6532,
+          56.9613
+        ]
+      },
+      "LAG-320": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.5038,
+          24.5038
+        ],
+        "screen_y_m": [
+          -47.7477,
+          56.4727
+        ]
+      },
+      "LAG-337": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.5764,
+          24.5764
+        ],
+        "screen_y_m": [
+          -47.7717,
+          56.0974
+        ]
+      },
+      "LAG-241": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3424,
+          24.3424
+        ],
+        "screen_y_m": [
+          -47.6942,
+          57.2339
+        ]
+      },
+      "LAG-400": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2298,
+          24.2298
+        ],
+        "screen_y_m": [
+          -47.6569,
+          57.4321
+        ]
+      },
+      "LAG-430": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3347,
+          24.3347
+        ],
+        "screen_y_m": [
+          -47.6916,
+          57.2768
+        ]
+      },
+      "LAG-243": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2228,
+          24.2228
+        ],
+        "screen_y_m": [
+          -47.6545,
+          57.1948
+        ]
+      },
+      "LAG-554": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2983,
+          24.2983
+        ],
+        "screen_y_m": [
+          -47.6796,
+          57.3475
+        ]
+      },
+      "LAG-262": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.259,
+          24.259
+        ],
+        "screen_y_m": [
+          -47.6665,
+          57.9329
+        ]
+      },
+      "LAG-267": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3635,
+          24.3635
+        ],
+        "screen_y_m": [
+          -47.7012,
+          56.6411
+        ]
+      },
+      "LAG-1024": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3812,
+          24.3812
+        ],
+        "screen_y_m": [
+          -47.707,
+          56.961
+        ]
+      },
+      "LAG-345": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2255,
+          24.2255
+        ],
+        "screen_y_m": [
+          -47.6554,
+          56.3779
+        ]
+      },
+      "LAG-507": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1899,
+          24.1899
+        ],
+        "screen_y_m": [
+          -47.6436,
+          55.9419
+        ]
+      },
+      "LAG-266": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1259,
+          24.1259
+        ],
+        "screen_y_m": [
+          -47.6224,
+          56.3005
+        ]
+      },
+      "LAG-256": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1336,
+          24.1336
+        ],
+        "screen_y_m": [
+          -47.625,
+          56.2966
+        ]
+      },
+      "LAG-366": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.0205,
+          25.0205
+        ],
+        "screen_y_m": [
+          -47.9189,
+          56.57
+        ]
+      },
+      "LAG-255": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.0453,
+          25.0453
+        ],
+        "screen_y_m": [
+          -47.9272,
+          58.1449
+        ]
+      },
+      "LAG-244": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.6975,
+          25.6975
+        ],
+        "screen_y_m": [
+          -48.1433,
+          59.8968
+        ]
+      },
+      "LAG-319": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.3981,
+          25.3981
+        ],
+        "screen_y_m": [
+          -48.0441,
+          58.5428
+        ]
+      },
+      "LAG-876": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.4712,
+          25.4712
+        ],
+        "screen_y_m": [
+          -48.0683,
+          60.7048
+        ]
+      },
+      "LAG-237": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.8147,
+          25.8147
+        ],
+        "screen_y_m": [
+          -48.1822,
+          69.819
+        ]
+      },
+      "LAG-273": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.4198,
+          24.4198
+        ],
+        "screen_y_m": [
+          -47.7198,
+          59.1423
+        ]
+      },
+      "LAG-269": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3057,
+          24.3057
+        ],
+        "screen_y_m": [
+          -47.682,
+          57.4319
+        ]
+      },
+      "LAG-270": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.2806,
+          24.2806
+        ],
+        "screen_y_m": [
+          -47.6737,
+          56.5074
+        ]
+      },
+      "LAG-271": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3107,
+          24.3107
+        ],
+        "screen_y_m": [
+          -47.6837,
+          56.529
+        ]
+      },
+      "LAG-272": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.4309,
+          24.4309
+        ],
+        "screen_y_m": [
+          -47.7235,
+          57.133
+        ]
+      },
+      "LAG-983": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.6769,
+          24.6769
+        ],
+        "screen_y_m": [
+          -47.6687,
+          56.2716
+        ]
+      },
+      "LAG-326": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1863,
+          24.1863
+        ],
+        "screen_y_m": [
+          -47.6424,
+          55.6956
+        ]
+      },
+      "LAG-325": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1863,
+          24.1863
+        ],
+        "screen_y_m": [
+          -47.6424,
+          55.6368
+        ]
+      },
+      "LAG-313": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.0949,
+          24.0949
+        ],
+        "screen_y_m": [
+          -47.6121,
+          57.5442
+        ]
+      },
+      "LAG-978": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1788,
+          24.1788
+        ],
+        "screen_y_m": [
+          -47.6399,
+          57.2649
+        ]
+      },
+      "LAG-353": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.1948,
+          25.1948
+        ],
+        "screen_y_m": [
+          -47.9767,
+          58.3339
+        ]
+      },
+      "LAG-335": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.1863,
+          24.1863
+        ],
+        "screen_y_m": [
+          -47.6424,
+          55.408
+        ]
+      },
+      "LAG-630": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3203,
+          24.3203
+        ],
+        "screen_y_m": [
+          -47.6868,
+          56.4695
+        ]
+      },
+      "LAG-424": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.4291,
+          24.4291
+        ],
+        "screen_y_m": [
+          -47.7229,
+          55.9787
+        ]
+      },
+      "LAG-310": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3457,
+          24.3457
+        ],
+        "screen_y_m": [
+          -47.6953,
+          56.8912
+        ]
+      },
+      "LAG-410": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.319,
+          24.319
+        ],
+        "screen_y_m": [
+          -47.6864,
+          56.8082
+        ]
+      },
+      "LAG-362": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.3035,
+          24.3035
+        ],
+        "screen_y_m": [
+          -47.6813,
+          55.8559
+        ]
+      },
+      "LAG-485": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -24.0216,
+          24.0216
+        ],
+        "screen_y_m": [
+          -47.5878,
+          59.6759
+        ]
+      },
+      "LAG-781": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.0252,
+          25.0252
+        ],
+        "screen_y_m": [
+          -47.9205,
+          58.4594
+        ]
+      },
+      "LAG-865": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.4683,
+          25.4683
+        ],
+        "screen_y_m": [
+          -48.0673,
+          63.1846
+        ]
+      },
+      "LAG-082": {
+        "maximum_conservative_crop_m": 1.5182,
+        "screen_x_m": [
+          -28.9091,
+          28.9091
+        ],
+        "screen_y_m": [
+          -49.2078,
+          71.5182
+        ]
+      },
+      "LAG-061": {
+        "maximum_conservative_crop_m": 4.6619,
+        "screen_x_m": [
+          -28.5106,
+          28.5106
+        ],
+        "screen_y_m": [
+          -49.0757,
+          74.6619
+        ]
+      },
+      "LAG-173": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -31.1845,
+          31.1845
+        ],
+        "screen_y_m": [
+          -49.962,
+          68.037
+        ]
+      },
+      "LAG-157": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -25.5114,
+          25.5114
+        ],
+        "screen_y_m": [
+          -48.0817,
+          63.1733
+        ]
+      },
+      "LAG-728": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -28.7379,
+          28.7379
+        ],
+        "screen_y_m": [
+          -49.1511,
+          65.5907
+        ]
+      },
+      "LAG-552": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -27.6026,
+          27.6026
+        ],
+        "screen_y_m": [
+          -48.7748,
+          63.6459
+        ]
+      },
+      "LAG-105": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -23.9396,
+          23.9396
+        ],
+        "screen_y_m": [
+          -47.5606,
+          57.8198
+        ]
+      },
+      "LAG-201": {
+        "maximum_conservative_crop_m": 6.3225,
+        "screen_x_m": [
+          -32.6884,
+          32.6884
+        ],
+        "screen_y_m": [
+          -50.4605,
+          76.3225
+        ]
+      },
+      "LAG-031": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -29.0611,
+          29.0611
+        ],
+        "screen_y_m": [
+          -49.2582,
+          68.1943
+        ]
+      },
+      "LAG-177": {
+        "maximum_conservative_crop_m": 2.3217,
+        "screen_x_m": [
+          -28.5628,
+          28.5628
+        ],
+        "screen_y_m": [
+          -49.093,
+          72.3217
+        ]
+      },
+      "LAG-132": {
+        "maximum_conservative_crop_m": 0.6201,
+        "screen_x_m": [
+          -34.4361,
+          34.4361
+        ],
+        "screen_y_m": [
+          -51.0397,
+          70.6201
+        ]
+      },
+      "LAG-032": {
+        "maximum_conservative_crop_m": 3.3006,
+        "screen_x_m": [
+          -34.5878,
+          34.5878
+        ],
+        "screen_y_m": [
+          -51.0634,
+          73.3006
+        ]
+      },
+      "LAG-076": {
+        "maximum_conservative_crop_m": 0.0122,
+        "screen_x_m": [
+          -30.9637,
+          30.9637
+        ],
+        "screen_y_m": [
+          -49.8888,
+          70.0122
+        ]
+      },
+      "LAG-053": {
+        "maximum_conservative_crop_m": 7.6886,
+        "screen_x_m": [
+          -28.9549,
+          28.9549
+        ],
+        "screen_y_m": [
+          -49.223,
+          77.6886
+        ]
+      },
+      "LAG-054": {
+        "maximum_conservative_crop_m": 19.286,
+        "screen_x_m": [
+          -38.6865,
+          38.6865
+        ],
+        "screen_y_m": [
+          -52.4478,
+          89.286
+        ]
+      },
+      "LAG-135": {
+        "maximum_conservative_crop_m": 23.2705,
+        "screen_x_m": [
+          -35.959,
+          35.959
+        ],
+        "screen_y_m": [
+          -51.301,
+          93.2705
+        ]
+      },
+      "LAG-118": {
+        "maximum_conservative_crop_m": 11.3689,
+        "screen_x_m": [
+          -37.8747,
+          37.8747
+        ],
+        "screen_y_m": [
+          -52.1795,
+          81.3689
+        ]
+      },
+      "LAG-712": {
+        "maximum_conservative_crop_m": 14.5498,
+        "screen_x_m": [
+          -41.5089,
+          41.5089
+        ],
+        "screen_y_m": [
+          -53.2577,
+          84.5498
+        ]
+      },
+      "LAG-156": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -29.9654,
+          29.9654
+        ],
+        "screen_y_m": [
+          -49.5579,
+          65.6198
+        ]
+      },
+      "LAG-169": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -27.2135,
+          27.2135
+        ],
+        "screen_y_m": [
+          -48.6458,
+          61.1902
+        ]
+      },
+      "LAG-142": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -29.1314,
+          29.1314
+        ],
+        "screen_y_m": [
+          -49.2815,
+          65.5076
+        ]
+      },
+      "LAG-208": {
+        "maximum_conservative_crop_m": 0,
+        "screen_x_m": [
+          -27.6048,
+          27.6048
+        ],
+        "screen_y_m": [
+          -48.7755,
+          60.8216
+        ]
+      },
+      "LAG-027": {
+        "maximum_conservative_crop_m": 3.8784,
+        "screen_x_m": [
+          -34.8187,
+          34.8187
+        ],
+        "screen_y_m": [
+          -51.1666,
+          73.8784
+        ]
+      }
+    }
+  }
+}

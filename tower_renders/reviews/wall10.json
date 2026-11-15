@@ -1,0 +1,68 @@
+{
+  "batch": 10,
+  "ids": [
+    "LAG-268"
+  ],
+  "sourceReportHashes": {
+    "LAG-268": "5ebdad712e58faa9f6e33f9c0588711e1a9bcb27591bd8a700d238847d1864b4"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Bermuda grass continuous dense fine turf and pale medium perimeter match approved source.",
+      "Common tower lighting produces darker grass than isolated source; no missing or altered native surface is indicated by the visual/hash checks.",
+      "No additional dark blocks or absent rails; full tower framing retained. Fine species-level blade distinctions cannot be certified from this contact-sheet scale."
+    ],
+    "proofScope": "Both PNG/source hashes, cameras, 800 placements and all reported pixel gates checked. Grass EXR reconstruction independently sampled on LAG-330; LAG-268 EXRs not recomputed."
+  },
+  "reviewedUtc": "2026-11-15T14:53:18.448107+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall10_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-268",
+      "label": "Bermuda grass",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "4688194a0091e16682d4a3233a250e65d2472ba440d5fdcca8db62a90123029f",
+      "viewHashes": {
+        "whole": "5270a17afbb0158b75f209e8c34156e68f8c5deed35e828f79fe9f34bda9d24a",
+        "detail": "8a44fd6b6fa5eee60f26ac071982f8be296b030e73b7d8afa7f8b8d26b63dfe4"
+      },
+      "sourceObjectCount": 25,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.4259941577911377,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-f352237246805d3266a884e5d1d42b31a16b8855a0ec3dc4035332079e462357",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-268-7d274fbc3603383b94f9c1dcaf65730472eb648c504c72b2de6af5f8abd365de.json",
+        "fileSha256": "fbfed7f7611ed1215738bcea7983a36a2c8b5e5db6b0db5efb57d57df9e8b1b5",
+        "receiptContentSha256": "7d274fbc3603383b94f9c1dcaf65730472eb648c504c72b2de6af5f8abd365de",
+        "sourceBlendSha256": "4688194a0091e16682d4a3233a250e65d2472ba440d5fdcca8db62a90123029f",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-268.png",
+      "approvedSourceImageSha256": "7fb0c2bf551f8cfc0675f73d90f0adfd3dbc6f3bfc02be6b5b2f68358293bb83"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

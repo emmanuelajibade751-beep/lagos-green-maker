@@ -1,0 +1,67 @@
+{
+  "batch": 4,
+  "ids": [
+    "LAG-709"
+  ],
+  "sourceReportHashes": {
+    "LAG-709": "9ca946ac26726ecf8280f4c38bf52337b15550bb6c973693dec2a9abe3ce365c"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Dense sweet-potato leaf banks and three larger central white gaps match approved source morphology.",
+      "Pale medium finish retained; source-scale pattern repeated consistently on tower, without missing panels or dark patches."
+    ],
+    "proofScope": "Source and both final PNG hashes, common cameras, 800 placements and diagnostics verified. Per-species EXRs not recomputed; LAG-497 provides representative independent mask recomputation."
+  },
+  "reviewedUtc": "2026-11-15T14:34:19.904629+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall04_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-709",
+      "label": "Sweet potato",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "577432cd6f89c85dbacfe6ce7039972dd04e61edbc581a8f71d5e751b83cffc9",
+      "viewHashes": {
+        "whole": "354fa00a808fcbd1f123d44728c88865cb1b768c9257cac8b7893b6a55582f41",
+        "detail": "187c37d99f9b6abea45d783055528d6e70e9edb16183f523389c1c4800ecb1ed"
+      },
+      "sourceObjectCount": 25,
+      "materialCount": 7,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.3392345905303955,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.9000000953674316,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-40711dbb7659a67c0759b67e3fccc27ae0509b0b5927435f867947fe5fe3ac05",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-709-9a655c0e78ee2e9e8145630507a9b4d44731018b1864a7464d390f9a52ebc073.json",
+        "fileSha256": "a38cc24f104f2189b9529bbcdeb8e5c83ab4067e0550592cfca10350d720b8cb",
+        "receiptContentSha256": "9a655c0e78ee2e9e8145630507a9b4d44731018b1864a7464d390f9a52ebc073",
+        "sourceBlendSha256": "577432cd6f89c85dbacfe6ce7039972dd04e61edbc581a8f71d5e751b83cffc9",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-709.png",
+      "approvedSourceImageSha256": "e1ff41494d875209c134d3edb3385b9c32619e530f340eeb55731f5e4f203026"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

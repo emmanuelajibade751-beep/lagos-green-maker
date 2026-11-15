@@ -1,0 +1,433 @@
+{
+  "batch": 5,
+  "ids": [
+    "LAG-262",
+    "LAG-267",
+    "LAG-1024",
+    "LAG-345",
+    "LAG-507",
+    "LAG-266",
+    "LAG-256",
+    "LAG-366",
+    "LAG-255",
+    "LAG-244"
+  ],
+  "sourceReportHashes": {
+    "LAG-262": "f8d274a821988060cd1abca06500ad170af04baf049ae6be96887a658d620a94",
+    "LAG-267": "b6879f9c47903cb1cea525629389762d813b90b1f68363eb2c5e90ab5241203e",
+    "LAG-1024": "3486c9278eec254780eabbc708421afefcba0317d2e6260151fcfcf97e7c7394",
+    "LAG-345": "4fadd8f4d05692fbad9a42d1893614b32c3351d188e86fe75baec5d6ebb0ee88",
+    "LAG-507": "5e61293fbea3b189270f400bd4df295ba37c89ba95bb321b9e8a9e0343683718",
+    "LAG-266": "8404e6281ab59840074f9120be8836032fcb4d7a1b3bf8b0e22f63e327907cbf",
+    "LAG-256": "b59cc72dc91ebc420f2bc1129f811fc63525a32e5b86816e86ec95f06631f18c",
+    "LAG-366": "66deec7832a725a8a5630b978de430fc7863dd92c40e736c55a691778eff8be7",
+    "LAG-255": "07a03fda9348eb4c40e265d5b11007a85f7c6440e004da0e997e3825bf86e074",
+    "LAG-244": "0e2d0ca0b94d2e6d116092c121cb430fcbae0010c57b9bd62e9b7af925b6d03a"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "findings": [
+      "All10 approved source plant/holder arrangements retained, with complete whole frames and representative detail views.",
+      "262 tall spiral-ginger stems,267 broad low turmeric leaves,1024 fine ginger leaves and345 low peace-lily crowns remain distinct.",
+      "507 pale striped narrow spider-plant leaves,266 small crossandra shrubs and256 reddish coleus foliage match source rather than generic shared foliage.",
+      "366 retains six lemongrass clumps in one long trough;255 and244 retain six separate stepped round pots and differing grass heights/density.",
+      "No blank layer, missing holder or camera clipping of whole assembly observed."
+    ],
+    "metadataNote": "LAG-255 label in approved inventory has apostrophe mojibake; source file identity unaffected."
+  },
+  "reviewedUtc": "2026-11-15T15:17:34.002739+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\batch05_sheet1.jpg",
+    "tmp\\native_batch_reviews\\batch05_sheet2.jpg",
+    "tmp\\native_batch_reviews\\batch05_sheet3.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-262",
+      "label": "African spiral ginger",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "42d437e2e89134f9ccd0b2f96b8d7d980ec9eae104346f70384b5793607ac754",
+      "viewHashes": {
+        "whole": "d74e86d52cdd25dad3572f51366977e9ad0522bd83aaddc66945e2db2064ad68",
+        "detail": "c97e2baf23debcbefe8a0b9dcc3572a9c9ec47d98753854ff481670b4ad19c08"
+      },
+      "sourceObjectCount": 130,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -1.9599997997283936,
+          -1.0524351596832275,
+          0.0
+        ],
+        "max": [
+          1.9600000381469727,
+          1.100000023841858,
+          3.146503210067749
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-78c8a1f4f3e56612e6dfda0c115f25a6ec5086cf355b7f0c634240dc6de731b3",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-262-adf216d37071b9ff516d03afe06de5a45f7557fb0aa6a5c61f77c61ad6ae2c53.json",
+        "fileSha256": "3d64ad422f727fe487aabab874cee316cf5ee7eac117b4e365281225151436b3",
+        "receiptContentSha256": "adf216d37071b9ff516d03afe06de5a45f7557fb0aa6a5c61f77c61ad6ae2c53",
+        "sourceBlendSha256": "42d437e2e89134f9ccd0b2f96b8d7d980ec9eae104346f70384b5793607ac754",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-262.png",
+      "approvedSourceImageSha256": "36da0400134cbe19e4dd89299598a6d4c40b39a02a84392c345f70329db467d5"
+    },
+    {
+      "id": "LAG-267",
+      "label": "Turmeric",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "ad0f5d52622d5f915b82ba96bf1a0ade7864e3a54e528af25a7e64ea6598d53a",
+      "viewHashes": {
+        "whole": "1e2fa1cb60f30c37d3e77bd63c76a0483795b6a5039f351dec6706180c03c470",
+        "detail": "ce8437ed31a4f93bb054f4ef3fe7531ccad35f9b1948065043f88526857ee987"
+      },
+      "sourceObjectCount": 130,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -1.9450483322143555,
+          -1.1772773265838623,
+          0.0
+        ],
+        "max": [
+          1.9600000381469727,
+          1.2735967636108398,
+          1.7577805519104004
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-85fda8276d1f800675c30fc85d3039bb3b5500397cee843f3835b870604ba185",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-267-005908874bf9e6d8b8c115042d7602ff18586a06e7670bbb306a3d34460c715b.json",
+        "fileSha256": "83a57583fd643f3e9595488cbe660b82045e59d873a03a616b55b963904a2936",
+        "receiptContentSha256": "005908874bf9e6d8b8c115042d7602ff18586a06e7670bbb306a3d34460c715b",
+        "sourceBlendSha256": "ad0f5d52622d5f915b82ba96bf1a0ade7864e3a54e528af25a7e64ea6598d53a",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-267.png",
+      "approvedSourceImageSha256": "6621e45285655f6817e0600f1496770af229fc7208791550185bb5b171df4af1"
+    },
+    {
+      "id": "LAG-1024",
+      "label": "Ginger",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "67c96d6d451a8eee00c5c854eb26e41d7e9ae0b945a3bd888f8d256cefe6c3cd",
+      "viewHashes": {
+        "whole": "9f200aede497cd19a96d43a262824e7bf9556c441941eedfa4d72a7de35f0a23",
+        "detail": "b94a8e9634b7cd8d602647829e5ce99678ea721e4d0bf91da006bc482e6287c3"
+      },
+      "sourceObjectCount": 130,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.9600000381469727,
+          -1.2314732074737549,
+          0.0
+        ],
+        "max": [
+          1.909264087677002,
+          1.100000023841858,
+          2.0819573402404785
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-3cae2e2380a38cac958a6c8be61802a1be87e773c2dc6007ecdf49387950319f",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-1024-4bb72599e878dd924bcde896903f40adf981f65945c6f7e458b91e0cbb3c8c76.json",
+        "fileSha256": "6a7984eba1b73605e4acb2589c10ef51dbc7cd4177216cc3040ae20ac23dc037",
+        "receiptContentSha256": "4bb72599e878dd924bcde896903f40adf981f65945c6f7e458b91e0cbb3c8c76",
+        "sourceBlendSha256": "67c96d6d451a8eee00c5c854eb26e41d7e9ae0b945a3bd888f8d256cefe6c3cd",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-1024.png",
+      "approvedSourceImageSha256": "5278282d6add8342324c0eb02d3b0f5582fc06b97a121fc720f6251868816bff"
+    },
+    {
+      "id": "LAG-345",
+      "label": "Peace lily",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "4063c36f6ee5302c547ce09609f0807c795e2b05f847a8f4b6d8691f8086ebe8",
+      "viewHashes": {
+        "whole": "cea6c48dedf292874b7c36e44e97423ab365562853b3caff46b80a2752536693",
+        "detail": "a1c1cc45f3e917556529457ab0a12e8d9086e5b428ea4e37843340e068f3d5f5"
+      },
+      "sourceObjectCount": 140,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.9599997997283936,
+          -1.0124859809875488,
+          0.0
+        ],
+        "max": [
+          1.9600005149841309,
+          1.0739985704421997,
+          1.505975604057312
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-fc14ad8b70dc482c50124e56f604883f29e1ba6e6c42a519881f7dd218ef999d",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-345-b9222aba26cee9d53cfec0b21edcadfda917ef00e9fc8196ea81b17783a6e5eb.json",
+        "fileSha256": "371734a081ac5ac758ef3b8d7e9610deffc5dbc0bf584448bde773cb282a754a",
+        "receiptContentSha256": "b9222aba26cee9d53cfec0b21edcadfda917ef00e9fc8196ea81b17783a6e5eb",
+        "sourceBlendSha256": "4063c36f6ee5302c547ce09609f0807c795e2b05f847a8f4b6d8691f8086ebe8",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-345.png",
+      "approvedSourceImageSha256": "f8d2da6f509dde607be73a777d982b004f619692fb4c7c86c9a55745eb1e4af9"
+    },
+    {
+      "id": "LAG-507",
+      "label": "Spider plant",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "15a8e6c929cb290e0da7b8e2ca0526b5ce5be98d7242a0739c3777abe2a7ef29",
+      "viewHashes": {
+        "whole": "fe3115aab9311419ba0d9d1156d2351037ebef11f4d7ab454975b2d125e6c5ea",
+        "detail": "a335bae2e2e3400a6feb9a285b869b1f25f0be57004c54372caace6b96292aca"
+      },
+      "sourceObjectCount": 126,
+      "materialCount": 9,
+      "fitBounds": {
+        "min": [
+          -1.9599997997283936,
+          -0.9700000286102295,
+          0.0
+        ],
+        "max": [
+          1.9600000381469727,
+          1.0758676528930664,
+          1.0520472526550293
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-0703b1d5e463b1b12fae561414de4d45137408a75babff38b19ffaef8378ff63",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-507-43e86b3e7fd9d3535536c0eb87b23912244edb0e2eaf716a62edfaad854cc878.json",
+        "fileSha256": "97230e772012d8d9097110a1f92118d89eaa992bd1cf4a28847914909d41853b",
+        "receiptContentSha256": "43e86b3e7fd9d3535536c0eb87b23912244edb0e2eaf716a62edfaad854cc878",
+        "sourceBlendSha256": "15a8e6c929cb290e0da7b8e2ca0526b5ce5be98d7242a0739c3777abe2a7ef29",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-507.png",
+      "approvedSourceImageSha256": "0ba6740f7413f690323faebc709a2c78b1377d5751bfe1ee3caa51c537286a09"
+    },
+    {
+      "id": "LAG-266",
+      "label": "Crossandra",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "2db4799a16c7b8f3675068d86db6ab2cd7ab84b4ecbc9075570eb04c00d24c23",
+      "viewHashes": {
+        "whole": "3646e592a702d1975c85d5df8f8f0508917028666bfc38dcdafeb7261e90474a",
+        "detail": "26810f4fa18404944e91d7b1079837c8f3aa1bfeb799dd68828fa3d7169a36e1"
+      },
+      "sourceObjectCount": 180,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.846808671951294,
+          -0.9700000286102295,
+          0.0
+        ],
+        "max": [
+          1.842808723449707,
+          1.03000009059906,
+          1.4654619693756104
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-740726c5411ddc0c71ea6fde40b2f4dbea6e1279ba96f3b3ecdf8d759e13621f",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-266-2d06e9abe9ccb882bad906412b055564a60144035a9897e838b1add2f35cc83c.json",
+        "fileSha256": "84cdaf0c7eb0ff50af9943103bace2a6358f65ba1dd9e2acff54b89badd9353e",
+        "receiptContentSha256": "2d06e9abe9ccb882bad906412b055564a60144035a9897e838b1add2f35cc83c",
+        "sourceBlendSha256": "2db4799a16c7b8f3675068d86db6ab2cd7ab84b4ecbc9075570eb04c00d24c23",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-266.png",
+      "approvedSourceImageSha256": "19557014ae29a1722cfcf41fd286486628ba2955797e6a5e67af231329907038"
+    },
+    {
+      "id": "LAG-256",
+      "label": "Coleus",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "83acb603b0ecc368d07281d1cc63366d2fc34c5afcc163a6da60087e18b634db",
+      "viewHashes": {
+        "whole": "263717ee8230e14d69159efb993c1e526acca8be962172bcf156214fb44cb28d",
+        "detail": "2fa8a19c3f2ba1935be66561af5fad5b343f03379d6ba276340d51f11fe66fd1"
+      },
+      "sourceObjectCount": 170,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -1.8511183261871338,
+          -0.9700000286102295,
+          0.0
+        ],
+        "max": [
+          1.8568687438964844,
+          1.03000009059906,
+          1.4600410461425781
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-f5c3d0c1f15cb9a718a482210b16e1a8bfb5ae9436c8ea191f89949614e7301d",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-256-d65dbdcf780ed9cb99ac755bb453f4195fd334a719f1fd07dda6242134b0369d.json",
+        "fileSha256": "acf14a31f0de3a6eb2d66a2e79a2b6c2831dee2f51f941c7d86f2600c0ba1466",
+        "receiptContentSha256": "d65dbdcf780ed9cb99ac755bb453f4195fd334a719f1fd07dda6242134b0369d",
+        "sourceBlendSha256": "83acb603b0ecc368d07281d1cc63366d2fc34c5afcc163a6da60087e18b634db",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/flowering_herbs_12_stepped_review/LAG-256.png",
+      "approvedSourceImageSha256": "1baef33053e2d1611e16ee298165d41dcd1fa0a863e0ec786aedcf5402593073"
+    },
+    {
+      "id": "LAG-366",
+      "label": "Lemongrass balcony study",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "f7a4db5238e9f22a6d9e209a4bfbe0b5f507e37fb7bcf8b165c26448ce3ca949",
+      "viewHashes": {
+        "whole": "e96a856419713d450a04c84b1e4a5e447df1c81f0034e95209132145c386602d",
+        "detail": "8168facf9d6ac9ffd9193552bdf6de187f4a4c31ac62f1ee8c222b36328d4368"
+      },
+      "sourceObjectCount": 52,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -2.0659873485565186,
+          -1.8937159776687622,
+          0.0
+        ],
+        "max": [
+          2.0642786026000977,
+          -0.08468535542488098,
+          1.5092594623565674
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-fdfbaf2de3d872af22f8a5c78b9a37d973f1446d81dadcd2b6e18fc0c0b6700f",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-366-0e040cf6e65161f69fec912bc57e3df9baf2b80351eee85c3cd30e03c63d89c4.json",
+        "fileSha256": "64e55c87b98e0cf4f9c13ebf2731027a0e6285c80fb82ca2caefa6ef61e0dace",
+        "receiptContentSha256": "0e040cf6e65161f69fec912bc57e3df9baf2b80351eee85c3cd30e03c63d89c4",
+        "sourceBlendSha256": "f7a4db5238e9f22a6d9e209a4bfbe0b5f507e37fb7bcf8b165c26448ce3ca949",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/lemongrass_balcony_01/LAG-366.png",
+      "approvedSourceImageSha256": "0062dd5aa40cff162b62129570fce8dc42978178e8f5484f1fa945e05ac7a4b4"
+    },
+    {
+      "id": "LAG-255",
+      "label": "Job\u00e2\u20ac\u2122s tears",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "3f7e128477c9ed3860d34088274c0f641f36241a9e50f1b428e13b3b314a9bd3",
+      "viewHashes": {
+        "whole": "4f70ff218462698eedb0eedba03695002262609613dcc2ca17833e0f9d345cb6",
+        "detail": "a19e0293930783fbf399346401c6bd28f5bc9fd906489d36e4cabc5534ff44f5"
+      },
+      "sourceObjectCount": 89,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -2.2498347759246826,
+          -1.9088689088821411,
+          0.0
+        ],
+        "max": [
+          2.086451530456543,
+          1.1836352348327637,
+          3.121460437774658
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-e9b539e8ba09dd60db25b9547e803f55ab27d9a2aff111ab410848aae5434f58",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-255-9df25a4aa81d02d54cfd4bf18b6c9beb653428e98d2df33370171027a1441765.json",
+        "fileSha256": "44d5546995b3f4de7025e9dc410a87109ed0c6e56cbb0e3b83218ea7b66ca76f",
+        "receiptContentSha256": "9df25a4aa81d02d54cfd4bf18b6c9beb653428e98d2df33370171027a1441765",
+        "sourceBlendSha256": "3f7e128477c9ed3860d34088274c0f641f36241a9e50f1b428e13b3b314a9bd3",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-255.png",
+      "approvedSourceImageSha256": "19ed183d285326cc858965d17cdbbbb195793292e50664eb9941e6517e326f05"
+    },
+    {
+      "id": "LAG-244",
+      "label": "Elephant grass",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "6bc280d771085a16b10cdd1aff779638b8f92dcf1e76b17a7b8a407c0c4b55d8",
+      "viewHashes": {
+        "whole": "c9cf22992edee5ed685db93a2fb529e209cc7e272dd3d240c40a2565cdcc656c",
+        "detail": "1de8a4e49247970c4093a8f018193bbc74e9a5c066f49e756e91bc8212c1faa6"
+      },
+      "sourceObjectCount": 85,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -2.555518627166748,
+          -2.3326125144958496,
+          0.0
+        ],
+        "max": [
+          2.630467414855957,
+          1.7058744430541992,
+          4.807065963745117
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-48db4f2ac07a509a1640beecc31a1eb23a82bbea401a1c85a5267207827ea280",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-244-41093098f88a7dd360229f89874eee83f0d55fe1636a6f840ed777c5e384d406.json",
+        "fileSha256": "f8ae3f451379ede28f586ce07fe86f775ab30afa01172b45aeaaaa3314b64e10",
+        "receiptContentSha256": "41093098f88a7dd360229f89874eee83f0d55fe1636a6f840ed777c5e384d406",
+        "sourceBlendSha256": "6bc280d771085a16b10cdd1aff779638b8f92dcf1e76b17a7b8a407c0c4b55d8",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-244.png",
+      "approvedSourceImageSha256": "c2e3d6c43cd88189209da6c002c0099fff321b0521f0d18caaf53ce35c5e217e"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

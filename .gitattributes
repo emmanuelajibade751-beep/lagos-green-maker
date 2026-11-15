@@ -1,0 +1,11 @@
+# Evidence receipts hash exact file bytes; preserve them on every platform.
+* text=auto
+tower_renders/** -text
+plant_solar_data/** -text
+release_evidence/** -text
+solar_3d_media/** -text
+placement_fit/** -text
+paired_shade/** -text
+wall_comparison/** -text
+tower_preview/** -text
+balcony_studies/** -text

@@ -1,0 +1,20 @@
+{
+  "source_index_sha256": "fb4e1077b8e146f0c4c70a15f8f2323bb58e5b83a36b71eb8e5d2adac19b1ffc",
+  "counts": {
+    "whole_tower_complete": 300,
+    "single_balcony_complete": 300,
+    "whole_tower_pending": 0,
+    "single_balcony_pending": 0
+  },
+  "asset_count": 3634,
+  "linked_evidence_paths": 4500,
+  "file_types": {
+    ".gz": 2433,
+    ".md": 1,
+    ".json": 600,
+    ".png": 600
+  },
+  "status": "pass",
+  "scope": "Served app payload identity, valid paths, and reversible compressed downloads",
+  "analysis_result_audit": "tmp/independent-solar-result-audit.json"
+}

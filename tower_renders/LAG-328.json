@@ -1,0 +1,145 @@
+{
+  "id": "LAG-328",
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2628272136aadca0596870b11880e6c7d84bc57e0140d1a573712bfff5bd6dff",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/shrubs_12_revision_02/LAG-328.blend",
+  "sourceSha256": "9444df7e8136d5ce9776b121330834539dfea54ce0f60d256cb26538c9766b43",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    11.0,
+    0.0,
+    0.0
+  ],
+  "stage": "Developed panel by deck location",
+  "sourceObjectCount": 19,
+  "sourceObjectBounds": {
+    "min": [
+      -1.5691852569580078,
+      -1.2949999570846558,
+      -0.024000000208616257
+    ],
+    "max": [
+      1.5936050415039062,
+      1.3300000429153442,
+      2.5439867973327637
+    ]
+  },
+  "materialCount": 12,
+  "materialObjectFingerprint": "f66468d8780e3aec3fbb96645466b4f5daeeb576c8d74761dd000981cf3fa4a8",
+  "sourceObjects": [
+    "Seat.002",
+    "Seat leg.004",
+    "Seat leg.005",
+    "Round drained pot.003",
+    "Cone.003",
+    "Water outlet / schematic.003",
+    "basil | rooted shoots and inflorescence axes.009",
+    "Individual blade meshes.031",
+    "Connecting petioles.027",
+    "Visible midribs.025",
+    "basil whorls.005",
+    "Round drained pot.004",
+    "Cone.004",
+    "Water outlet / schematic.004",
+    "basil | rooted shoots and inflorescence axes.010",
+    "Individual blade meshes.032",
+    "Connecting petioles.028",
+    "Visible midribs.026",
+    "basil whorls.006"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-328-whole.png",
+      "sha256": "27570617303490f23569d19aaa0eab35526031af7b90cd99838b7dabdf566a47",
+      "seconds": 19.05,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-328-detail.png",
+      "sha256": "438cf86aa814298369be167e697bf1ca6ba853e3d196995889ee6049ce3ad06c",
+      "seconds": 28.5,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 60.81
+}

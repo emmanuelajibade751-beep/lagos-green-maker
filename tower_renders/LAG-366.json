@@ -1,0 +1,187 @@
+{
+  "id": "LAG-366",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-fdfbaf2de3d872af22f8a5c78b9a37d973f1446d81dadcd2b6e18fc0c0b6700f",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-366-0e040cf6e65161f69fec912bc57e3df9baf2b80351eee85c3cd30e03c63d89c4.json",
+    "fileSha256": "64e55c87b98e0cf4f9c13ebf2731027a0e6285c80fb82ca2caefa6ef61e0dace",
+    "receiptContentSha256": "0e040cf6e65161f69fec912bc57e3df9baf2b80351eee85c3cd30e03c63d89c4",
+    "sourceBlendSha256": "f7a4db5238e9f22a6d9e209a4bfbe0b5f507e37fb7bcf8b165c26448ce3ca949",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/lemongrass_balcony_01/LAG-366.blend",
+  "sourceSha256": "f7a4db5238e9f22a6d9e209a4bfbe0b5f507e37fb7bcf8b165c26448ce3ca949",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 52,
+  "sourceObjectBounds": {
+    "min": [
+      -2.0659873485565186,
+      -1.8937159776687622,
+      0.0
+    ],
+    "max": [
+      2.0642786026000977,
+      -0.08468535542488098,
+      1.5092594623565674
+    ]
+  },
+  "materialCount": 13,
+  "materialObjectFingerprint": "cf1464d2100c4b507f9e5ad685b2a059e4d7a35f032c2223d59be66deaec60b2",
+  "sourceObjects": [
+    "Trough long wall.004",
+    "Trough end wall.004",
+    "Trough long wall.005",
+    "Trough end wall.005",
+    "Side of trough base.004",
+    "Side of trough base.005",
+    "Trough base between drain slots.008",
+    "Trough base between drain slots.009",
+    "Trough base between drain slots.010",
+    "Trough base between drain slots.011",
+    "Drain screen bar.030",
+    "Drain screen bar.031",
+    "Drain screen bar.032",
+    "Drain screen bar.033",
+    "Drain screen bar.034",
+    "Drain screen bar.035",
+    "Drain screen bar.036",
+    "Drain screen bar.037",
+    "Drain screen bar.038",
+    "Drain screen bar.039",
+    "Drain screen bar.040",
+    "Drain screen bar.041",
+    "Drain screen bar.042",
+    "Drain screen bar.043",
+    "Drain screen bar.044",
+    "Low trough foot.016",
+    "Low trough foot.017",
+    "Low trough foot.018",
+    "Low trough foot.019",
+    "Low trough foot.020",
+    "Low trough foot.021",
+    "Low trough foot.022",
+    "Low trough foot.023",
+    "Continuous growing medium.002",
+    "Overlapping basal leaf sheaths.015",
+    "Folded linear blades with long attenuate tips.015",
+    "Pale longitudinal midribs.015",
+    "Overlapping basal leaf sheaths.016",
+    "Folded linear blades with long attenuate tips.016",
+    "Pale longitudinal midribs.016",
+    "Overlapping basal leaf sheaths.017",
+    "Folded linear blades with long attenuate tips.017",
+    "Pale longitudinal midribs.017",
+    "Overlapping basal leaf sheaths.018",
+    "Folded linear blades with long attenuate tips.018",
+    "Pale longitudinal midribs.018",
+    "Overlapping basal leaf sheaths.019",
+    "Folded linear blades with long attenuate tips.019",
+    "Pale longitudinal midribs.019",
+    "Overlapping basal leaf sheaths.020",
+    "Folded linear blades with long attenuate tips.020",
+    "Pale longitudinal midribs.020"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-366-whole.png",
+      "sha256": "e96a856419713d450a04c84b1e4a5e447df1c81f0034e95209132145c386602d",
+      "seconds": 20.65,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-366-detail.png",
+      "sha256": "8168facf9d6ac9ffd9193552bdf6de187f4a4c31ac62f1ee8c222b36328d4368",
+      "seconds": 33.14,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 55.53
+}

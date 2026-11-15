@@ -1,0 +1,164 @@
+{
+  "id": "LAG-335",
+  "presentationSignature": "4b51a2df922b2bd0492d9217d7ffc3825f74bf6fd4adcc1bfceed1693a866d37",
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/groundcovers_and_wetland_balconies/LAG-335.blend",
+  "sourceSha256": "7add38d69b775ff5ef2fba7e0eb5e016e02f647ee31c463b64a65e91fffe3d89",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 78,
+  "sourceObjectBounds": {
+    "min": [
+      -1.7999999523162842,
+      -1.0699999332427979,
+      0.0
+    ],
+    "max": [
+      1.8000001907348633,
+      0.4449999928474426,
+      0.5140591859817505
+    ]
+  },
+  "materialCount": 8,
+  "materialObjectFingerprint": "9c1d0a5fad43afdc72bbca2318401f702ac528134c6eae5da067964adf6338e1",
+  "sourceObjects": [
+    "Sealed shell base.002",
+    "Sealed end.004",
+    "Sealed end.005",
+    "Front wall.002",
+    "Back wall beside overflow.004",
+    "Back wall beside overflow.005",
+    "Back wall to waterline.002",
+    "Back wall above overflow.002",
+    "Removable overflow screen wire.082",
+    "Removable overflow screen wire.083",
+    "Removable overflow screen wire.084",
+    "Removable overflow screen wire.085",
+    "Removable overflow screen wire.086",
+    "Removable overflow screen wire.087",
+    "Removable overflow screen wire.088",
+    "Removable overflow screen wire.089",
+    "Removable overflow screen wire.090",
+    "Removable overflow screen wire.091",
+    "Removable overflow screen wire.092",
+    "Removable overflow screen wire.093",
+    "Removable overflow screen wire.094",
+    "Removable overflow screen wire.095",
+    "Removable overflow screen wire.096",
+    "Removable overflow screen wire.097",
+    "Removable overflow screen wire.098",
+    "Removable overflow screen wire.099",
+    "Removable overflow screen wire.100",
+    "Removable overflow screen wire.101",
+    "Removable overflow screen wire.102",
+    "Removable overflow screen wire.103",
+    "Removable overflow screen wire.104",
+    "Removable overflow screen wire.105",
+    "Removable overflow screen wire.106",
+    "Removable overflow screen wire.107",
+    "Removable overflow screen wire.108",
+    "Removable overflow screen wire.109",
+    "Removable overflow screen wire.110",
+    "Removable overflow screen wire.111",
+    "Removable overflow screen wire.112",
+    "Removable overflow screen wire.113",
+    "Removable overflow screen wire.114",
+    "Removable overflow screen wire.115",
+    "Removable overflow screen wire.116",
+    "Removable overflow screen wire.117",
+    "Removable overflow screen wire.118",
+    "Removable overflow screen wire.119",
+    "Removable overflow screen wire.120",
+    "Removable overflow screen wire.121",
+    "Removable overflow screen wire.122",
+    "Overflow channel floor.002",
+    "Overflow channel side.004",
+    "Overflow channel side.005",
+    "Freshwater to overflow datum.002",
+    "Removable catch vessel base.002",
+    "Catch vessel end.004",
+    "Catch vessel side.004",
+    "Catch vessel end.005",
+    "Catch vessel side.005",
+    "Pistia | submerged feathery adventitious roots.023",
+    "Individual blade meshes.024",
+    "Pistia | submerged feathery adventitious roots.024",
+    "Individual blade meshes.025",
+    "Pistia | submerged feathery adventitious roots.025",
+    "Individual blade meshes.026",
+    "Pistia | submerged feathery adventitious roots.026",
+    "Individual blade meshes.027",
+    "Pistia | submerged feathery adventitious roots.027",
+    "Individual blade meshes.028",
+    "Pistia | submerged feathery adventitious roots.028",
+    "Individual blade meshes.029",
+    "Pistia | submerged feathery adventitious roots.029",
+    "Individual blade meshes.030",
+    "Pistia | submerged feathery adventitious roots.030",
+    "Individual blade meshes.031",
+    "Pistia | submerged feathery adventitious roots.031",
+    "Individual blade meshes.032",
+    "Pistia | submerged feathery adventitious roots.032",
+    "Individual blade meshes.033"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-335-whole.png",
+      "sha256": "588a9c0a5535dc04b5118f952900ca516b4750767b7eb7b5ea207be5f4aac2da",
+      "seconds": 17.49,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-335-detail.png",
+      "sha256": "57dda242864d0c7f7b0d72180a4449c03547fba38888486a4116bb73635001a2",
+      "seconds": 26.73,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 45.85
+}

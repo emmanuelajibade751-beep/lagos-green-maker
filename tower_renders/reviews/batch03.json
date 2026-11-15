@@ -1,0 +1,431 @@
+{
+  "batch": 3,
+  "ids": [
+    "LAG-779",
+    "LAG-238",
+    "LAG-230",
+    "LAG-258",
+    "LAG-331",
+    "LAG-966",
+    "LAG-316",
+    "LAG-283",
+    "LAG-334",
+    "LAG-651"
+  ],
+  "sourceReportHashes": {
+    "LAG-779": "e90ee4f4610216320a65d3cf0af03514c5798b776658d01fbe6170a44a902067",
+    "LAG-238": "356d22a215c8b720f7d7c287c23bc689e171c9fca12b874baffb2a869e342032",
+    "LAG-230": "26edb66714cb3e1bb4a33081e1ad9d0de15fde632b0371cb391935615e8ad338",
+    "LAG-258": "43b9fa943f0282c90e09e818d0ab133fbe9786bd6a235f391ac4b03c892ed8ab",
+    "LAG-331": "91c7a3a6dfefe0ba0744da041b678f9b641305b8ae273a929df9c31a543a8b11",
+    "LAG-966": "ab53526e5e12772d506ab15e73da51abbc01b8b09f930a3af552f8ae71bda5c0",
+    "LAG-316": "3a3f241f94dd62e32094d70b826205a4b919e5641c418916fe26c1f7b80f0ced",
+    "LAG-283": "bc8f0ecf825f0e379828031d5058d1745b0baac2db469348a49ddbb430c88813",
+    "LAG-334": "b3016e47615f1e4e34195d966e16032b187485eb654c6993fbe77d90671b4023",
+    "LAG-651": "7c7d0e5b5a283aa763d02e98c31d40dbbb1ce6cba1403124af696707092304ae"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "method": "Inspected all three generated contact sheets: paired whole/detail native renders against the approved right-hand developed source panel.",
+    "findings": [
+      "All 10 paired views retain recognizable approved source foliage distribution and holder/trellis configurations.",
+      "Golden trumpet vine retains yellow flowers; golden pothos retains broad leaves and compact trellis; creeping fig retains its dense narrow panel.",
+      "Murraya retains the two woody plants and separate round pots. No missing holder or blank plant layer observed.",
+      "Whole-tower views show the full architectural host; fixed detail frame shows a representative native assembly.",
+      "Source-scale vertical/bay extent warnings are design fit notes, not render corruption."
+    ],
+    "failures": []
+  },
+  "reviewedUtc": "2026-11-15T14:21:47.378008+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\batch03_sheet1.jpg",
+    "tmp\\native_batch_reviews\\batch03_sheet2.jpg",
+    "tmp\\native_batch_reviews\\batch03_sheet3.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-779",
+      "label": "Murraya paniculata",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "b149516373d0d75b95bf90ee9c82e610060c4ea64d5953a3838f5e84e0f9cb50",
+      "viewHashes": {
+        "whole": "6ac73281a0db8795078821ede841ef8449bb12a6cc57075fdce9184a9144105c",
+        "detail": "e88a9ef64a5b7281901b24558f70be609306d0365d4441cce1ab7e294baf72a1"
+      },
+      "sourceObjectCount": 17,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.9738273620605469,
+          -1.8000530004501343,
+          -0.024000000208616257
+        ],
+        "max": [
+          1.9053430557250977,
+          1.3300000429153442,
+          4.034366130828857
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-7c6897beaf183097ed147d7bb39b270d1ed66c0339e4fb5b62c7d3760ba13787",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-779-5a899cdc03318c8f21f663936c54e4e92875a7e347bffc37920604beb873dd25.json",
+        "fileSha256": "e148e5eedf2948d28475f64382a10a300ce49be7f28c7728f9e9350f7d9bcea1",
+        "receiptContentSha256": "5a899cdc03318c8f21f663936c54e4e92875a7e347bffc37920604beb873dd25",
+        "sourceBlendSha256": "b149516373d0d75b95bf90ee9c82e610060c4ea64d5953a3838f5e84e0f9cb50",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/shrubs_12_revision_02/LAG-779.png",
+      "approvedSourceImageSha256": "8200bc0db0840e663cc93afa8513c8fdaa2f008b9a664abc24c581f081ce8b49"
+    },
+    {
+      "id": "LAG-238",
+      "label": "Malabar spinach",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "845d27856aa02593a8bd3a0688b0df92b4f0c9f0354842aab11a34857da8202b",
+      "viewHashes": {
+        "whole": "c51d084413bf6a568e710787ccf4b40a0c2e983c0538832583ad5a73ac39d122",
+        "detail": "5ef3f89b26f8b75a1775727efa5197d450e2abccc0049aad35f7727ee02de5da"
+      },
+      "sourceObjectCount": 43,
+      "materialCount": 15,
+      "fitBounds": {
+        "min": [
+          -0.756136417388916,
+          -1.0399999618530273,
+          0.0
+        ],
+        "max": [
+          0.7995104789733887,
+          -0.2049546241760254,
+          2.7130000591278076
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-dfe7766056ae407774e221b4e59df2f4eb0fececb1110bba4c65978452e171ad",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-238-f84122acebfeb0eda669fa329d56b8ec2229f5825cec2c653253c91f49d39f44.json",
+        "fileSha256": "9aaec61d38f5b779eb8b5199b4e0556548b89d332e301d72b8ae812afad60035",
+        "receiptContentSha256": "f84122acebfeb0eda669fa329d56b8ec2229f5825cec2c653253c91f49d39f44",
+        "sourceBlendSha256": "845d27856aa02593a8bd3a0688b0df92b4f0c9f0354842aab11a34857da8202b",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-238.png",
+      "approvedSourceImageSha256": "a5bdd96efca2086d53a67b161f9325856e8aae0ea6ed5d3fc9a157a12c648a74"
+    },
+    {
+      "id": "LAG-230",
+      "label": "Golden trumpet vine",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "6cfb9df1940bb263fcfb33b845f2e817da698691d3515e9a11c6da4177fdebc9",
+      "viewHashes": {
+        "whole": "fd561f83de2b888b38b37c7d27e1de0b2e71665bc9259e892ea209c25fb659a7",
+        "detail": "17b62a5d435dc7f74e188febfe17ad495ae9fcefae60991d3c80d7ef5df5e795"
+      },
+      "sourceObjectCount": 36,
+      "materialCount": 19,
+      "fitBounds": {
+        "min": [
+          -0.7859945297241211,
+          -1.0399999618530273,
+          0.0
+        ],
+        "max": [
+          0.7918276786804199,
+          -0.29129067063331604,
+          3.062999963760376
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-3486f5072d5278535da74e88490b1c522a9ac376e50f8728528dd1532435217f",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-230-7aa483872c2116c3cd84d09eec26dad9ff758fdd3ba098c587f23787f585f5a2.json",
+        "fileSha256": "3738aa8a14938e1d870e6bd07cc26e8c86df820b80da20e476ed566f7478337b",
+        "receiptContentSha256": "7aa483872c2116c3cd84d09eec26dad9ff758fdd3ba098c587f23787f585f5a2",
+        "sourceBlendSha256": "6cfb9df1940bb263fcfb33b845f2e817da698691d3515e9a11c6da4177fdebc9",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-230.png",
+      "approvedSourceImageSha256": "86f70a2ccbba4d641fdd3b2c9f2df21cee0f13fa25e941aa83227e52494d8198"
+    },
+    {
+      "id": "LAG-258",
+      "label": "Rangoon creeper",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "a53a5047bcc96e721622e1d7a172926cea21561fe5dce5f7c6a3e1ff1a7c4a71",
+      "viewHashes": {
+        "whole": "9c000462a616af3d281743ad923ce55eb1708012d21c1aabbd4677bb4c30637d",
+        "detail": "3ba010e2c5e94456166aded9a812f3a565184cf4eca95b17e31146d91571ae50"
+      },
+      "sourceObjectCount": 43,
+      "materialCount": 15,
+      "fitBounds": {
+        "min": [
+          -0.7391095161437988,
+          -1.0399999618530273,
+          0.0
+        ],
+        "max": [
+          0.7688350677490234,
+          -0.2465420365333557,
+          4.192999839782715
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-6c60b4c8bf667d2ba56a9ea9402ba98c25eb979e3bd6afa0432683dc1ca09d0b",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-258-bef657ec12ecf2be9ddd7345c5d8e40024092d0093af0399aa54ca8f10e84cba.json",
+        "fileSha256": "1dab36eb9e4f6053d039b3fe9a0062aae67767853d321e21abb2a47924fb183e",
+        "receiptContentSha256": "bef657ec12ecf2be9ddd7345c5d8e40024092d0093af0399aa54ca8f10e84cba",
+        "sourceBlendSha256": "a53a5047bcc96e721622e1d7a172926cea21561fe5dce5f7c6a3e1ff1a7c4a71",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-258.png",
+      "approvedSourceImageSha256": "fc743c7dc04e1f4387b595e5c4a59abad5081a83e214a53b9a87d3c614b34468"
+    },
+    {
+      "id": "LAG-331",
+      "label": "Stinking passionflower",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "79bc6366158013716427d1c98b48ed239c32e7cce271c3198498f17909754229",
+      "viewHashes": {
+        "whole": "27728c9746eafefd6822022b2140c91622e81f1c8b0d29afeffd7712325ad549",
+        "detail": "acd80d9b6f6e3834ab73a35d6c66b1338e8806939cee6ca72dd087f408d893a9"
+      },
+      "sourceObjectCount": 44,
+      "materialCount": 17,
+      "fitBounds": {
+        "min": [
+          -0.7477951049804688,
+          -1.0399999618530273,
+          0.0
+        ],
+        "max": [
+          0.7906765937805176,
+          -0.2440876066684723,
+          2.7730000019073486
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-71cc2a97f27f3853021d508a17f4d9e3d45984181972f643991b2de16a9fc14c",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-331-0e7ee984019ee745911979a00d9a35f27f7e26729e3d6978e29b267fe75264b5.json",
+        "fileSha256": "8e788506e902fd70d4a731ddbfe8b356fe95960df2fea65186124b2ee3363eff",
+        "receiptContentSha256": "0e7ee984019ee745911979a00d9a35f27f7e26729e3d6978e29b267fe75264b5",
+        "sourceBlendSha256": "79bc6366158013716427d1c98b48ed239c32e7cce271c3198498f17909754229",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-331.png",
+      "approvedSourceImageSha256": "df88f2f4c62f629f1a6a89816de4996eb659efa52fbd72327496f5e66edf2b09"
+    },
+    {
+      "id": "LAG-966",
+      "label": "Ugu",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "ff87857a73b88cee584cdb265ef4483cb8149a83b52900ee5f37bba1015133be",
+      "viewHashes": {
+        "whole": "52800c61d27896a3ac04b3e6e891f02eecb06dc5dfc0dda3a264340dc4ee927a",
+        "detail": "42c9d6b7006bf5bd24486aa98d30e58db48b35fd95511f8929349b07f3cb8229"
+      },
+      "sourceObjectCount": 44,
+      "materialCount": 15,
+      "fitBounds": {
+        "min": [
+          -0.8281917572021484,
+          -1.0944000482559204,
+          0.0
+        ],
+        "max": [
+          0.8729519844055176,
+          -0.1255677342414856,
+          4.192999839782715
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-d96dc08ab6b3a0a2bd5697bf4b5d2c14faa378ef3d8658c5650a6ebb4313f2c3",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-966-6d0eb94c3ab6593245088a4afb851d13ba4f4b6140811e472dfd229213ff57e2.json",
+        "fileSha256": "1bfb0cd769b7236fcc0ece6f97f8d759fe739151ecaa4e2798f44b07d49e9a9f",
+        "receiptContentSha256": "6d0eb94c3ab6593245088a4afb851d13ba4f4b6140811e472dfd229213ff57e2",
+        "sourceBlendSha256": "ff87857a73b88cee584cdb265ef4483cb8149a83b52900ee5f37bba1015133be",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-966.png",
+      "approvedSourceImageSha256": "acea4ec2b451a487957aec26a119304088490c95d161016e9c1f855b4546af2e"
+    },
+    {
+      "id": "LAG-316",
+      "label": "Sponge gourd",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "504681cbc80ba25761ec23964a6c331dfd5eea1ca61cda6e14a13bb4827a9bc5",
+      "viewHashes": {
+        "whole": "067fe3cfbe9e8222d7ed34dba1d8a7b1250b423bca40aaf476facb8bbc02468a",
+        "detail": "d2c3c3a493efb61e4b94da97dc906b79fb01e954f3e46bdb243b683d597cb3f4"
+      },
+      "sourceObjectCount": 44,
+      "materialCount": 15,
+      "fitBounds": {
+        "min": [
+          -0.813499927520752,
+          -1.0944000482559204,
+          0.0
+        ],
+        "max": [
+          0.8618474006652832,
+          -0.17429906129837036,
+          3.433000087738037
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-ae57bd2c93f39128924333ecdbea689ecc647700681469e81fe8dd931d946f21",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-316-3cf1e495de50c9d1af7c7dfebabef8395e66c3056da1dbfa17e9caebc6cc0a24.json",
+        "fileSha256": "518ae53c34dda417e50927cbece16027ede6ea8be379d4f7b261b3a77340403e",
+        "receiptContentSha256": "3cf1e495de50c9d1af7c7dfebabef8395e66c3056da1dbfa17e9caebc6cc0a24",
+        "sourceBlendSha256": "504681cbc80ba25761ec23964a6c331dfd5eea1ca61cda6e14a13bb4827a9bc5",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-316.png",
+      "approvedSourceImageSha256": "d79a93695327c9e511ef279e458c0f18eb951fc64cae42f2a844f3a3577b5bda"
+    },
+    {
+      "id": "LAG-283",
+      "label": "Golden pothos",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "89abbc123717b7a5a69f1c591bf682d83cdebcabb5a0db5a283ea53f5e80ddfc",
+      "viewHashes": {
+        "whole": "c5fce86e27e68dc4e77c3fc58419a8377963027ef4c661f872725ffee0527726",
+        "detail": "e8d1b20186eb8af10bd810075b3268a1b3a18f50754babac8c6fab2d646acd75"
+      },
+      "sourceObjectCount": 52,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -0.5999999046325684,
+          -0.9800000190734863,
+          0.0
+        ],
+        "max": [
+          0.5999999046325684,
+          -0.46000000834465027,
+          1.685499906539917
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-62000487d40a1b33a8f28836fee2a866855166ef3cc2e666edc9eec5e95968e9",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-283-589303ccc5bf05aeebc667d55004ce96d0413537893f30c552e066124a677bb1.json",
+        "fileSha256": "174dae9bb56f6ac590afe005fea25b8a0060739a222c232c2b4afb005c42ba93",
+        "receiptContentSha256": "589303ccc5bf05aeebc667d55004ce96d0413537893f30c552e066124a677bb1",
+        "sourceBlendSha256": "89abbc123717b7a5a69f1c591bf682d83cdebcabb5a0db5a283ea53f5e80ddfc",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-283.png",
+      "approvedSourceImageSha256": "bced7092fd8b7bf00ad185a8c8c214c409ace9bd9a54bf2c4cf28b9af71490c1"
+    },
+    {
+      "id": "LAG-334",
+      "label": "West African pepper",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "2805a5a73d453bce3f019626c10280682437042934edb260bf202860f4ea9353",
+      "viewHashes": {
+        "whole": "fbedcd4068c8f48968704a6e692170e8d5a627e4059e258edf3ffd5a80f81f26",
+        "detail": "bdb8d69a8b3782c6a0d34cda12d558f61a583ce071c69690bc6238e71c36a4af"
+      },
+      "sourceObjectCount": 45,
+      "materialCount": 16,
+      "fitBounds": {
+        "min": [
+          -0.7873630523681641,
+          -1.0399999618530273,
+          0.0
+        ],
+        "max": [
+          0.8028469085693359,
+          -0.2439061999320984,
+          2.753000020980835
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-ba617cad38e43464f06f2a1391fb5de0de72f2a338e154a3142251f661807018",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-334-9838e962b5ae35979dc4d858656d0e6576447975091b5f171ca77a988940c5e4.json",
+        "fileSha256": "176339896da340953190b0b4cafa25f739af6c3080db546992bfcdebf6bfed38",
+        "receiptContentSha256": "9838e962b5ae35979dc4d858656d0e6576447975091b5f171ca77a988940c5e4",
+        "sourceBlendSha256": "2805a5a73d453bce3f019626c10280682437042934edb260bf202860f4ea9353",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-334.png",
+      "approvedSourceImageSha256": "dec5f9f58cce3a5394ee2f38affe28ab62945fed4c2731fad33166301d1838bd"
+    },
+    {
+      "id": "LAG-651",
+      "label": "Creeping fig",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "c5163b14abe59b1d91700aa7431f8084de71c3334077ebb2b0396111c52bc3f6",
+      "viewHashes": {
+        "whole": "f9c76f061f7839e0c2c91eebcfb25c87a30139bcc69d9a88411519176a83c9dc",
+        "detail": "55f879b74ba848205698fcbcac436723c0532c60d5380c679c6013ecb6b4e252"
+      },
+      "sourceObjectCount": 34,
+      "materialCount": 12,
+      "fitBounds": {
+        "min": [
+          -0.6338028907775879,
+          -1.0399999618530273,
+          0.0
+        ],
+        "max": [
+          0.6336822509765625,
+          -0.3060000240802765,
+          3.625
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-b51bfa0f88f832b09a906410d98f83b30f86c1cbe14dcbbcb1276d5d2752b408",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-651-ebd0778b840c08ad564c460835873554965489da8349e58da76013750b8fe6ed.json",
+        "fileSha256": "0dedb804f561ed7ebf7fa7b71955493198251be0ff5844e3283a7c360877163d",
+        "receiptContentSha256": "ebd0778b840c08ad564c460835873554965489da8349e58da76013750b8fe6ed",
+        "sourceBlendSha256": "c5163b14abe59b1d91700aa7431f8084de71c3334077ebb2b0396111c52bc3f6",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/climbers_10_review/LAG-651.png",
+      "approvedSourceImageSha256": "073168aa30a32b0fdc840930fdc366804589e253c6587129d41f4686b6cf75c1"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

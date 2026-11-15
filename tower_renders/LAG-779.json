@@ -1,0 +1,152 @@
+{
+  "id": "LAG-779",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-7c6897beaf183097ed147d7bb39b270d1ed66c0339e4fb5b62c7d3760ba13787",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-779-5a899cdc03318c8f21f663936c54e4e92875a7e347bffc37920604beb873dd25.json",
+    "fileSha256": "e148e5eedf2948d28475f64382a10a300ce49be7f28c7728f9e9350f7d9bcea1",
+    "receiptContentSha256": "5a899cdc03318c8f21f663936c54e4e92875a7e347bffc37920604beb873dd25",
+    "sourceBlendSha256": "b149516373d0d75b95bf90ee9c82e610060c4ea64d5953a3838f5e84e0f9cb50",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "444db7fe86702cc51f353376304fa67ae00f63d9ce219f83bf489ef353b3410b",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/shrubs_12_revision_02/LAG-779.blend",
+  "sourceSha256": "b149516373d0d75b95bf90ee9c82e610060c4ea64d5953a3838f5e84e0f9cb50",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    11.0,
+    0.0,
+    0.0
+  ],
+  "stage": "Developed panel by deck location",
+  "sourceObjectCount": 17,
+  "sourceObjectBounds": {
+    "min": [
+      -1.9738273620605469,
+      -1.8000530004501343,
+      -0.024000000208616257
+    ],
+    "max": [
+      1.9053430557250977,
+      1.3300000429153442,
+      4.034366130828857
+    ]
+  },
+  "materialCount": 11,
+  "materialObjectFingerprint": "27b02352258985693cb28b472ad11aef4324726480c674a9a9e3a59ef6324020",
+  "sourceObjects": [
+    "Seat.002",
+    "Seat leg.004",
+    "Seat leg.005",
+    "Round drained pot.003",
+    "Cone.003",
+    "Water outlet / schematic.003",
+    "LAG-779 connected developed scaffolds and leafy shoots.001",
+    "Individual blade meshes.031",
+    "Connecting petioles.027",
+    "LAG-779 original species flower construction.001",
+    "Round drained pot.004",
+    "Cone.004",
+    "Water outlet / schematic.004",
+    "LAG-779 connected developed scaffolds and leafy shoots.002",
+    "Individual blade meshes.032",
+    "Connecting petioles.028",
+    "LAG-779 original species flower construction.002"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-779-whole.png",
+      "sha256": "6ac73281a0db8795078821ede841ef8449bb12a6cc57075fdce9184a9144105c",
+      "seconds": 20.66,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-779-detail.png",
+      "sha256": "e88a9ef64a5b7281901b24558f70be609306d0365d4441cce1ab7e294baf72a1",
+      "seconds": 32.98,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 73.16
+}

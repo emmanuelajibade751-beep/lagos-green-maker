@@ -1,0 +1,440 @@
+{
+  "batch": 7,
+  "ids": [
+    "LAG-978",
+    "LAG-353",
+    "LAG-424",
+    "LAG-310",
+    "LAG-410",
+    "LAG-362",
+    "LAG-781",
+    "LAG-865",
+    "LAG-061",
+    "LAG-173"
+  ],
+  "sourceReportHashes": {
+    "LAG-978": "a54d52a6ecda8776d0067cfa43715112e44255370c2d6c2fb3b7911db5f75047",
+    "LAG-353": "54880a536bda7828e80adb0326deb6308752f05cfff2005fc374d1235afcdeca",
+    "LAG-424": "bc7fc70caa0e14bc1d30f75c26d461648ed3ea0ef1c9618dfcf71a66f82b7075",
+    "LAG-310": "64870753bea43b7d6179b5e50121feaa72207a53565aaa63d57ac776fe2090b9",
+    "LAG-410": "3b932820f1addac88240287dd85dd6b6a53ea3dd0c7bd0ccae7f63a4817ed0cc",
+    "LAG-362": "2cc98c6d2ae68ebefe4a12be0f9c106a17bd5a1479a4c772b90304d2019d61ca",
+    "LAG-781": "a4359b016bf126955702b6a2320abe41bf968c886d0bbca61c1bd14f2b81a2c7",
+    "LAG-865": "f6f464b077d289dfc021aae1c6e5ba44316a9b0e926440688e11ab3ef5fcd5dc",
+    "LAG-061": "6d3222adaa8b2ab6ca4bb7180600f75fdcee35ac2ba0373cbdd48f332953bc97",
+    "LAG-173": "ece0e220d3035b41bf9e728d7f580e8c0c0b4bdf35c563fc2ecd96cc4b6e6b23"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "findings": [
+      "All10 native paired views retain source object identity, shapes/materials and holders at comparison scale. Whole views contain complete planted tower envelopes.",
+      "978 upright aquatic leaves and353 narrow cattail clump with brown heads match source;424 retains five sparse aloe rosettes across two troughs.",
+      "310 six pots,410 five pots with flowers and362 eleven low purslane clumps retain approved arrangements.",
+      "781 broad banana leaves and865 fan-shaped traveller tree retain native large circular pots and source foliage form.",
+      "061 uses approved tall frame and retains complete coconut canopy in whole view; fixed detail is trunk/container close-up, not an entire palm portrait.",
+      "173 retains dense large raffia fronds. Its foliage obscures much of tower/detail at true source scale, consistent with overlap from repeated large specimens."
+    ],
+    "limits": "Native-feature retention does not validate biological accuracy or feasibility. Traveller tree and palms intersect multiple floor/bay envelopes; photographs/source rendering remain the way to inspect an isolated specimen."
+  },
+  "reviewedUtc": "2026-11-15T15:36:34.563003+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\batch07_sheet1.jpg",
+    "tmp\\native_batch_reviews\\batch07_sheet2.jpg",
+    "tmp\\native_batch_reviews\\batch07_sheet3.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-978",
+      "label": "Alligator flag",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "19093361b6715a08c397cfd453ef54712827b159f4e1e008c03508e756370efa",
+      "viewHashes": {
+        "whole": "b801b6703d4f176ace7a9661cbaf4c1f05dd39501e73292a8c01aeed178ccb81",
+        "detail": "0f50bece0da80de8d6b422f306be794a621d8151979ac0ed29041685f0d767fe"
+      },
+      "sourceObjectCount": 64,
+      "materialCount": 16,
+      "fitBounds": {
+        "min": [
+          -1.4000000953674316,
+          -1.3220704793930054,
+          0.0
+        ],
+        "max": [
+          1.4000000953674316,
+          1.0420705080032349,
+          2.5515191555023193
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-768dc3dbfd7933063ea8b8238a2ef08eaad2c4a442ed77201102d3ca0ca0c383",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-978-9b429e2c81821d1fb6481bbace495921f74527b3e301b8f59123a6cd84a4343b.json",
+        "fileSha256": "686ce0773393475875aa7c9b92ebd400e37634f6fdd346a3dd53378e1c727c50",
+        "receiptContentSha256": "9b429e2c81821d1fb6481bbace495921f74527b3e301b8f59123a6cd84a4343b",
+        "sourceBlendSha256": "19093361b6715a08c397cfd453ef54712827b159f4e1e008c03508e756370efa",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_and_wetland_balconies/LAG-978.png",
+      "approvedSourceImageSha256": "0512b81ef677a74cfd902c24599d59a97f6f329280ca5aa08547b4fcf9d6917d"
+    },
+    {
+      "id": "LAG-353",
+      "label": "Southern cattail",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "67c9cc5272b72cc7e606921cabaa5d3219f3023ed0de19987a98d65ad3cd0325",
+      "viewHashes": {
+        "whole": "d0cc88be4627226f25d86ebe0b35d2c22ab9684d90e36f730b5fbeef333751d6",
+        "detail": "152ec83a793c492339d0453901dc461400d190cbdc3d933195f7845d02342fd0"
+      },
+      "sourceObjectCount": 64,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -2.046372890472412,
+          -2.113455295562744,
+          0.0
+        ],
+        "max": [
+          2.046372890472412,
+          1.8334553241729736,
+          3.3424570560455322
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-aa70ca2844350ef72689b23c7ad009b0379f7534e74321611975fbc08ae34816",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-353-a49f084da0a1e214f1a71513e82e64e6c49cf6a39e323359311bedb1564fbc94.json",
+        "fileSha256": "7f9e143a7bbbf19b3e9d4f4209a3adb76231b9eeaa119b09332e85fe0662860e",
+        "receiptContentSha256": "a49f084da0a1e214f1a71513e82e64e6c49cf6a39e323359311bedb1564fbc94",
+        "sourceBlendSha256": "67c9cc5272b72cc7e606921cabaa5d3219f3023ed0de19987a98d65ad3cd0325",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_and_wetland_balconies/LAG-353.png",
+      "approvedSourceImageSha256": "93d7415b743880eeedcfdb6c7a54ce263a5fcc64d36c0ac058fc211d889ee5c5"
+    },
+    {
+      "id": "LAG-424",
+      "label": "Aloe",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "683e5928420f4c1ea14b1ab6575d79c8439b26ec8abe2668febfbf2de4b728a0",
+      "viewHashes": {
+        "whole": "87e439cd7329f8092b6523a97830bd760f958e191e68b5f8103343c618c08fe7",
+        "detail": "d688e5acdb4d62aa0bc2a53446c615837bc7e943d3c4928b77ea6f0bb466395c"
+      },
+      "sourceObjectCount": 95,
+      "materialCount": 7,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.3600000143051147,
+          0.0
+        ],
+        "max": [
+          1.8000001907348633,
+          0.6000000238418579,
+          1.063236117362976
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-7f3aedd5d610fbb608fceb05906d4e244681a31a995fabd999447edbdde5a8a8",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-424-eb097b4ad31f26e156ec5fd0be15378b3ebb0cd50c12992903cc8245986e8e37.json",
+        "fileSha256": "e1f5061d22e6eda6ded296e5ec6fb67639f4bcde0174d7ea450fb1da782b12b6",
+        "receiptContentSha256": "eb097b4ad31f26e156ec5fd0be15378b3ebb0cd50c12992903cc8245986e8e37",
+        "sourceBlendSha256": "683e5928420f4c1ea14b1ab6575d79c8439b26ec8abe2668febfbf2de4b728a0",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/succulents_05_balcony_review_03/LAG-424.png",
+      "approvedSourceImageSha256": "5d7e0a8373067aeebf5c1b511fe1a7f5d8bceb2b809fe2040cfd5c3306ce859a"
+    },
+    {
+      "id": "LAG-310",
+      "label": "Life plant",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "26eb1e93ae40f4ceb86b187cce29f105137409e0c0bdf3725774db4ef94ea957",
+      "viewHashes": {
+        "whole": "48a72871f852918739a84dcb136f0439737c405f1f894ef63be8b9c54580514f",
+        "detail": "a1a95c521c5225f01b7854eac087acda12589ece9e316d2a7c83ae6cc7899ac6"
+      },
+      "sourceObjectCount": 89,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.2603617906570435,
+          0.0
+        ],
+        "max": [
+          1.799999713897705,
+          0.4960285425186157,
+          2.0495352745056152
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-9594323659dce778f7445c7e51ef278f4906a9725d2cc022c7a07336db770816",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-310-61d57618e10d263b27b6581a42c7603abc20fa25077007169a26168f0f1b3bdd.json",
+        "fileSha256": "648be39b0cfe435184243229af0aba6e33bc09a1f4a2edf3180f73e68681098f",
+        "receiptContentSha256": "61d57618e10d263b27b6581a42c7603abc20fa25077007169a26168f0f1b3bdd",
+        "sourceBlendSha256": "26eb1e93ae40f4ceb86b187cce29f105137409e0c0bdf3725774db4ef94ea957",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/succulents_05_balcony_review_03/LAG-310.png",
+      "approvedSourceImageSha256": "37cd7a798111ba66d4b034dd16430da35e876a002a2978297240c769941cd536"
+    },
+    {
+      "id": "LAG-410",
+      "label": "Desert rose",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "eaf81dc2128d458eef3075d5d14d6fba1b2665588b4f7f7cb0a55abaa2827628",
+      "viewHashes": {
+        "whole": "0ec9c809e4d8d599067256eb41127c1d269011e965fc22ccedd0d5020c19796f",
+        "detail": "430a45710931e08e6f50153ffedf38164677b98b349754f27f49cb4501e6ed03"
+      },
+      "sourceObjectCount": 79,
+      "materialCount": 13,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.2285070419311523,
+          0.0
+        ],
+        "max": [
+          1.799999713897705,
+          0.5502079725265503,
+          1.9677278995513916
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-0e4bedd49f6f4bc68aeffc18106b46592f6743cacdc576a3891778aab656e880",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-410-da4d7eef003452f5039e42f975a572f3aa703c7ab0e3f43d1299f5ebd0efbea3.json",
+        "fileSha256": "8b174d5f070f63975f14cc464934405f139c6ea2b645e04d225f8daa10f06285",
+        "receiptContentSha256": "da4d7eef003452f5039e42f975a572f3aa703c7ab0e3f43d1299f5ebd0efbea3",
+        "sourceBlendSha256": "eaf81dc2128d458eef3075d5d14d6fba1b2665588b4f7f7cb0a55abaa2827628",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/succulents_05_balcony_review_03/LAG-410.png",
+      "approvedSourceImageSha256": "39db4b99c87c4abacaab9dfc5f79cdca698b689db0d9ebb2bbab6c1a19db3744"
+    },
+    {
+      "id": "LAG-362",
+      "label": "Common purslane",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "1575b2e7591207cdb39b0e50a08032ddc6f689afba700e337e576052cbf1ddb4",
+      "viewHashes": {
+        "whole": "74a6e76d61a675a360d40dafb4d8ad5c3a4da30d44da21a0e80116b996a9b5f8",
+        "detail": "2dc206c6187d7c5b076e0161a7ddcd35c2e93d5dc0bdada6c60e51bf440ca33b"
+      },
+      "sourceObjectCount": 134,
+      "materialCount": 11,
+      "fitBounds": {
+        "min": [
+          -1.7999999523162842,
+          -1.2100000381469727,
+          0.0
+        ],
+        "max": [
+          1.8000001907348633,
+          0.45000001788139343,
+          0.9618364572525024
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-4909fbee676c05ce48baa4fd810e83204fb91579b98bdee9cea5b962ec11e398",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-362-ce636cbf5d43883b1155a7f6776dafabf44bfb6fe203dc1d952aead6752f84f2.json",
+        "fileSha256": "f3ef4d34c5019c90c84e47aaad40e5ac8ba4f469e0fde86c12717c1d4fdd4dc8",
+        "receiptContentSha256": "ce636cbf5d43883b1155a7f6776dafabf44bfb6fe203dc1d952aead6752f84f2",
+        "sourceBlendSha256": "1575b2e7591207cdb39b0e50a08032ddc6f689afba700e337e576052cbf1ddb4",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/succulents_05_balcony_review_03/LAG-362.png",
+      "approvedSourceImageSha256": "ddbecd6af8441dc9b67d5f46ed4d029a92c8c06abd3b39806b61e8d851244dad"
+    },
+    {
+      "id": "LAG-781",
+      "label": "Banana",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "b3e29db500cea3bda48ba02edb6abbdcd103f8cd5c9439797e4acd9830eb6d98",
+      "viewHashes": {
+        "whole": "61528450a29bf93a1db7691522d38b7fc00779363cabb6be027d69ce8b9676fe",
+        "detail": "5411098ffe3f8da939e820fdcb453afd936147c15b1969824ce54a9f969faee2"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -1.572824478149414,
+          -2.1599271297454834,
+          0.0
+        ],
+        "max": [
+          1.6648216247558594,
+          1.587578535079956,
+          3.605834484100342
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 3 m deck depth."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-1c3857ca28ad1a8d4c8349245470d8a44fa38d5a3973df43764949f1b2f0bda6",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-781-8d675539b45c86fe70478980abd2c316473bcdde7d43e43aa22e6b89466319a9.json",
+        "fileSha256": "7c51c4dd47e463c7aba62c569cf7ce65d53306df5021ad0aeb9545d8b36d0d76",
+        "receiptContentSha256": "8d675539b45c86fe70478980abd2c316473bcdde7d43e43aa22e6b89466319a9",
+        "sourceBlendSha256": "b3e29db500cea3bda48ba02edb6abbdcd103f8cd5c9439797e4acd9830eb6d98",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/tree_like_herbs_03_balcony_review_02/LAG-781.png",
+      "approvedSourceImageSha256": "5e239f526751c354665bbcfdad6d8945db26d42fc09a1674ee81abc5685e0ee1"
+    },
+    {
+      "id": "LAG-865",
+      "label": "Traveller\u00e2\u20ac\u2122s tree",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "6256ca5144320323b223b8ecf9b12199a7ff2df5c8fb5c3a6b5410524368e3dc",
+      "viewHashes": {
+        "whole": "1eaaa4c6416502ef4704e37764faf72f3cf1bd1eed091839cfb7b8c5722f6e29",
+        "detail": "b56d8bf890d6c3c74372b11ec39ec41c0c41e3bb8877eb1cfaf89bb0e06bda7a"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -3.9955878257751465,
+          -1.1799999475479126,
+          0.0
+        ],
+        "max": [
+          3.97737455368042,
+          1.1799999475479126,
+          8.08946704864502
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-6231809db2eee42999dac8ed22d249da7e7ab5e7646c1c21e7584bee3cb223a5",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-865-4b5c4adf517ed929fc14d837372110ff2ae38776e87dbda106d5f8efc56bf80b.json",
+        "fileSha256": "3a0f5f59afd350534dd1ff865df0df4871b897433f3f5a12fb4ba91ed9cda1fc",
+        "receiptContentSha256": "4b5c4adf517ed929fc14d837372110ff2ae38776e87dbda106d5f8efc56bf80b",
+        "sourceBlendSha256": "6256ca5144320323b223b8ecf9b12199a7ff2df5c8fb5c3a6b5410524368e3dc",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/tree_like_herbs_03_balcony_review_02/LAG-865.png",
+      "approvedSourceImageSha256": "6d2be2fe518589035ae28f5eb87a31cfd1e900d9458db2d816d91c41aa90151b"
+    },
+    {
+      "id": "LAG-061",
+      "label": "Coconut palm",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "d9215f7b6d204d0e33bd8a6d4cc4fd3582f88e41438ff58e29bdd8b10a6f3565",
+      "viewHashes": {
+        "whole": "4e0ccb8f86a3ca2e2b433cba9038dac57c832b90e80fb803f2d46d3817a94fb5",
+        "detail": "0509547ad8ac8038a5366411217ddd63398d05a543c9607f9c881c6dcdf58f38"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -4.2917914390563965,
+          -4.230525493621826,
+          0.0
+        ],
+        "max": [
+          4.869569301605225,
+          4.697850704193115,
+          19.58158302307129
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-0bc143ea37a991df3b419b6cd20a6576666d1cb6609df38808f82e78620bdd77",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-061-75c0779afd9583432b3b7f36e9924bfec34e4325462ca21c86c112bb7e888425.json",
+        "fileSha256": "b3ffd050e28359145682eca203ed9c7a8d91f5723263d07c4d0c1c67dd25e63c",
+        "receiptContentSha256": "75c0779afd9583432b3b7f36e9924bfec34e4325462ca21c86c112bb7e888425",
+        "sourceBlendSha256": "d9215f7b6d204d0e33bd8a6d4cc4fd3582f88e41438ff58e29bdd8b10a6f3565",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/palms_04_balcony_review/LAG-061.png",
+      "approvedSourceImageSha256": "3f8467e8fd5012ad0da80a265a76399c4b57a2ff19562b1949f1e025453c15bb"
+    },
+    {
+      "id": "LAG-173",
+      "label": "Raffia palm",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "7b5a25e46afff3c76193c009e183fa00dcd9217e83367bf2beebdda28748cef4",
+      "viewHashes": {
+        "whole": "1bbdd431a7f8e3ee8a88f79729d4c81677e9fbee954f3061eb0f9084b31da832",
+        "detail": "171d54a0101e2c14f51fc19460fb4b5d8ba0f2af0a9c315137b1ab2f4bdd8182"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -6.569729804992676,
+          -6.467435359954834,
+          0.0
+        ],
+        "max": [
+          6.334617614746094,
+          6.881315231323242,
+          11.460165023803711
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-002a14db5f046c23a74167e9665c01625423b9bcdcf3ecf36b98b3d7f51452f2",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-173-f43af6bcf54069c2d8d1e9f6e87b4c6be2afa99ab4816be0ee93e74d633dba6e.json",
+        "fileSha256": "f5efa7658acb2df6c8824d4430df12b949bec036a8db0361d50e9b71d72fe5a0",
+        "receiptContentSha256": "f43af6bcf54069c2d8d1e9f6e87b4c6be2afa99ab4816be0ee93e74d633dba6e",
+        "sourceBlendSha256": "7b5a25e46afff3c76193c009e183fa00dcd9217e83367bf2beebdda28748cef4",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/palms_04_balcony_review/LAG-173.png",
+      "approvedSourceImageSha256": "082f840451375d55de7b498c32f093f42259758df929c1ab3d51f5b847a5cee2"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

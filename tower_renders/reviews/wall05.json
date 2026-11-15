@@ -1,0 +1,67 @@
+{
+  "batch": 5,
+  "ids": [
+    "LAG-769"
+  ],
+  "sourceReportHashes": {
+    "LAG-769": "9971406eb29c5ec582274c61c4c99561d134217aec954c84e670a0d1f826412b"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Sensitive-plant source has twelve small isolated clumps, preserved as three rows of four rather than artificially filled green panels.",
+      "Pale medium and open coverage match source; plant presence is faint in whole view because the native source is small, not missing."
+    ],
+    "proofScope": "Source and both final PNG hashes, common cameras, 800 placements and diagnostics verified. Per-species EXRs not recomputed; LAG-497 provides representative independent mask recomputation."
+  },
+  "reviewedUtc": "2026-11-15T14:39:22.904817+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall05_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-769",
+      "label": "Sensitive plant",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "c44456ddeda8e7aad300d8e0ba3caa1e5fbf278d902210cf46a13b58bfef528d",
+      "viewHashes": {
+        "whole": "4c41150d09ddba2e7bcc19ba4fc7c0641c587b15642d0cc3f4b60a930e7b5da7",
+        "detail": "3e046acf2c1df03a851071842763c0bb0f52fab5be77b7d417057a70a6b424e0"
+      },
+      "sourceObjectCount": 49,
+      "materialCount": 9,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.0785084962844849,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7200000286102295,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-36ded5ebf29bde95628a10ff3c1c2b63926890851a672ebc68ce4bc4928e383b",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-769-f2a3db7385ad34c283ad641bcf43eba1e67b44ac9f59b6715923b55722b8cdd9.json",
+        "fileSha256": "6d4e58240adc3d60e7a1dd89d3a0d9f2315ef826b6cc25ec96ae43d8cd41f326",
+        "receiptContentSha256": "f2a3db7385ad34c283ad641bcf43eba1e67b44ac9f59b6715923b55722b8cdd9",
+        "sourceBlendSha256": "c44456ddeda8e7aad300d8e0ba3caa1e5fbf278d902210cf46a13b58bfef528d",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/groundcovers_wall_and_rail_review_02/LAG-769.png",
+      "approvedSourceImageSha256": "9ffd417598934998be0b652c713c47fd92f84044fdcffb59405d46f81078351c"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}

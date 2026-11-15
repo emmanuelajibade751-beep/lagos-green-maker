@@ -1,0 +1,152 @@
+{
+  "id": "LAG-787",
+  "presentationSignature": "4b51a2df922b2bd0492d9217d7ffc3825f74bf6fd4adcc1bfceed1693a866d37",
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/ferns_06_review_03/LAG-787.blend",
+  "sourceSha256": "95cf55969888dede770a8faf6adabb0beb84c813e09a5ff1bec26fc8f8e3c686",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Full-size case.001",
+  "sourceObjectCount": 66,
+  "sourceObjectBounds": {
+    "min": [
+      -2.00626802444458,
+      -1.4351928234100342,
+      0.0
+    ],
+    "max": [
+      2.0045957565307617,
+      0.5546612739562988,
+      2.6762239933013916
+    ]
+  },
+  "materialCount": 10,
+  "materialObjectFingerprint": "661b3de751f5bec1a8956bbc184a8d3e51eca11b6c53a45db8236f94fd998fe0",
+  "sourceObjects": [
+    "Trough base.006",
+    "Trough side.012",
+    "Trough end.012",
+    "Trough side.013",
+    "Trough end.013",
+    "Continuous root medium.006",
+    "Support upright.012",
+    "Support upright.013",
+    "Drain outlet.006",
+    "Trough base.007",
+    "Trough side.014",
+    "Trough end.014",
+    "Trough side.015",
+    "Trough end.015",
+    "Continuous root medium.007",
+    "Support upright.014",
+    "Support upright.015",
+    "Drain outlet.007",
+    "Continuous arching rachises.007",
+    "Individual blade meshes.016",
+    "Individual blade meshes.017",
+    "Individual blade meshes.018",
+    "Individual blade meshes.028",
+    "Individual blade meshes.029",
+    "Continuous arching rachises.008",
+    "Individual blade meshes.030",
+    "Individual blade meshes.031",
+    "Individual blade meshes.032",
+    "Individual blade meshes.033",
+    "Individual blade meshes.034",
+    "Continuous arching rachises.009",
+    "Individual blade meshes.035",
+    "Individual blade meshes.036",
+    "Individual blade meshes.037",
+    "Individual blade meshes.038",
+    "Individual blade meshes.039",
+    "Continuous arching rachises.010",
+    "Individual blade meshes.040",
+    "Individual blade meshes.063",
+    "Individual blade meshes.064",
+    "Individual blade meshes.065",
+    "Individual blade meshes.066",
+    "Continuous arching rachises.001",
+    "Individual blade meshes.019",
+    "Individual blade meshes.020",
+    "Individual blade meshes.021",
+    "Individual blade meshes.022",
+    "Individual blade meshes.023",
+    "Continuous arching rachises.002",
+    "Individual blade meshes.024",
+    "Individual blade meshes.025",
+    "Individual blade meshes.026",
+    "Individual blade meshes.041",
+    "Individual blade meshes.042",
+    "Continuous arching rachises.003",
+    "Individual blade meshes.043",
+    "Individual blade meshes.044",
+    "Individual blade meshes.045",
+    "Individual blade meshes.046",
+    "Individual blade meshes.047",
+    "Continuous arching rachises.011",
+    "Individual blade meshes.067",
+    "Individual blade meshes.068",
+    "Individual blade meshes.069",
+    "Individual blade meshes.070",
+    "Individual blade meshes.071"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-787-whole.png",
+      "sha256": "f1b927d0ee2ae5349026be663a398d29d32cec6ed27b3d5e0f9621cdfef57c30",
+      "seconds": 20.32,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-787-detail.png",
+      "sha256": "64af3d875ffeffd417ffcd36feb039740142ef5123ae3944831de7f308753a3b",
+      "seconds": 33.25,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 55.89
+}

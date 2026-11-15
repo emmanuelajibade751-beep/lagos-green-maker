@@ -1,0 +1,160 @@
+{
+  "id": "LAG-227",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-a49959875db126743c7d1c4ceec7a35d92b34df4accfaafbe786e9df6080eccf",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-227-1c629e04cdbeba71c328dbbfd3575c14d201b3a5278d74d86314829825a80d1f.json",
+    "fileSha256": "8702ac5a1c8e010188ae5164655d7a5d0c667c1f0d977fe2177a0285117f4578",
+    "receiptContentSha256": "1c629e04cdbeba71c328dbbfd3575c14d201b3a5278d74d86314829825a80d1f",
+    "sourceBlendSha256": "2ecf021e3fc863893a08be995a707cc5523b1d43fb89e0c85c4c13791b5a9558",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/ferns_06_review_03/LAG-227.blend",
+  "sourceSha256": "2ecf021e3fc863893a08be995a707cc5523b1d43fb89e0c85c4c13791b5a9558",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 25,
+  "sourceObjectBounds": {
+    "min": [
+      -2.38572096824646,
+      -1.42635977268219,
+      0.0
+    ],
+    "max": [
+      2.784508228302002,
+      2.079488515853882,
+      2.026426315307617
+    ]
+  },
+  "materialCount": 10,
+  "materialObjectFingerprint": "836e3dd65a1f9169f43578dcbe0c157708b165999937f21c9efb47489f82b875",
+  "sourceObjects": [
+    "Trough end.004",
+    "Trough foot.004",
+    "Trough end.005",
+    "Trough foot.005",
+    "Front trough wall.002",
+    "Sealed trough base.002",
+    "Wall below overflow.002",
+    "Wall above overflow.002",
+    "Overflow spout.002",
+    "Spout edge.004",
+    "Spout edge.005",
+    "Growing medium.002",
+    "Illustrative standing water.002",
+    "LAG-227 | connected shoots and stalks.004",
+    "Individual blade meshes.003",
+    "Connecting petioles.001",
+    "Visible midribs.001",
+    "LAG-227 | connected shoots and stalks.009",
+    "Individual blade meshes.009",
+    "Connecting petioles.006",
+    "Visible midribs.006",
+    "LAG-227 | connected shoots and stalks.010",
+    "Individual blade meshes.010",
+    "Connecting petioles.007",
+    "Visible midribs.007"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-227-whole.png",
+      "sha256": "c6fd63fca353d61f3bdff77814691e69d345e40476f505f1b8d2c502f89c215a",
+      "seconds": 20.02,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-227-detail.png",
+      "sha256": "d71cccfa58307d90637e40233cb07cc440db98e1febe169d04e86a2ac30748f2",
+      "seconds": 32.27,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 53.68
+}

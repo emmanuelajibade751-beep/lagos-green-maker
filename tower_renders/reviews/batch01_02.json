@@ -1,0 +1,61 @@
+{
+  "ids": [
+    "LAG-983",
+    "LAG-294",
+    "LAG-076",
+    "LAG-253",
+    "LAG-237",
+    "LAG-787",
+    "LAG-335",
+    "LAG-630",
+    "LAG-485",
+    "LAG-082",
+    "LAG-226",
+    "LAG-250",
+    "LAG-254",
+    "LAG-289",
+    "LAG-295",
+    "LAG-302",
+    "LAG-328",
+    "LAG-343",
+    "LAG-471",
+    "LAG-752"
+  ],
+  "structuralStatus": "pass",
+  "visualStatus": "pass_with_fit_notes",
+  "sourceReportHashes": {
+    "LAG-983": "bd5796f0683640e9a5caca4d1a3a8ccb3f0ab0e1145e372540a8865d93dc1dd7",
+    "LAG-294": "55eb43e10f5960c021232c56233d340a3748fb3a0443b91f0e16a5e1a9872704",
+    "LAG-076": "339b10efe6f5cdd80eb4238320656430e01e38728feac9b622e621a6ca252b2c",
+    "LAG-253": "ea6ae4c3d85fb0ae9cb719cf33e22069c34089867fb2979fc32901c3d54ef2c6",
+    "LAG-237": "ad48e6f4b53067653b6e704447eb19e626c3453732bc43f61768bfb2ceff26b4",
+    "LAG-787": "00f21400e697d1684684fa100267f8fd47f6ca3cb81fce80da5b11562080b05a",
+    "LAG-335": "8121e3d2233af6f48e8ee5bd5e6d5722131d39426e50af28fe47d20496de7018",
+    "LAG-630": "ccfffd8d35d96f9945095b40f4fafcc05367dd793a76a69546aa7536924552a9",
+    "LAG-485": "18c8b1c028901618c92a930d38bc89f629ed90e00e9a7f6cdf16d169d9501c42",
+    "LAG-082": "90475fbcbd9c27574f67b423e7c1093d60d9ad83f711df17ceb778fafd3dd913",
+    "LAG-226": "4947a07386072594eec63d49b1a3edfc4dc9425a494cecec45b8a481a85c5a09",
+    "LAG-250": "edaeb586834a318b4f08dfb55a59b48cfbb2a5f469b7a88100fe730d477fa074",
+    "LAG-254": "d86ebead4b53d54feccc8de2f47f7dac1261a223203023efda5504949195efaf",
+    "LAG-289": "015898c0d924dd2ba857827bf5fc23670d0a725be5ada02ef2e39a554d9e3fb0",
+    "LAG-295": "d8563870b864ffc5a5f439f9a0d44b345dc4fcc6ed4a3b2c693e685d53fa0c10",
+    "LAG-302": "95ef15d6440e3ba08d3386ead4093f4aa289d486f8304940e4681c9e26efde29",
+    "LAG-328": "b186f9623f1018f6886ac4e4f14a625525d8f50e434265523ae3ab98ef8bd22c",
+    "LAG-343": "2264d281a0d2f0a6a17aaa0b0abb6d368c15c04f3b386a0b9bff52da38cbe3b7",
+    "LAG-471": "83e2a557a5f1681b9ebb5eb1d0e32d98597b8fca08a8f0a7b8d2c011c15c2e88",
+    "LAG-752": "abac43c00cf00a953dc7720ee8a83e9debf9a0310cc4222e5e72cf694bada4cc"
+  },
+  "reviewedUtc": "2026-11-15T14:28:35.104344+00:00",
+  "reviewers": [
+    "Root: source/render checks and native whole/detail inspection",
+    "Coordinator chat: independent batch02 visual and checksum/camera review"
+  ],
+  "visualReview": {
+    "method": "Initial 10 pilot views reviewed during construction; batch02 all20views independently inspected in tmp/native-batch02-contact.jpg and source/checksum/camera audit.",
+    "findings": [
+      "Original geometry, native materials, holder features and dimensions retained.",
+      "Oversize source arrangements remain shown; measured fit register identifies coordination needs."
+    ],
+    "failures": []
+  }
+}

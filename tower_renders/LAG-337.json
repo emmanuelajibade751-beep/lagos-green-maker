@@ -1,0 +1,212 @@
+{
+  "id": "LAG-337",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-89aa7a3d92c691897920a83c45068a5406353e97cc17aea14244f50956ac61a7",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-337-099278ce5ad6cde8177dd2855395e63beb5ee22352d007a4187dad568f995860.json",
+    "fileSha256": "8ea51a2cce92a166935e62accd19d9c840c1ed9ab2aa70f935538d0d864a45bc",
+    "receiptContentSha256": "099278ce5ad6cde8177dd2855395e63beb5ee22352d007a4187dad568f995860",
+    "sourceBlendSha256": "e7b0a00d8906465b7dee24810cb66afeb292cd4b62956d8c5aa7c17349231505",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/ferns_06_review_03/LAG-337.blend",
+  "sourceSha256": "e7b0a00d8906465b7dee24810cb66afeb292cd4b62956d8c5aa7c17349231505",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 77,
+  "sourceObjectBounds": {
+    "min": [
+      -2.0235002040863037,
+      -1.3899999856948853,
+      0.0
+    ],
+    "max": [
+      2.0234999656677246,
+      -0.8320000171661377,
+      1.1175000667572021
+    ]
+  },
+  "materialCount": 17,
+  "materialObjectFingerprint": "c0ddf1f492443bf07fc7d39069d2dbcacd4dadd695383da479e78bdc4f218479",
+  "sourceObjects": [
+    "Full-height, full-width timber panel.002",
+    "Timber backing deck-fixed post.006",
+    "Backing post foot.006",
+    "Backing post cleat.006",
+    "Timber backing deck-fixed post.007",
+    "Backing post foot.007",
+    "Backing post cleat.007",
+    "Timber backing deck-fixed post.008",
+    "Backing post foot.008",
+    "Backing post cleat.008",
+    "Full-frontage square mesh.002",
+    "Upper or lower perimeter rail.008",
+    "Upper or lower perimeter rail.009",
+    "Upper or lower perimeter rail.010",
+    "Upper or lower perimeter rail.011",
+    "Mesh frame end upright.004",
+    "Edge spacer between mesh and timber.008",
+    "Edge spacer between mesh and timber.009",
+    "Mesh frame deck foot.004",
+    "Mesh frame end upright.005",
+    "Edge spacer between mesh and timber.010",
+    "Edge spacer between mesh and timber.011",
+    "Mesh frame deck foot.005",
+    "Mesh frame central upright.002",
+    "Mesh central deck foot.002",
+    "Sphagnum root pad.002",
+    "Visible sphagnum fibres.002",
+    "Soft ties under shield fronds.002",
+    "Overlapping basal shield fronds.005",
+    "LAG-337 | connected shoots and stalks.005",
+    "Individual blade meshes.003",
+    "Visible midribs.001",
+    "Live attachment rhizome.006",
+    "Flexible mesh around sphagnum pad.002",
+    "Mesh retaining tab.008",
+    "Mesh retaining tab.009",
+    "Mesh retaining tab.010",
+    "Mesh retaining tab.011",
+    "Sphagnum root pad.003",
+    "Visible sphagnum fibres.003",
+    "Soft ties under shield fronds.003",
+    "Overlapping basal shield fronds.006",
+    "LAG-337 | connected shoots and stalks.006",
+    "Individual blade meshes.004",
+    "Visible midribs.002",
+    "Live attachment rhizome.007",
+    "Flexible mesh around sphagnum pad.003",
+    "Mesh retaining tab.012",
+    "Mesh retaining tab.013",
+    "Mesh retaining tab.014",
+    "Mesh retaining tab.015",
+    "Sphagnum root pad.013",
+    "Visible sphagnum fibres.013",
+    "Soft ties under shield fronds.013",
+    "Overlapping basal shield fronds.015",
+    "LAG-337 | connected shoots and stalks.015",
+    "Individual blade meshes.016",
+    "Visible midribs.011",
+    "Live attachment rhizome.016",
+    "Flexible mesh around sphagnum pad.013",
+    "Mesh retaining tab.049",
+    "Mesh retaining tab.050",
+    "Mesh retaining tab.051",
+    "Mesh retaining tab.052",
+    "Sphagnum root pad.014",
+    "Visible sphagnum fibres.014",
+    "Soft ties under shield fronds.014",
+    "Overlapping basal shield fronds.016",
+    "LAG-337 | connected shoots and stalks.016",
+    "Individual blade meshes.017",
+    "Visible midribs.012",
+    "Live attachment rhizome.017",
+    "Flexible mesh around sphagnum pad.014",
+    "Mesh retaining tab.053",
+    "Mesh retaining tab.054",
+    "Mesh retaining tab.055",
+    "Mesh retaining tab.056"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-337-whole.png",
+      "sha256": "0487fb7db259872ec652086093818e95526d597e8d7844c74a5408bf86c6847b",
+      "seconds": 17.27,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-337-detail.png",
+      "sha256": "ab5b3bb11248aac043b1bb4e39cc7cdb2956b4f035722d2543c5caece326529f",
+      "seconds": 26.74,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 45.32
+}

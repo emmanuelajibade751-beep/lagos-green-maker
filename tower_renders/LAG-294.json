@@ -1,0 +1,106 @@
+{
+  "id": "LAG-294",
+  "presentationSignature": "4b51a2df922b2bd0492d9217d7ffc3825f74bf6fd4adcc1bfceed1693a866d37",
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/shrubs_12_revision_02/LAG-294.blend",
+  "sourceSha256": "8491715f2266503eb664117006893bed503b325ff0b280b49170173488753a10",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    11.0,
+    0.0,
+    0.0
+  ],
+  "stage": "Developed panel by deck location",
+  "sourceObjectCount": 20,
+  "sourceObjectBounds": {
+    "min": [
+      -1.767303466796875,
+      -1.5010113716125488,
+      -0.024000000208616257
+    ],
+    "max": [
+      1.769160270690918,
+      0.024731695652008057,
+      2.8564677238464355
+    ]
+  },
+  "materialCount": 13,
+  "materialObjectFingerprint": "b7c1622c7fcd78886c481b070f2e67d24ed8b97adeec7525c5cc601b3624bdfd",
+  "sourceObjects": [
+    "Round drained pot.006",
+    "Cone.006",
+    "Water outlet / schematic.006",
+    "LAG-294 connected developed scaffolds and leafy shoots.001",
+    "Individual blade meshes.039",
+    "Connecting petioles.032",
+    "Visible midribs.030",
+    "LAG-294 original species flower construction.001",
+    "Hibiscus staminal tissue 0.001",
+    "Hibiscus staminal tissue 1.001",
+    "Round drained pot.007",
+    "Cone.007",
+    "Water outlet / schematic.007",
+    "LAG-294 connected developed scaffolds and leafy shoots.002",
+    "Individual blade meshes.040",
+    "Connecting petioles.033",
+    "Visible midribs.031",
+    "LAG-294 original species flower construction.002",
+    "Hibiscus staminal tissue 0.002",
+    "Hibiscus staminal tissue 1.002"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-294-whole.png",
+      "sha256": "8f24daaef84a2bec382be3c94039a4ad92be6b4de0a21083b3c500b9c73ec02b",
+      "seconds": 18.69,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-294-detail.png",
+      "sha256": "86e83a7c51e2762d75dea342daf60e2a3282cc4a54c7765752781b4e42a50373",
+      "seconds": 29.57,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 54.69
+}

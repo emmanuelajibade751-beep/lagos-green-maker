@@ -1,0 +1,149 @@
+{
+  "id": "LAG-471",
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "2628272136aadca0596870b11880e6c7d84bc57e0140d1a573712bfff5bd6dff",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/shrubs_12_revision_02/LAG-471.blend",
+  "sourceSha256": "7993849fd90b406b31d19b723ff47fe79fccd1a42695f4ee93182597f1fc6c27",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    11.0,
+    0.0,
+    0.0
+  ],
+  "stage": "Developed panel by deck location",
+  "sourceObjectCount": 23,
+  "sourceObjectBounds": {
+    "min": [
+      -1.910466194152832,
+      -1.5824027061462402,
+      -0.024000000208616257
+    ],
+    "max": [
+      1.8776044845581055,
+      1.3300000429153442,
+      3.0331034660339355
+    ]
+  },
+  "materialCount": 14,
+  "materialObjectFingerprint": "9be29238220cff2b112f993ed11978c5f773bee1db818e04352189eec1eef793",
+  "sourceObjects": [
+    "Seat.002",
+    "Seat leg.004",
+    "Seat leg.005",
+    "Round drained pot.004",
+    "Cone.004",
+    "Water outlet / schematic.004",
+    "Pigeon pea | forked load-bearing shoots.007",
+    "Pigeon pea | rachises and flower stalks.007",
+    "Individual blade meshes.029",
+    "Connecting petioles.026",
+    "Visible midribs.024",
+    "Papilionaceous yellow flowers.004",
+    "Compressed, seeded pigeon pea pods.004",
+    "Round drained pot.005",
+    "Cone.005",
+    "Water outlet / schematic.005",
+    "Pigeon pea | forked load-bearing shoots.008",
+    "Pigeon pea | rachises and flower stalks.008",
+    "Individual blade meshes.030",
+    "Connecting petioles.027",
+    "Visible midribs.025",
+    "Papilionaceous yellow flowers.005",
+    "Compressed, seeded pigeon pea pods.005"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-471-whole.png",
+      "sha256": "6c53e20bd64e18cf27184a6e46a7bdec1c1d3464c94c8a1655077e0b0c708248",
+      "seconds": 19.03,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-471-detail.png",
+      "sha256": "8f1a13030f5cc1a9be26992b203bbe75b5abc8978c9a3538edb84b6ccfe7edc3",
+      "seconds": 31.83,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 64.43
+}

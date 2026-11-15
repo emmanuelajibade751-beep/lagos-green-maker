@@ -1,0 +1,180 @@
+{
+  "id": "LAG-334",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-ba617cad38e43464f06f2a1391fb5de0de72f2a338e154a3142251f661807018",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-334-9838e962b5ae35979dc4d858656d0e6576447975091b5f171ca77a988940c5e4.json",
+    "fileSha256": "176339896da340953190b0b4cafa25f739af6c3080db546992bfcdebf6bfed38",
+    "receiptContentSha256": "9838e962b5ae35979dc4d858656d0e6576447975091b5f171ca77a988940c5e4",
+    "sourceBlendSha256": "2805a5a73d453bce3f019626c10280682437042934edb260bf202860f4ea9353",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/climbers_10_review/LAG-334.blend",
+  "sourceSha256": "2805a5a73d453bce3f019626c10280682437042934edb260bf202860f4ea9353",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 45,
+  "sourceObjectBounds": {
+    "min": [
+      -0.7873630523681641,
+      -1.0399999618530273,
+      0.0
+    ],
+    "max": [
+      0.8028469085693359,
+      -0.2439061999320984,
+      2.753000020980835
+    ]
+  },
+  "materialCount": 16,
+  "materialObjectFingerprint": "b39f85a37d362f97d6470aee959d2f6ffca5478c93ce908278f644ea703117b4",
+  "sourceObjects": [
+    "Open vessel | proposed shell.003",
+    "Rootable substrate.003",
+    "Filter fabric | soil and drain separator.003",
+    "Protection layer | above planter base.003",
+    "Open drainage channel spacer.019",
+    "Open drainage channel spacer.020",
+    "Open drainage channel spacer.021",
+    "Open drainage channel spacer.022",
+    "Open drainage channel spacer.023",
+    "Open drainage channel spacer.024",
+    "Open drainage channel spacer.025",
+    "Open drainage channel spacer.026",
+    "Open drainage channel spacer.027",
+    "Gravity drainage outlet | continuous hollow elbow.003",
+    "Gravity drainage outlet | flange.005",
+    "Gravity drainage outlet | flange.006",
+    "Freeboard overflow | continuous hollow elbow.003",
+    "Freeboard overflow | flange.005",
+    "Freeboard overflow | flange.006",
+    "Planter foot.008",
+    "Planter foot.009",
+    "Planter foot.010",
+    "Planter foot.011",
+    "Fibrous rooting pole.002",
+    "Upright.004",
+    "Upright.005",
+    "Horizontal rail.016",
+    "Horizontal rail.017",
+    "Horizontal rail.018",
+    "Horizontal rail.019",
+    "Horizontal rail.020",
+    "Horizontal rail.021",
+    "Horizontal rail.022",
+    "Horizontal rail.023",
+    "Vertical wire.010",
+    "Vertical wire.011",
+    "Vertical wire.012",
+    "Vertical wire.013",
+    "Vertical wire.014",
+    "LAG-334 | attached axes and pedicels.005",
+    "LAG-334 | aerial roots.005",
+    "Individual blade meshes.003",
+    "Connecting petioles.002",
+    "Visible midribs.002",
+    "pepper spikes.003"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-334-whole.png",
+      "sha256": "fbedcd4068c8f48968704a6e692170e8d5a627e4059e258edf3ffd5a80f81f26",
+      "seconds": 17.02,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-334-detail.png",
+      "sha256": "bdb8d69a8b3782c6a0d34cda12d558f61a583ce071c69690bc6238e71c36a4af",
+      "seconds": 26.5,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 45.22
+}

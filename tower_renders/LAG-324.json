@@ -1,0 +1,156 @@
+{
+  "id": "LAG-324",
+  "analyticalAssembly": {
+    "assemblyId": "lgm-assembly-d249b843d20f1759a16df69140208424d43cd33d67de8f480da4984d375d8031",
+    "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-324-877ff3600c502f9101a838727950c54975cf0c805e0731e6d695051c7abcd59e.json",
+    "fileSha256": "574b1b8d14624591894bff14e5f16264c0ccab05944aa7f8b7165bebd4bd688a",
+    "receiptContentSha256": "877ff3600c502f9101a838727950c54975cf0c805e0731e6d695051c7abcd59e",
+    "sourceBlendSha256": "f553e59872bb0019e636571045f8f908631961acedeabc1b4011d8ce6ee07ffd",
+    "placementMode": "balcony384",
+    "stageCount": 3
+  },
+  "presentationConfig": {
+    "version": "native-white-sharp-4m-grid-neutral-v1",
+    "placement": "checkerboard-balconies-384-v1",
+    "samples": 16,
+    "resolution": [
+      1000,
+      1200
+    ],
+    "wholeCamera": [
+      [
+        170,
+        -220,
+        145
+      ],
+      [
+        16,
+        16,
+        46
+      ],
+      140
+    ],
+    "detailCamera": [
+      [
+        15,
+        -23,
+        19.5
+      ],
+      [
+        6,
+        -1.5,
+        12.5
+      ],
+      9
+    ],
+    "nativeGeometry": "unchanged-linked-data-and-materials-v1",
+    "wallAuditSha256": null
+  },
+  "rendererScriptSha256": "cb091ea868a4be3f20b19178950c7bfec536f22c5e455c73a0c68d4f23b25873",
+  "presentationSignature": "491e66f1f8580d18647d760a8913be59d3118c482bec04a52ce2db5d8ed7ce1c",
+  "placementMode": "checkerboard-balconies-384-v1",
+  "attachmentIssue": null,
+  "presentation": "User-authorized white tower voxels, exact hard cube geometry and IDs, neutral white illumination and subtle source 4 m edge annotation on facades and roof; all other source materials unchanged",
+  "source": "holder_pilots/ferns_06_review_03/LAG-324.blend",
+  "sourceSha256": "f553e59872bb0019e636571045f8f908631961acedeabc1b4011d8ce6ee07ffd",
+  "hostSha256": "adc2ede89e2690905b5a33f6ac85127ce2d92ca111bbe397d78da85c957c104d",
+  "sourceOrigin": [
+    4.849999904632568,
+    0.0,
+    0.0
+  ],
+  "stage": "03 | Developed",
+  "sourceObjectCount": 21,
+  "sourceObjectBounds": {
+    "min": [
+      -2.7378058433532715,
+      -1.5641517639160156,
+      0.0
+    ],
+    "max": [
+      2.1579394340515137,
+      2.1653857231140137,
+      2.2351837158203125
+    ]
+  },
+  "materialCount": 8,
+  "materialObjectFingerprint": "603a52c0ed2e2fe06a82b04bd937797d27035ce7505643488e27a2d6c5d2cb01",
+  "sourceObjects": [
+    "Trough end.004",
+    "Trough foot.004",
+    "Trough end.005",
+    "Trough foot.005",
+    "Front trough wall.002",
+    "Rear trough wall.002",
+    "Trough floor side plate.004",
+    "Trough floor side plate.005",
+    "Floor plate beside drain.006",
+    "Floor plate beside drain.007",
+    "Floor plate beside drain.008",
+    "Growing medium.002",
+    "LAG-324 | connected shoots and stalks.004",
+    "Individual blade meshes.004",
+    "Connecting petioles.002",
+    "LAG-324 | connected shoots and stalks.009",
+    "Individual blade meshes.009",
+    "Connecting petioles.006",
+    "LAG-324 | connected shoots and stalks.010",
+    "Individual blade meshes.010",
+    "Connecting petioles.007"
+  ],
+  "plantingInstances": 384,
+  "hostCounts": {
+    "voxels": 1600,
+    "context": 64,
+    "site": 93,
+    "balconies": 384,
+    "partsPerBalcony": 15
+  },
+  "geometryPolicy": "Original source objects, datablocks, modifiers, procedural materials and textures linked unchanged. Only collection offset and saved host placement transforms applied.",
+  "views": {
+    "whole": {
+      "file": "LAG-324-whole.png",
+      "sha256": "1347e4d0afb4913c6e299b6c5181516cccd10cddb62c6ca8da22d237d5dd0363",
+      "seconds": 20.44,
+      "camera": [
+        170,
+        -220,
+        145
+      ],
+      "target": [
+        16,
+        16,
+        46
+      ],
+      "orthoScale": 140,
+      "resolution": [
+        1000,
+        1200
+      ]
+    },
+    "detail": {
+      "file": "LAG-324-detail.png",
+      "sha256": "b3526bd33d621ce28d369a7e3bd8af85cbb39d537557ca85afee5435480b9a2c",
+      "seconds": 32.6,
+      "camera": [
+        15,
+        -23,
+        19.5
+      ],
+      "target": [
+        6,
+        -1.5,
+        12.5
+      ],
+      "orthoScale": 9,
+      "resolution": [
+        1000,
+        1200
+      ]
+    }
+  },
+  "samples": 16,
+  "sourceHashUnchanged": true,
+  "sourceDataMaterialFingerprintUnchanged": true,
+  "elapsedSeconds": 55.8
+}

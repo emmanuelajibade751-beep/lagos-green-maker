@@ -1,0 +1,1507 @@
+{
+  "source_pdf_sha256": "a56b3830a1dd6d065cb2e5d40a10f0daee2f9e4188dc9119ec996384274edd5f",
+  "count": 100,
+  "method": "Replace only identity text operator in source PDF, verify all extracted text otherwise unchanged, then render neutral display copy.",
+  "records": [
+    {
+      "id": "LAG-294",
+      "source_page": 5,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "3fd14a6bf2bb4891747d9a2c609a32ae8d54685b9ecfb0c8ad33f48f58765762",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-226",
+      "source_page": 6,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e98e92ea09919651cd02caf47e50a256bbb324adcc4ec7d9d3ee20ec99e19d6e",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-254",
+      "source_page": 7,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e42b7b5e17a6f36b04a5ca4cd7a0a2bb90a96fd6bdc56e2422637a38dcfe5271",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-302",
+      "source_page": 8,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "ede711cc6a86ed7eb582998c06982ec08aabf1924101523727c029507fd6214c",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-328",
+      "source_page": 9,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "0c6120bae98ce3739e34dc3841f226b204eef1de5cc5b4286a92b51f07612b7f",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-295",
+      "source_page": 10,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "d03007b63185ec063773e271fa1f011f93d08ccbad8194554bc4e01d2e00397f",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-471",
+      "source_page": 11,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "c8721ba6d01b738bb7aaa28adab7c336bbd48d3608dadbb1619ed53b8bcfe789",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-343",
+      "source_page": 12,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "8fc92731ba55d678c107d061d4405461c3a736d35ad855f82ddbb3ceb0523fb3",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-779",
+      "source_page": 13,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "2b6cedeb9a671018d8ceb3d0ffb3086cf23a2e0adf485c89e3c7816c62897182",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-250",
+      "source_page": 14,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "b2be58f7ec8272f55aec2055d1a6f7b0317ca2513535f0a566f67ec3b2e7c2c6",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-289",
+      "source_page": 15,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "2167c0aa01a23de163a011169c6c37296240eb85576730023e6eed2a9618f27c",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-752",
+      "source_page": 16,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "9ae35bd035d121a0df426240b1ba9462dc19afa5ac4080187389f8cec5e84109",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-241",
+      "source_page": 17,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a4500c1062d40d043da602a30cee1fa7c09faff9ca7d046f2b802ff1eb1dd93b",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-400",
+      "source_page": 18,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "9a57fa9c56723bfdfbb1177972e571457413de84d5f8df50f87791be57a1cf6a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-430",
+      "source_page": 19,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e6ff2ede60e67de465752a3240ef9dc1b4a3e4f3777deb6a549fec8e55b3b33a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-243",
+      "source_page": 20,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "c46282f55cbd8e578ddc16850fcd00aa6d0b9507058cc79cb39696da19b3f776",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-554",
+      "source_page": 21,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a77da6c9d02743055737da1461a382ac30013cffb795f9ce5ec2915f4d18f58c",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-262",
+      "source_page": 22,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "7d6a3efbf41d1e42375095c250bc19619c85e2e79a8daf91dfc3357a16925433",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-267",
+      "source_page": 23,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "b9431d8b28523a6b5510c0ceccb37f296459edf9bb3bc128f9babe9682203a16",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-1024",
+      "source_page": 24,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "369221823f3805f59177886201160879074c3a970098fd57e2273a011aa0aee1",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-345",
+      "source_page": 25,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "3c10eb20cb0965ad2be4a63531d9ed30551c3559162b08738287a6454d8208a1",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-507",
+      "source_page": 26,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "eb32112041c0f36ec123e40aef86dfb363e07ec915bdce023c205c084b671fc0",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-266",
+      "source_page": 27,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "77e5c768627b4c806333b4c3e10faeeddc41f2a290932154aefea3d69761f275",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-256",
+      "source_page": 28,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "ff92cab2eb95ff0b1f74d315e9f757cdf33184ea92278745f4846d5beb915f09",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-330",
+      "source_page": 29,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "1bb53087bfd60045e7891f7ce6439607b1092573fea7c688fb15cd43ba66ea2c",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-237",
+      "source_page": 30,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "2dea903667760ca5ac112726409ece88cbfaf5e6315b84cedcb83ed848cd673f",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-366",
+      "source_page": 31,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "7d2772a226b815a27607c3884d0019a7ec188eddeee02bde92d5b4cbd4dea0bf",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-268",
+      "source_page": 32,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "501d73e53fc1f6af78877e8ab6920babb80261f5208c6af3f0bd6d941b278604",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-236",
+      "source_page": 33,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "65cc46cb5fc38b22c03783f85e064ef098a9b44aa5d0d173e806c722ca2785e5",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-244",
+      "source_page": 34,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "21be5ce184898d90c60933eb58f2af6776723a7073f7b7b68eec240bce6113e7",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-319",
+      "source_page": 35,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "b3857f68118c3f2170c4c68f33d353c7c2f23d429f6dbd07f7fca37cf9f1c498",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-876",
+      "source_page": 36,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "eb1eeca13c632102967861b6d17cdcc028f510a8df5d94c3acf5b4a5667b67df",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-255",
+      "source_page": 37,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "f0c40340916fad247c74f7a404f831d9b25f8b1578ed32ee73d4ae8e148ec706",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-273",
+      "source_page": 38,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "215b1b2c11f7dc5441047ef10c931c57389caf41f66d046845e29110f808c4ba",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-269",
+      "source_page": 39,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "984fc0bef95ce49573ebfba192091882f7d151cd8367c6d8205f4a901a9e4e04",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-270",
+      "source_page": 40,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "4f0327bbbd10e80866c06098455c649cc30fa5f266b62bcfd3842c08bf1a868e",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-271",
+      "source_page": 41,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a21dda9ffc84386edba1015d7592cfb6b4f4f9a0378b8a1598b8366186e8c562",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-272",
+      "source_page": 42,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "7d6645da094454156eb8750f493abcd58e68c6099af10635c1ee11ce21d83595",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-966",
+      "source_page": 43,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e2563f2d84dcce554ebe73b9e0cef51d40cd8eb4ab9c5606ea8268abbbc4d7f7",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-238",
+      "source_page": 44,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "9332ec57b1efdf066b27dc2f2c356bcbed1e69f3a9170d737f7ffdcd35549d46",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-253",
+      "source_page": 45,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "7cbb5a21eea620f9afc7499100f8a46b4191bea390599b041dabfc16751dd769",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-230",
+      "source_page": 46,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "0b9ce970838bca0c933cf78ba1e4944935c38d804931c60f2233aa473e1add2d",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-258",
+      "source_page": 47,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "9e792abeb11240099b2067c9ec5d0729f1707ee92b2e2601d9503765f2441ced",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-283",
+      "source_page": 48,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a9f439be0ef1a8022524c1191e6fa60ee12cdc1f5cdeca78ac258f4e65ccae66",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-651",
+      "source_page": 49,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "eee61d58f3c1709b649cca7c463d2c123a80a7bfeba1d26216a4f058c137bd03",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-316",
+      "source_page": 50,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "7c0f71ea105c65ff99f1d61bb64b1714f88872ff249c61cf11ffc62cb037d6d4",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-334",
+      "source_page": 51,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "dbdf737c6f56d046060b2c8405e3cd9c2b5e91d9320ddcc3a75698dc601923e3",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-331",
+      "source_page": 52,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "bf98e5bcde564789ccf272b492af1a96fff24533bd78172f237690545370a96d",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-301",
+      "source_page": 53,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "d7d2be91bd57c2a99f882d600d0b59957a5489e121cea21c9fa9aaaecf134535",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-479",
+      "source_page": 54,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "8164e89677a9381e0741ecf0e2e2dd243d84b4d74af487ee2523caa6ddef59ff",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-497",
+      "source_page": 55,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a0e37d6b6f2f5534f52295b186a2dfbbbef9db985699f105f359960093417910",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-260",
+      "source_page": 56,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "96ce8303d06e171ea23c883d9e4a6ac9a17d5278e4b88396b88396021e131736",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-709",
+      "source_page": 57,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "dbe277d641bd9527cc029a099c2eb2302ab3fdb7e3c55a0bab58d4e242c0c0a1",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-769",
+      "source_page": 58,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "11e9f4d6fd7887ba3ff2aee9ff610af79e3cfa532fd9c21814fb6454df43bad3",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-363",
+      "source_page": 59,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "900edbb08e4bc1d2d45154a1212844d21fa639e7289395ff202d4015d6171e21",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-834",
+      "source_page": 60,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "b79dd51922964f0a846fdfa50f7f94620587651669c1fdba51943d508578ac48",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-983",
+      "source_page": 61,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "2c0f4edf21ae1fe781451786bd88cd8747d1e49ecd25f4af5f8d64d61563bb9f",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-324",
+      "source_page": 62,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "8ecf371ff6777469cf591bd4eb753776ff8ef677a4232a5fa2ae7ec68d7b7635",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-787",
+      "source_page": 63,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e8de981d8cd53ba0713e76f4290b464daaf10a2bf0e69a682dafb30b73a67362",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-227",
+      "source_page": 64,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "04ce8e504c186ace6ea544bd670050ffed6d22029614bba856480db25387abb3",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-245",
+      "source_page": 65,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "f58f3179f849ace664648d9d83bb60f4c0758f56fca298a28de4b004f529c006",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-320",
+      "source_page": 66,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "19d87a169c458de58b2baea025ca06cd18150da3d079b7517db878824fd32c42",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-337",
+      "source_page": 67,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "cc2f25cff7243eafcbaf3d9558ef6d6163b67537b28e1ab22820be40596a7364",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-325",
+      "source_page": 68,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "720cf530505619c2ca9f271c2a6a0a1e517d44600671ce085c0547c4dc96356f",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-326",
+      "source_page": 69,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "d6ee471fd6861d07475873ca2dc578901c9dce598addd5a40a425ee265d57985",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-313",
+      "source_page": 70,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "8e4fc4bcd2a233c0903b3520bd71d59abd3d8fafa6a8164ea7d963daa8908b47",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-978",
+      "source_page": 71,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "3ffba5475bb6b3a9fb71702d340296a531e283835370fd2202bcb4a084d8f8b0",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-353",
+      "source_page": 72,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "033a36b756bf5ac43d12d981cc4f44105e6c399a8a9774a84f0f461574cb4c1a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-335",
+      "source_page": 73,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "13d5a0304cec39b84edf79e08be4f82303125c465813c6d5a42a4aebc901e652",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-424",
+      "source_page": 74,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "306b8837272965f30b429c6672f410fe220b272a41254049e6a61bb0e03cffd7",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-630",
+      "source_page": 75,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "ba2a01467de63c2a9adbfedbc514567ead57aaa59dbee06aabb0fb618cd604ee",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-310",
+      "source_page": 76,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "07293a78dd9a244d13ffd9ec4d2af437ca00a2ac70bbfd931de357a4b769d970",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-410",
+      "source_page": 77,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e765cd700afb58f78a665bb32a134018205add8d84fc8a9f17ba0985feeeecdb",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-362",
+      "source_page": 78,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "ff2225baea4ee7827753060390f25735d87f48c647d13c96b9224f8268567033",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-485",
+      "source_page": 79,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "02577c49175a8b3bbc73664a59953ac26a65dc00ba934e78d8f0ffbc0d0c0682",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-781",
+      "source_page": 80,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "62e02467c272a3af7a13f1f412f1469a06078059d0e23ade5aaba849ac8e0f30",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-865",
+      "source_page": 81,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "e0f6893e26096aeb42b8386880f4afb7b438936cd12bfa18212cd0475039033a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-082",
+      "source_page": 82,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "412278d297cdaf955b8a1b087e632192d3a6eb89355545be80ee3c43098e43e7",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-061",
+      "source_page": 83,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a35b7fa95cc5e4491b01339c4d25d1b7ce078c17fec366651e6ba6064ef2e9ab",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-173",
+      "source_page": 84,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "7c12d12044f47f93b5f21959e32a926c1e5218723a758780bc765d730e9cd15a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-157",
+      "source_page": 85,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "ad52d7a4933b00c55dfcfc9f4b648beead6d1a0400d42073ea6674140005f5fc",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-728",
+      "source_page": 86,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "db64e856191ed85312a34b753daf460726a22896245bad3b9163e30aa4f4ef2d",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-552",
+      "source_page": 87,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "f2be13907b35f61b5c98ea2e30c2e535a13a34622361fafcd9c617c8fe6a767d",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-105",
+      "source_page": 88,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "3af102ea17f17e9563bde9dbe3aef6f77e1df18f05bffd5262ffe48632770b2a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-201",
+      "source_page": 89,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "757d3ca5d73c7ef107600693969338013ebdc68691f0f211d4e544a6584738b6",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-031",
+      "source_page": 90,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "ec09eb808ffc75b078b9944a6233686b998cc74edbe93b831cc97f37767ea57e",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-177",
+      "source_page": 91,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "45fec3c88ce753b26e52f812ffd060a5b14e051769f09a975d48f26d4d826079",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-132",
+      "source_page": 92,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "c0653ae4c4d82dd471e2f194a0048f54790d31c507541fb818baedb49d74704c",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-032",
+      "source_page": 93,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "4e009bede642669c74dc3b2128562dc9846885c4adf8a8b09af5d170d1ac1f52",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-076",
+      "source_page": 94,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "5e9c639f7b5bd5633e7af068f58b7fe1d976c58a92119da8ed43fcf81eb26721",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-053",
+      "source_page": 95,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "96a4bb57f71a530b2ae62719a75d44c20f4935b8b317d6c49c5231c736346ae6",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-054",
+      "source_page": 96,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "c3d75412f70bd6189d4a0bbc159624f5bef8ea0f3477765e1d846f3e95fa8548",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-135",
+      "source_page": 97,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "6d56a6c69877219b87960a0d9f8fb1dde8b48560500910a39b5b76e6c5ce0db1",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-118",
+      "source_page": 98,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "f6daa2cda55d54a5a73cf34fd8371a38806cfc5db9bd583acd5d76eb610ac98a",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-712",
+      "source_page": 99,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "82a453dbf90fcb373093745df3df8396b1aa21d6d36a605a865a699f3117def3",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-156",
+      "source_page": 100,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "23b7fc8e401011f4a63b05dd87b49196681ec0c5a69270054cdcad13e0046286",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-169",
+      "source_page": 101,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "fee71b5ea360b6e8232bb139c9c2a05f0f7ebcc96e85a8cedbd91d10cea7ecad",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-142",
+      "source_page": 102,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "a1b12f19d3f654cdc0dac717ead42e6832d21144d7b95182cb4587619886e0a5",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-208",
+      "source_page": 103,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "f64bb490655bc5ec23221d52626320de3799ee031dc6934f7e6fedf6c15b36cf",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    },
+    {
+      "id": "LAG-027",
+      "source_page": 104,
+      "text_changes": [
+        [
+          "LLL Laboratory",
+          "Lagos Green Maker"
+        ]
+      ],
+      "display_sha256": "2c39dc0a842ba8d91204d7a5fc0834189839dc94957fab778eac6ceb4f85364c",
+      "display_dimensions": [
+        655,
+        464
+      ]
+    }
+  ]
+}

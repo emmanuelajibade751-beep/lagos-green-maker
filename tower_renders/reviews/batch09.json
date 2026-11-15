@@ -1,0 +1,420 @@
+{
+  "batch": 9,
+  "ids": [
+    "LAG-054",
+    "LAG-135",
+    "LAG-118",
+    "LAG-712",
+    "LAG-156",
+    "LAG-169",
+    "LAG-142",
+    "LAG-208",
+    "LAG-027"
+  ],
+  "sourceReportHashes": {
+    "LAG-054": "874eec4a21db9a28fb5325c1b5337ef84d59c646dd3c92e90c663c38ae3791ac",
+    "LAG-135": "5f42feff252a5aa1e12c93f7c3b37bd9f0c04ae5d94c58d68a301dce5b54ab79",
+    "LAG-118": "ed036a3fb5ec20ee73a7e9c239766bbb76ebd159c31d52f07ee07086f11b51c2",
+    "LAG-712": "5017ecfc34dd6aa978014242455a2f26e524b872cb00996fbcc2c80639c66e9f",
+    "LAG-156": "2a829da941b340323ccb5abcc84800708b0cb0166930d5dceb97387ce44ce887",
+    "LAG-169": "2fc60156ef1d4a754aae874923e97b10893fa25cbd6fd421c8b1241fe5ff269d",
+    "LAG-142": "4e43c30482cb08c9b0ec856504d6bf290950e03751b4f169e980a112a7542f23",
+    "LAG-208": "3f34c33d507e8eba0eab24521c0a0456943ab695fe16dfb769543432b20b42b4",
+    "LAG-027": "760a8b01ba324336aa9f9c4943188be8ce69e29a4ba3a640b6003cf39ebb2a8c"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass_with_fit_notes",
+  "visualReview": {
+    "findings": [
+      "All9 whole views contain full native planted tower envelopes and base.054/135/118/712/027 use approved tall frame;156/169/142/208 use normal frame.",
+      "054 kapok and135 iroko retain visible buttressed trunks and circular pots;118 mahogany and712 bush mango retain native branching and foliage.",
+      "156 avocado denser foliage,169 guava open branches,142 fine compound moringa foliage and208 cacao broad leaves/trunk pods remain visible.",
+      "027 breadfruit retains large lobed leaves and native holder. No blank plant layer or lost holder found.",
+      "All9 large source specimens cross bay/deck/floor envelopes; dense repeated crowns obscure architecture and native branches/roots intersect floors. Whole views are complete, while detail frames are intentional close-ups."
+    ],
+    "limits": "Pass confirms faithful native renders, not a feasible tree-on-every-balcony design or full botanical certification."
+  },
+  "reviewedUtc": "2026-11-15T16:07:44.961929+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\batch09_sheet1.jpg",
+    "tmp\\native_batch_reviews\\batch09_sheet2.jpg",
+    "tmp\\native_batch_reviews\\batch09_sheet3.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-054",
+      "label": "Kapok",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "e196021b88c5f2e7250475c0ec9990d9ac064917fa52dcd4f2edcf77343a5b04",
+      "viewHashes": {
+        "whole": "b30302dfd48ae84ff25f3475fc46f6abb336c44603f337bffe80f66993c5f2ab",
+        "detail": "14ba9a31e25f2cf4c091dfbaaf411f3de76f76d13789fc21c67079a559156962"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -13.265534400939941,
+          -11.50808048248291,
+          0.0
+        ],
+        "max": [
+          12.333690643310547,
+          13.940509796142578,
+          31.04452896118164
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-3878a969945b489004c75752e65d93c19c3b458352acb44b8c6bc2de4540eeb7",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-054-a6243828ef4922d72b0c3c82573db2be9d50b3226b4abd7bd4d3483074c4ebc9.json",
+        "fileSha256": "3dbe6ad35d78b6d09381aefa8316848f4109fe105a01191c15ae3a23654a7e06",
+        "receiptContentSha256": "a6243828ef4922d72b0c3c82573db2be9d50b3226b4abd7bd4d3483074c4ebc9",
+        "sourceBlendSha256": "e196021b88c5f2e7250475c0ec9990d9ac064917fa52dcd4f2edcf77343a5b04",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-054.png",
+      "approvedSourceImageSha256": "708fc02fd8379e518a8425a7f6ada028ef0e5f24dab9cb6b36f173a0c00ee040"
+    },
+    {
+      "id": "LAG-135",
+      "label": "Iroko",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "5f9df0fc69f54511b395b639ec48800cdb07ffec0c16d363d1975da164143356",
+      "viewHashes": {
+        "whole": "34996c9641f56fd10aca1737eca4613cd5b3339eb6dd22dda8bacfa69f68040e",
+        "detail": "afa243a88aaa22a2e67c167176e7e38b76a012e1fa84f361db509efe6765d6e9"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -11.595386505126953,
+          -9.076416969299316,
+          0.0
+        ],
+        "max": [
+          9.728544235229492,
+          15.073049545288086,
+          36.2260627746582
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-bb3515dd0637b8c381d23fe93dd6c64b56b887f71fc47f84f30cecba4d4e0c5c",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-135-376b8fcf95b8d90a365e0d5b9dbd44e1939efa8bceb6ecf30a550302a8bb3770.json",
+        "fileSha256": "6c922a0d5a24153421b01b4e894bb155521d7adaa408c97af6e9d3be3b39c4c9",
+        "receiptContentSha256": "376b8fcf95b8d90a365e0d5b9dbd44e1939efa8bceb6ecf30a550302a8bb3770",
+        "sourceBlendSha256": "5f9df0fc69f54511b395b639ec48800cdb07ffec0c16d363d1975da164143356",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-135.png",
+      "approvedSourceImageSha256": "f38bcca21e16798edbf7286e0685037cc2677122061a7e3f97082876a0fca2b4"
+    },
+    {
+      "id": "LAG-118",
+      "label": "African mahogany",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "f48a4aef2bc298181f722875ca7f758c9fd8b5e44168b8c871ddcedd1efe670b",
+      "viewHashes": {
+        "whole": "c861018aa30bac66f695812be3bd9e7644c9eecd1ae635097f0fd4dc00c51253",
+        "detail": "d3f7956cae7cbee279db4e648f306304714b9d55cd68f28b9de1463ba334bee1"
+      },
+      "sourceObjectCount": 6,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -12.054443359375,
+          -11.735877990722656,
+          0.0
+        ],
+        "max": [
+          10.503097534179688,
+          13.265541076660156,
+          22.965667724609375
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-6bdca2e033c3f20798dea138eb2b14ab51c2c7460336d0b0dfac5e4fc1e980a0",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-118-245d20c4e303a21d0143793cd2d599add7aae6a8c420402a9fc8fce2abc2a88e.json",
+        "fileSha256": "615f3b8693383a542333b95f8f246270be29e707b1426a3f216fb28bff840abf",
+        "receiptContentSha256": "245d20c4e303a21d0143793cd2d599add7aae6a8c420402a9fc8fce2abc2a88e",
+        "sourceBlendSha256": "f48a4aef2bc298181f722875ca7f758c9fd8b5e44168b8c871ddcedd1efe670b",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-118.png",
+      "approvedSourceImageSha256": "d6f459e6f61dbda709646bf9075c6bc086b118a20199a4b6c9179be2b60d78fd"
+    },
+    {
+      "id": "LAG-712",
+      "label": "Bush mango",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "9c94a024b2abc72c2743b6de7d30a305b7aa8740e4c44d6fc73fb211770e5ed3",
+      "viewHashes": {
+        "whole": "aacf405436cdbffb2f59458ea0b79847edddb301d5441cd35a6446174cffaa21",
+        "detail": "0855a833fec81f6f0dbafe92422c60f19969a09c35921b8c58e64c4f680e1493"
+      },
+      "sourceObjectCount": 7,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -15.28471565246582,
+          -13.578330039978027,
+          0.0
+        ],
+        "max": [
+          13.632293701171875,
+          14.664566993713379,
+          25.033016204833984
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-d5cfeb249225ce38e5e7383e0d343c68940a121056b0716fd67bdcd5664d3ce1",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-712-6bf6d7e82f86fcef83eee6e4d3cbf208658e7f1953daa375edad37565ddf6793.json",
+        "fileSha256": "f4056e0394a66949e462adf827c5ef186d927db77e21282c335088829b04e105",
+        "receiptContentSha256": "6bf6d7e82f86fcef83eee6e4d3cbf208658e7f1953daa375edad37565ddf6793",
+        "sourceBlendSha256": "9c94a024b2abc72c2743b6de7d30a305b7aa8740e4c44d6fc73fb211770e5ed3",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-712.png",
+      "approvedSourceImageSha256": "70820273469aa95e99c3890e17cb86d4a15cd4be80e16fd01a96aa448fc21cf3"
+    },
+    {
+      "id": "LAG-156",
+      "label": "Avocado",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "61b5d794f4a8b8573b7ee00c11b5142ca28dc07ee32201d9f919b2149ab3fa6a",
+      "viewHashes": {
+        "whole": "06e62415d035a945d04853bd8b90a66bfbc8a574eca88b8fb4dd12bdde8aa95a",
+        "detail": "124a02a8d42ad6db37433612519c787c5c3fd2e6f4b13e285c2951687190e9a8"
+      },
+      "sourceObjectCount": 7,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -6.228646755218506,
+          -4.913352012634277,
+          0.0
+        ],
+        "max": [
+          6.485382080078125,
+          6.315584659576416,
+          9.296780586242676
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-98f4bb0595a1ac5651f388de52d9d01cad9f8fa5dee43157a7c389dc2d926584",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-156-77cad789ac71781c21c12dbad87b377acb7e6b570be2d1e0b8afbee5b8e60255.json",
+        "fileSha256": "c9283080d0ebff7f55beb5c606ccacd111bffaba13d29b841d5302e4f3337e41",
+        "receiptContentSha256": "77cad789ac71781c21c12dbad87b377acb7e6b570be2d1e0b8afbee5b8e60255",
+        "sourceBlendSha256": "61b5d794f4a8b8573b7ee00c11b5142ca28dc07ee32201d9f919b2149ab3fa6a",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-156.png",
+      "approvedSourceImageSha256": "1381eeb63f2ccf8fa06e956eba12d9afed12cab07c93ce585d05106689f5315e"
+    },
+    {
+      "id": "LAG-169",
+      "label": "Guava",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "e99ad5f71988a38cb88fcce69c333ad85e9005e13ff51c937029a042b2b33860",
+      "viewHashes": {
+        "whole": "b9102051d50e393b1e1e2c0018a8acbf6849f158d9f12ef1359395148b4c58dd",
+        "detail": "29c0ba1599e956e825f70d363d45e344e2f90ddef45556fd0b976423fa8f88e7"
+      },
+      "sourceObjectCount": 7,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -4.081600666046143,
+          -3.4352822303771973,
+          0.0
+        ],
+        "max": [
+          3.7148590087890625,
+          3.436783790588379,
+          5.517344951629639
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-b6e2b82b6c0ce562cf5310f6470b94ad9ed4e2ccb781612bf9c622f291d5c361",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-169-ebff1b3d7b928b77df85caa62233ca33ecfdfdaa94051f6e87fe54abc3cf74f9.json",
+        "fileSha256": "f4fe90e43bed279b9a26ce61d255a93d0f4f862016cc60148762d4682bf21260",
+        "receiptContentSha256": "ebff1b3d7b928b77df85caa62233ca33ecfdfdaa94051f6e87fe54abc3cf74f9",
+        "sourceBlendSha256": "e99ad5f71988a38cb88fcce69c333ad85e9005e13ff51c937029a042b2b33860",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-169.png",
+      "approvedSourceImageSha256": "b0100f14abe4cf68e864165a49e7ec909966e05e88fabd66edc1fbef343e13da"
+    },
+    {
+      "id": "LAG-142",
+      "label": "Moringa",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "10665b89d9cef87c6d3316aff2e8e4a18ae86766b519eba829d8bda1afaa6eba",
+      "viewHashes": {
+        "whole": "b657d0eb4ee41445de45b68a3f797d913d861cc9bf1f262f49c966594df172ef",
+        "detail": "2da699428d7af4b0957498844fbeecaaaa8e3e587ca6637890d49fd3f7e74019"
+      },
+      "sourceObjectCount": 5,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -4.424684524536133,
+          -5.023980617523193,
+          0.0
+        ],
+        "max": [
+          4.789691925048828,
+          5.222038269042969,
+          9.687409400939941
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-c502f39b00f775c2069bab87777b4b365bc3d333631ea279a54acd0bba284431",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-142-6d175c1029db7432e30b2be3e3bb4dc5b8453b329c1aff0ba607e369d8b4e3c5.json",
+        "fileSha256": "0da988d18bc0adbd0023de6709d34750e6847cff26c951691d469c22b0d17f95",
+        "receiptContentSha256": "6d175c1029db7432e30b2be3e3bb4dc5b8453b329c1aff0ba607e369d8b4e3c5",
+        "sourceBlendSha256": "10665b89d9cef87c6d3316aff2e8e4a18ae86766b519eba829d8bda1afaa6eba",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-142.png",
+      "approvedSourceImageSha256": "f0a0287040e7d1f1b2c64b010195d3de1b8f4851af1f6547a5c414e63e607489"
+    },
+    {
+      "id": "LAG-208",
+      "label": "Cacao",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "81da91a63837f7e08bfdc58ebd849ee52cf1abbcaab2baf3aabd506d18a2ca25",
+      "viewHashes": {
+        "whole": "25e63dc7adb3d6b37d7dbbf980a4091687ac958ed8b2c8deb40823a69f273da3",
+        "detail": "05c3331eb5a10d008ec3932522085c429a4347a5b00c00b031e4456ee3526171"
+      },
+      "sourceObjectCount": 7,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -3.425421714782715,
+          -3.4680018424987793,
+          0.0
+        ],
+        "max": [
+          4.38065242767334,
+          4.175764560699463,
+          5.313422679901123
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-5cfdd661a21146a0fdb171424d947b457a2111d328b14d4ca1de728578dd61a4",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-208-1bac936d647b95ec4368b6d3167e444c1f29cc6dbd130951f54a4c0604358565.json",
+        "fileSha256": "5ab47d85d8de6f164f08b17d85ba461a88edf0dbe0f45740d8aa970239b13f2a",
+        "receiptContentSha256": "1bac936d647b95ec4368b6d3167e444c1f29cc6dbd130951f54a4c0604358565",
+        "sourceBlendSha256": "81da91a63837f7e08bfdc58ebd849ee52cf1abbcaab2baf3aabd506d18a2ca25",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-208.png",
+      "approvedSourceImageSha256": "3d536111b9755b8e3a74e2ad28f4e6ccc08adbfc27a47686b66b856267227264"
+    },
+    {
+      "id": "LAG-027",
+      "label": "Breadfruit",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "df608063069a1edc2207f787277bf44a8fd75ac31d070427ece6c74b5b3e1f32",
+      "viewHashes": {
+        "whole": "e6f5186f945d5869356b36742fea3e646690319d308f7902c098866c09f9935a",
+        "detail": "643897170672219fefa316a9ec8a49698fa4e15b862e3d41d9ea0ebded521d2c"
+      },
+      "sourceObjectCount": 7,
+      "materialCount": 10,
+      "fitBounds": {
+        "min": [
+          -9.09780216217041,
+          -8.523406028747559,
+          0.0
+        ],
+        "max": [
+          9.833938598632812,
+          11.098508834838867,
+          16.51298713684082
+        ]
+      },
+      "fitWarnings": [
+        "Source geometry crosses the 4 m bay width.",
+        "Source geometry crosses the 3 m deck depth.",
+        "Source geometry extends above the next 4 m floor datum."
+      ],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-d731e87bebc8e18f9b2b47ca73cd413d2c95ea30f38f1c80e9c57eee8f6fb5b0",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-027-9a135f4deac477f5c02632a26472b69a8f078b6623d3b463996a2af90dd6487c.json",
+        "fileSha256": "ee059eb79fc4f7c2c32c31e50cd998b30f80a68c6acee07f3f02208355345559",
+        "receiptContentSha256": "9a135f4deac477f5c02632a26472b69a8f078b6623d3b463996a2af90dd6487c",
+        "sourceBlendSha256": "df608063069a1edc2207f787277bf44a8fd75ac31d070427ece6c74b5b3e1f32",
+        "placementMode": "balcony384",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/trees_16_balcony_review/LAG-027.png",
+      "approvedSourceImageSha256": "c3ae2d9456af27fc6299c9a3208f1b50ea01e3651d884b48be3663056a07fc1c"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Fit warnings preserve source size and do not assert that repeated placements are feasible."
+  ]
+}

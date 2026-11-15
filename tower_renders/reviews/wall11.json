@@ -1,0 +1,68 @@
+{
+  "batch": 11,
+  "ids": [
+    "LAG-236"
+  ],
+  "sourceReportHashes": {
+    "LAG-236": "b7935c63a62ca438bbe2984dfa016d12d75692fe8fd78150981080dfc28bf354"
+  },
+  "structuralStatus": "pass",
+  "structuralFailures": [],
+  "visualStatus": "pass",
+  "visualReview": {
+    "findings": [
+      "Carpet grass native dense rectangular turf and pale medium perimeter retained relative approved source.",
+      "Whole and detail retain uninterrupted fine foliage, railings and full tower framing; no additional dark medium patches observed.",
+      "Fine grass anatomy distinction cannot be certified at contact-sheet scale; original source/selection hashes establish asset identity."
+    ],
+    "proofScope": "Both PNG/source hashes, cameras, 800 placements and all reported pixel gates checked. Grass EXR reconstruction independently sampled on LAG-330; LAG-236 EXRs not recomputed."
+  },
+  "reviewedUtc": "2026-11-15T14:55:56.687050+00:00",
+  "contactSheets": [
+    "tmp\\native_batch_reviews\\wall11_sheet1.jpg"
+  ],
+  "records": [
+    {
+      "id": "LAG-236",
+      "label": "Carpet grass",
+      "structuralStatus": "pass",
+      "findings": [],
+      "sourceSha256": "ef251ed49f4f81c7fc709e3b183ab37112fcbdfa42b1db5df7af07b8fcf02628",
+      "viewHashes": {
+        "whole": "b7279dc30e58aefa7bb52c92390c79f0f00160492f35c109617e2de545149652",
+        "detail": "94c8f76a0ac75e2c36c31afb5444339aa6f4a41d1a3ff83a1578909711bbbbf4"
+      },
+      "sourceObjectCount": 25,
+      "materialCount": 8,
+      "fitBounds": {
+        "min": [
+          -1.9000000953674316,
+          1.409904956817627,
+          0.31999993324279785
+        ],
+        "max": [
+          1.9000000953674316,
+          1.7000000476837158,
+          3.2300000190734863
+        ]
+      },
+      "fitWarnings": [],
+      "nativeAssembly": {
+        "assemblyId": "lgm-assembly-ea9ae318003adcb9d5e822030897cf82692da3ca9c944d2309ede9124a6e863c",
+        "file": "outputs/plant_modeller_precision/tower_renders/assemblies/LAG-236-ec673d885ff99ef6971995d845542a14ddc6f06bf5e74aba5bd7eeb0c81050e1.json",
+        "fileSha256": "b6403ddfe9172eb636ecd4f120f1d83614aaeb62fe6e0a451721170e7485b439",
+        "receiptContentSha256": "ec673d885ff99ef6971995d845542a14ddc6f06bf5e74aba5bd7eeb0c81050e1",
+        "sourceBlendSha256": "ef251ed49f4f81c7fc709e3b183ab37112fcbdfa42b1db5df7af07b8fcf02628",
+        "placementMode": "wall800",
+        "stageCount": 3
+      },
+      "approvedSourceImage": "outputs/holder_pilots/grasses_bamboo_08_balcony_review_02/LAG-236.png",
+      "approvedSourceImageSha256": "862c75e79aa0de4cc512079cc2ca7d90c1bced6efb82a62cd5afbed14f1c21ef"
+    }
+  ],
+  "limits": [
+    "Native Blender source hashes and render receipts verified independently; no heavy Blender re-evaluation performed.",
+    "Visual review compares overall plant/holder features at render resolution, not a complete botanical or construction certification.",
+    "Wall attachment remains construction-coordination issue; surface priority changes image visibility only."
+  ]
+}
