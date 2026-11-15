@@ -1,4 +1,4 @@
-function showGrowingRequirements(plant) {
+function buildGrowingRequirements(plant) {
   const rows = growingRequirements[plant.id];
   const entries = rows.map(row => {
     const sources = row.sources
@@ -17,4 +17,11 @@ function showGrowingRequirements(plant) {
     '<p>Compare plants at the same growth stage and stock size. Record the bay exposure, container, substrate, rainfall, irrigation delivered, drainage and plant response. Repeat in wet and dry periods. ' +
     '<a href="https://www.fao.org/4/S2022E/s2022e08.htm">FAO irrigation water needs</a> · ' +
     '<a href="https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/lighting-for-indoor-plants">University of Minnesota Extension light measurement guide</a></p></details>';
+}
+
+function showGrowingRequirements(plant) {
+  const content=document.createElement('div');content.innerHTML=buildGrowingRequirements(plant);
+  const downloads=content.querySelector(':scope>p'),details=document.createElement('details');
+  details.innerHTML='<summary>Downloads & coverage</summary>';details.append(downloads);content.append(details);
+  content.querySelector('h3').textContent='Growing needs';return content.innerHTML;
 }

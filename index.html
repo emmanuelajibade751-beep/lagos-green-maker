@@ -126,7 +126,7 @@ dialog{width:min(1220px,calc(100% - 24px))}
   </nav>
 </header>
 <div class="hero">
-  <div><h1>Lagos Green Maker</h1><p>Browse plants, growth stages and planting systems.</p></div>
+  <div><h1>Lagos Green Maker</h1><p>100 plants. See what changes.</p></div>
   <label class="search">Find a plant<input id="search" type="search" placeholder="Species, common name or LAG ID"></label>
 </div>
 <main class="workspace">
@@ -186,6 +186,7 @@ dialog{width:min(1220px,calc(100% - 24px))}
 <script src="paired_shade.js"></script>
 <script src="wall_comparison/data.js"></script>
 <script src="wall_comparison.js"></script>
+<script src="editorial.js"></script>
 <script src="tower_choices.js"></script>
 <script src="tower_preview.js"></script>
 <script>
@@ -266,7 +267,7 @@ function drawGrid() {
   document.querySelector('#empty').hidden = visible.length > 0;
 }
 function showStages(plant) {
-  return '<p class="note">Three study stages at the same camera scale. Dimensions come from the saved models. Conditional source times refer to the study conditions shown.</p><div class="stages">' +
+  return '<p class="note">Three stages, shown at the same scale. Ages depend on growing conditions.</p><div class="stages">' +
     plant.stages.map(stage =>
       '<article class="stage"><a href="' + escape(stage.image) + '" target="_blank" rel="noopener">' +
       '<img src="' + escape(stage.image) + '" width="900" height="900" alt="' +

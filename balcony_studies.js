@@ -8,8 +8,8 @@ function showBalconyStudies(plant) {
       studies.map((study, index) => '<button type="button" data-layout="' + index +
         '" aria-pressed="true">' + escape(study.label) + '</button>').join('') + '</div>'
     : '';
-  return '<p class="note">Each comparison shows establishment, intermediate and developed study sizes. ' +
-    'Dimensions and planting provisions describe the modelled design. Check root space, load, exposure and care before placement.</p>' +
+  return '<p class="note">Three stages. One planting system. ' +
+    'Check root space, load and exposure before placement.</p>' +
     choices + studies.map((study, index) =>
       '<section class="balcony-study" data-layout-panel="' + index + '">' +
       '<h3>' + escape(study.label) + '</h3><figure><a href="' + escape(study.image) +
