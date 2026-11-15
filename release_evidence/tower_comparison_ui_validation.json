@@ -1,0 +1,11 @@
+{
+  "cases": 300,
+  "metrics": [
+    "annual solar energy",
+    "direct-sun hours"
+  ],
+  "area_m2": 13824,
+  "source_sha256": "61e45475b89d07faf4a11c3e92731600a3d58b1615ecf630cc618c77af1a5169",
+  "status": "pass",
+  "temperature_available": false
+}

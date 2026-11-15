@@ -30,7 +30,7 @@
     html+=tableRow('Incident irradiation<br><small>kWh/m²/year</small>',[bareEnergy,balconyEnergy,energyRemoved].map(numeric));
     html+=tableRow('Geometric direct sun<br><small>h/year</small>',[bareSun,balconySun,sunRemoved].map(numeric));
     html+=tableRow('Exposure rank<br><small>1 = most exposed; of 736</small>',[ranks ? numeric(ranks.bare) : 'Not ranked',ranks ? numeric(ranks.checkerboard) : 'Not ranked','—']);
-    html+='</tbody></table></div><p class="note">Planted scenario: <strong>Analysis pending.</strong> These architectural results stay unchanged when species or growth stage changes. Solar exposure is not temperature or thermal comfort.</p>';
+    html+='</tbody></table></div><p class="note">Planted scenarios: <strong>Use Greened tower solar analysis above.</strong> These architectural results stay unchanged when species or growth stage changes. Solar exposure is not temperature or thermal comfort.</p>';
     const related=[...new Set([...voxel.balcony_entry,...voxel.balcony_below])];
     if(related.length) html+='<details><summary>Linked balconies · entry and below slab</summary>'+related.map(key=>{const balcony=data.balconies[key];return '<p class="note">'+safe(key)+' · '+safe(balcony.face)+' face, bay '+safe(balcony.bay)+'<br>'+jumpButton(balcony.entry_voxel,'At entry · '+balcony.entry_voxel)+' '+jumpButton(balcony.below_voxel,'Below slab · '+balcony.below_voxel)+'</p>';}).join('')+'</details>';
     html+='<details class="solar-face-details"><summary>Face results and sensor IDs</summary>';
