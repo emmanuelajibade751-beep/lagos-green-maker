@@ -1,0 +1,94 @@
+{
+  "bare-tower": {
+    "towerVoxels": 1600,
+    "contextBuildings": 64,
+    "balconies": 0,
+    "plantObjects": 0,
+    "faces": 864,
+    "solar": false,
+    "annualLegend": [
+      0,
+      1800
+    ],
+    "camera": [
+      170,
+      -220,
+      165
+    ],
+    "lookAt": [
+      16,
+      16,
+      38
+    ],
+    "orthographicHeight": 180
+  },
+  "bare-sunlight": {
+    "towerVoxels": 1600,
+    "contextBuildings": 64,
+    "balconies": 0,
+    "plantObjects": 0,
+    "faces": 864,
+    "solar": true,
+    "annualLegend": [
+      0,
+      1800
+    ],
+    "camera": [
+      170,
+      -220,
+      165
+    ],
+    "lookAt": [
+      16,
+      16,
+      38
+    ],
+    "orthographicHeight": 180
+  },
+  "balconies-tower": {
+    "towerVoxels": 1600,
+    "contextBuildings": 64,
+    "balconies": 384,
+    "plantObjects": 0,
+    "faces": 864,
+    "solar": false,
+    "annualLegend": [
+      0,
+      1800
+    ],
+    "camera": [
+      170,
+      -220,
+      165
+    ],
+    "lookAt": [
+      16,
+      16,
+      38
+    ],
+    "orthographicHeight": 180
+  },
+  "balconies-sunlight": {
+    "towerVoxels": 1600,
+    "contextBuildings": 64,
+    "balconies": 384,
+    "plantObjects": 0,
+    "faces": 864,
+    "solar": true,
+    "annualLegend": [
+      0,
+      1800
+    ],
+    "camera": [
+      170,
+      -220,
+      165
+    ],
+    "lookAt": [
+      16,
+      16,
+      38
+    ],
+    "orthographicHeight": 180
+  }
+}
