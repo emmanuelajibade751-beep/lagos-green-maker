@@ -14,6 +14,6 @@
  document.querySelectorAll('.shade-tile').forEach(tile=>tile.addEventListener('click',()=>{lastCard=tile;}));
  window.addEventListener('DOMContentLoaded',()=>{
   const compare=document.querySelector('#compare-plants');
-  if(compare)document.querySelector('.story-nav').append(compare);
+  if(compare)document.querySelector('.mast').append(compare);
  });
 })();
