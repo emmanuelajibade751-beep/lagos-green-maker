@@ -12,6 +12,29 @@
    });
  }));
  document.querySelectorAll('.shade-tile').forEach(tile=>tile.addEventListener('click',()=>{lastCard=tile;}));
+ const sectionIds=['architecture','plants','method','catalogue'];
+ const sections=sectionIds.map(id=>document.getElementById(id)).filter(Boolean);
+ const sectionLinks=[...document.querySelectorAll('.story-nav a[href^="#"],.chapter-nav a[href^="#"]')];
+ function setCurrentSection(id){
+  sectionLinks.forEach(link=>{
+   if(link.hash==='#'+id)link.setAttribute('aria-current','location');
+   else link.removeAttribute('aria-current');
+  });
+ }
+ setCurrentSection(sectionIds.includes(location.hash.slice(1))?location.hash.slice(1):'architecture');
+ sectionLinks.forEach(link=>link.addEventListener('click',()=>setCurrentSection(link.hash.slice(1))));
+ if('IntersectionObserver' in window&&sections.length){
+  const inReadingBand=new Set();
+  const observer=new IntersectionObserver(entries=>{
+   entries.forEach(entry=>entry.isIntersecting?inReadingBand.add(entry.target):inReadingBand.delete(entry.target));
+   if(!inReadingBand.size)return;
+   const readingLine=window.innerHeight*.3;
+   const current=[...inReadingBand].sort((a,b)=>
+    Math.abs(a.getBoundingClientRect().top-readingLine)-Math.abs(b.getBoundingClientRect().top-readingLine))[0];
+   if(current)setCurrentSection(current.id);
+  },{rootMargin:'-110px 0px -60% 0px',threshold:0});
+  sections.forEach(section=>observer.observe(section));
+ }
  window.addEventListener('DOMContentLoaded',()=>{
   const compare=document.querySelector('#compare-plants');
   if(compare)document.querySelector('.mast').append(compare);

@@ -110,6 +110,33 @@
 }
 .chapter-nav a:hover { background: var(--highlight); }
 
+/* Keep one section index in view at a time: the masthead on larger screens,
+   the larger chapter index on phones where the masthead links are hidden. */
+@media (min-width: 651px) {
+  .chapter-nav { display: none; }
+}
+
+.story-nav a[aria-current="location"],
+.chapter-nav a[aria-current="location"] {
+  background: var(--highlight);
+}
+
+.story-actions { margin-top: 16px; }
+.browse-plants-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 9px 13px;
+  border: 1px solid var(--ink);
+  background: var(--paper-raised);
+  font: 700 10px/1.2 var(--mono);
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.browse-plants-link:hover { background: var(--highlight); }
+
 /* Scene controls ----------------------------------------------------------- */
 .shared-scene-controls {
   display: flex;
