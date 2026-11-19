@@ -1,0 +1,108 @@
+{
+  "id": "LAG-345",
+  "name": "Spathiphyllum wallisii",
+  "category": "Flowering herbs",
+  "checked_model_stage": "02 Intermediate",
+  "source_file": "Precision_Pilots_b06bv07.blend",
+  "source_scene": "021 | LAG-345 | Spathiphyllum wallisii",
+  "source_sha256": "93a84cf90e8578538b9c3c9512df1bfc8d418e8e1c50d1c90aadb017f9f1ce19",
+  "modelled_system": "reservoir",
+  "modelled_medium_volume_l": 31.42300169923904,
+  "volume_scope": "geometric_modelled_root_medium_envelope_excluding_separate_drain_water_shell_objects",
+  "medium_objects": [
+    {
+      "object": "Rootable substrate.082",
+      "bounds_m": [
+        [
+          -0.16750000417232513,
+          -0.16750000417232513,
+          -0.2800000011920929
+        ],
+        [
+          0.16750000417232513,
+          0.16750000417232513,
+          0.0
+        ]
+      ],
+      "world_axis_extents_xyz_m": [
+        0.33500000834465027,
+        0.33500000834465027,
+        0.2800000011920929
+      ],
+      "orientation_note": "World X/Y/Z envelope, not automatically rooting width/length/depth. Vertical mounting-pad face depth follows its own surface orientation.",
+      "closed_mesh": true,
+      "geometric_volume_l": 31.42300169923904,
+      "status": "measured_existing_model_geometry_not_species_minimum",
+      "materials": [
+        "Soil"
+      ]
+    }
+  ],
+  "design_allowances_mm": {
+    "width_mm": 393,
+    "length_mm": 393,
+    "soil_mm": 280,
+    "service_mm": 75,
+    "freeboard_mm": 25,
+    "water_mm": 0
+  },
+  "stock_rootball_status": "unknown",
+  "installed_usable_volume_status": "unverified",
+  "source_review": "QUALIFIED",
+  "comparison": "The intermediate model has 28 cm vertical medium depth; the cited pot-cultivation guidance is at least 15 cm. The model exceeds that depth alone. Drainage, stock size, usable volume and long-term fit remain unverified; the source conditions must still apply.",
+  "published_container_guidance": [
+    {
+      "quantity": "recommended_pot_soil_depth",
+      "min": 15,
+      "max": null,
+      "unit": "cm",
+      "scope": "managed_container",
+      "conditions": "Singapore gardening guidance for peace lily in pots with loamy,well-drained soil and2–6h indirect light.",
+      "method": "Institutional cultivation recommendation; not a controlled minimum-volume trial.",
+      "locator": "Sun and soil needs",
+      "source_ids": [
+        "B345-02"
+      ],
+      "stage_mapping": "Not mapped to the catalogue three stages; this endpoint/organ description does not establish model ages."
+    }
+  ],
+  "species_requirement": "NParks recommends at least15 cm loamy soil depth in the described pot cultivation; width, usable volume and fit to the existing three stages remain unknown.",
+  "species_specific_actions": [
+    {
+      "claim": "Compare actual internal soil depth with this conditional15 cm guidance; also verify drainage and allow clump division.",
+      "status": "proposed_design_implication",
+      "source_ids": [
+        "B345-01",
+        "B345-02"
+      ]
+    }
+  ],
+  "proposed_variant_status": "No replacement variant authorised by this evidence alone. Preserve the current model; specify stock and growing strategy before a dimensional correction.",
+  "other_stage_scope": "Stages01 and03 retain their own source geometry. Stage02 dimensions are not assigned to them. Exact root dimensions and calendar ages remain uncalibrated.",
+  "sources": [
+    {
+      "id": "B345-01",
+      "url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/4/2465",
+      "title": "Spathiphyllum wallisii",
+      "publisher": "National Parks Board Singapore",
+      "accessed": "2026-11-17",
+      "locator": "Growth Form",
+      "supported_claims": [
+        "Rhizomatous clump-forming herb."
+      ],
+      "access_note": "Live publisher text or indexed publisher passage read."
+    },
+    {
+      "id": "B345-02",
+      "url": "https://gardeningsg.nparks.gov.sg/gardening-resource-library/peace-lily/",
+      "title": "Peace Lily",
+      "publisher": "National Parks Board Singapore GardeningSG",
+      "accessed": "2026-11-17",
+      "locator": "Sun and soil needs",
+      "supported_claims": [
+        "Pot soil at least15cm deep;loamy and drained conditions."
+      ],
+      "access_note": "Live publisher text or indexed publisher passage read."
+    }
+  ]
+}

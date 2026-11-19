@@ -1,0 +1,387 @@
+{
+  "scope": "Reviewed holder examples plus all 100 original catalogue kinds. Balcony variants are independent saved studies. Dimensions shown are model provisions.",
+  "kind_counts": {
+    "ground": 24,
+    "tidal": 3,
+    "bed": 36,
+    "wet ground": 1,
+    "wet": 9,
+    "trellis": 9,
+    "pot": 8,
+    "reservoir": 2,
+    "mount": 2,
+    "lily": 2,
+    "floating": 1,
+    "hanging": 3
+  },
+  "example_families": [
+    {
+      "family": "Ordinary pots",
+      "id": "pots",
+      "example": "LAG-410",
+      "source_context": "Current stepped balcony study",
+      "record": "succulents_05_balcony_review_03/LAG-410.json",
+      "image": "succulents_05_balcony_review_03/LAG-410.png",
+      "blend": "succulents_05_balcony_review_03/LAG-410.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Large trial planters",
+      "id": "specimen",
+      "example": "LAG-027",
+      "source_context": "Round tree planter fit study",
+      "record": "trees_16_balcony_review/LAG-027.json",
+      "image": "trees_16_balcony_review/LAG-027.png",
+      "blend": "trees_16_balcony_review/LAG-027.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Troughs and stepped troughs",
+      "id": "troughs",
+      "example": "LAG-320",
+      "source_context": "Reviewed two-trough balcony study",
+      "record": "ferns_06_review_03/LAG-320.json",
+      "image": "ferns_06_review_03/LAG-320.png",
+      "blend": "ferns_06_review_03/LAG-320.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Continuous beds",
+      "id": "beds",
+      "example": "LAG-363",
+      "source_context": "Floor bed study",
+      "record": "groundcovers_and_wetland_balconies/LAG-363.json",
+      "image": "groundcovers_and_wetland_balconies/LAG-363.png",
+      "blend": "groundcovers_and_wetland_balconies/LAG-363.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Connected ground",
+      "id": "ground",
+      "example": "LAG-027",
+      "source_context": "Original catalogue ground section",
+      "record": "roots_20261117/CONTAINER_REVIEW_100.json",
+      "image": "container_sheets/LAG-027.webp",
+      "blend": "plant_modeller_precision/Precision_Pilots_b07bv08.blend",
+      "illustration_stage_count": null
+    },
+    {
+      "family": "Rail pots",
+      "id": "rail-pots",
+      "example": "LAG-983",
+      "source_context": "Current two-rail, 26-pot study",
+      "record": "groundcovers_wall_and_rail_review_03/LAG-983.json",
+      "image": "groundcovers_wall_and_rail_review_03/LAG-983.png",
+      "blend": "groundcovers_wall_and_rail_review_03/LAG-983.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Hanging baskets",
+      "id": "baskets",
+      "example": "LAG-337",
+      "source_context": "Saved hanging option",
+      "record": "fern_special_holders_06_review/LAG-337.json",
+      "image": "fern_special_holders_06_review/LAG-337.png",
+      "blend": "fern_special_holders_06_review/LAG-337.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Mounts and root pads",
+      "id": "mounts",
+      "example": "LAG-320",
+      "source_context": "Original catalogue mount",
+      "record": "roots_20261117/CONTAINER_REVIEW_100.json",
+      "image": "container_sheets/LAG-320.webp",
+      "blend": "plant_modeller_precision/Precision_Pilots_b06av06.blend",
+      "illustration_stage_count": null
+    },
+    {
+      "family": "Wall mats and root strips",
+      "id": "wall-layers",
+      "example": "LAG-301",
+      "source_context": "Inner wall placement study",
+      "record": "groundcovers_wall_and_rail_review_02/LAG-301.json",
+      "image": "groundcovers_wall_and_rail_review_02/LAG-301.png",
+      "blend": "groundcovers_wall_and_rail_review_02/LAG-301.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Rooted water basins",
+      "id": "rooted-water",
+      "example": "LAG-325",
+      "source_context": "Rooted waterlily balcony study",
+      "record": "groundcovers_and_wetland_balconies/LAG-325.json",
+      "image": "groundcovers_and_wetland_balconies/LAG-325.png",
+      "blend": "groundcovers_and_wetland_balconies/LAG-325.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Floating water basins",
+      "id": "floating-water",
+      "example": "LAG-335",
+      "source_context": "Contained floating basin",
+      "record": "groundcovers_and_wetland_balconies/LAG-335.json",
+      "image": "groundcovers_and_wetland_balconies/LAG-335.png",
+      "blend": "groundcovers_and_wetland_balconies/LAG-335.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Wetland and tidal rooting",
+      "id": "wetland",
+      "example": "LAG-353",
+      "source_context": "Rooted wetland basin",
+      "record": "groundcovers_and_wetland_balconies/LAG-353.json",
+      "image": "groundcovers_and_wetland_balconies/LAG-353.png",
+      "blend": "groundcovers_and_wetland_balconies/LAG-353.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Reservoir pots",
+      "id": "reservoirs",
+      "example": "LAG-345",
+      "source_context": "Original catalogue reservoir section",
+      "record": "roots_20261117/CONTAINER_REVIEW_100.json",
+      "image": "container_sheets/LAG-345.webp",
+      "blend": "plant_modeller_precision/Precision_Pilots_b06bv07.blend",
+      "illustration_stage_count": null
+    },
+    {
+      "family": "Climbing support and rooted base",
+      "id": "climbing",
+      "example": "LAG-283",
+      "source_context": "Current pothos balcony study",
+      "record": "climbers_10_review/LAG-283.json",
+      "image": "climbers_10_review/LAG-283.png",
+      "blend": "climbers_10_review/LAG-283.blend",
+      "illustration_stage_count": 3
+    },
+    {
+      "family": "Shelves and stands",
+      "id": "stands",
+      "example": "LAG-410",
+      "source_context": "Raised row in the succulent study",
+      "record": "succulents_05_balcony_review_03/LAG-410.json",
+      "image": "succulents_05_balcony_review_03/LAG-410.png",
+      "blend": "succulents_05_balcony_review_03/LAG-410.blend",
+      "illustration_stage_count": 3
+    }
+  ],
+  "file_receipts": [
+    {
+      "file": "succulents_05_balcony_review_03/LAG-410.json",
+      "sha256": "fb8f34d8278e7960a1800b6b65d894f1ae6899ea2e77724c96efdd82c8add302"
+    },
+    {
+      "file": "succulents_05_balcony_review_03/LAG-410.png",
+      "sha256": "39db4b99c87c4abacaab9dfc5f79cdca698b689db0d9ebb2bbab6c1a19db3744"
+    },
+    {
+      "file": "succulents_05_balcony_review_03/LAG-410.blend",
+      "sha256": "eaf81dc2128d458eef3075d5d14d6fba1b2665588b4f7f7cb0a55abaa2827628"
+    },
+    {
+      "file": "trees_16_balcony_review/LAG-027.json",
+      "sha256": "af83506f2708444effc477b917ede04e02afdf56ae5b5cb7ca53309185a14622"
+    },
+    {
+      "file": "trees_16_balcony_review/LAG-027.png",
+      "sha256": "c3ae2d9456af27fc6299c9a3208f1b50ea01e3651d884b48be3663056a07fc1c"
+    },
+    {
+      "file": "trees_16_balcony_review/LAG-027.blend",
+      "sha256": "df608063069a1edc2207f787277bf44a8fd75ac31d070427ece6c74b5b3e1f32"
+    },
+    {
+      "file": "ferns_06_review_03/LAG-320.json",
+      "sha256": "783ac2b7746262282791fd2025b9c7851852e62dfa2a64e46a78efda23f5e169"
+    },
+    {
+      "file": "ferns_06_review_03/LAG-320.png",
+      "sha256": "95840ad94269f40280dc35841c9666c3c79c55e4d5f8eccbb13c41aaf38c810c"
+    },
+    {
+      "file": "ferns_06_review_03/LAG-320.blend",
+      "sha256": "c7d1a74cc810c15e0ac24ad6feaeb27443436dcc772417bd80961ab066346ace"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-363.json",
+      "sha256": "4d765ec7ff098477479a8592c6e51e3cfafd8e41648c55096393c5f08c9d9489"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-363.png",
+      "sha256": "b3e141b500be218adf6525058ef9f6efc5985896ce0268ce7b58d9dbd85907eb"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-363.blend",
+      "sha256": "2ae65ce0e2bdf3e541d17ba9697704ae7e01baaf7767e7c9184ebba2ea115487"
+    },
+    {
+      "file": "roots_20261117/CONTAINER_REVIEW_100.json",
+      "sha256": "f3b94d3ef7ead74e398e22139a295db1c991d2af623b89b2688a320665f469f1"
+    },
+    {
+      "file": "container_sheets/LAG-027.webp",
+      "sha256": "2c39dc0a842ba8d91204d7a5fc0834189839dc94957fab778eac6ceb4f85364c"
+    },
+    {
+      "file": "plant_modeller_precision/Precision_Pilots_b07bv08.blend",
+      "sha256": "acfc8a2f670e17be6408412ea87e7d2b7e09133ef72ac119f04b15948b64d36f"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_03/LAG-983.json",
+      "sha256": "5aa26d0c61b005e5ad6ea26e2539a823de4a1e4d5d8fd880f0db104d204b23fe"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_03/LAG-983.png",
+      "sha256": "56b6af1b844c5f0462bf563060b6dfe2216ce0d6871ee2ecdd0b07b310277493"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_03/LAG-983.blend",
+      "sha256": "8a591a34b0f814bfd0eeaea7a497c1b3bcea0b6e94e7e668d55fcfcd67b54538"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_03/Guardrail_Clip_Detail.png",
+      "sha256": "112040a4f6dad103cb0d1263a17ee951816a2ec25e0f21cfa310c9b470fe697c"
+    },
+    {
+      "file": "fern_special_holders_06_review/LAG-337.json",
+      "sha256": "5152ba3fc69527e34a0533a0451c60cd5f469b620b5d903c89b045813ace14df"
+    },
+    {
+      "file": "fern_special_holders_06_review/LAG-337.png",
+      "sha256": "7605fb1bf8bdde00d09b2c2d60ea1cf74f38c28c770fadcb8bdab91f2e0bf7bf"
+    },
+    {
+      "file": "fern_special_holders_06_review/LAG-337.blend",
+      "sha256": "14ce587e76d5ddd531b8318dfa08cbac5ae7be277045f9b3938f434411e3ff20"
+    },
+    {
+      "file": "container_sheets/LAG-320.webp",
+      "sha256": "19d87a169c458de58b2baea025ca06cd18150da3d079b7517db878824fd32c42"
+    },
+    {
+      "file": "plant_modeller_precision/Precision_Pilots_b06av06.blend",
+      "sha256": "d168e7f31907b264346e70dcbfc353705624480c054b596322eb497e5ad4eb39"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_02/LAG-301.json",
+      "sha256": "473284a0c7ee1746c1c7491cda0223361612bc9a0bbef7b8dab82799cc855f7f"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_02/LAG-301.png",
+      "sha256": "8902c9748b58c73343c45eb17eea6315038c7d1ef451a537306ddcf4cb58d1ef"
+    },
+    {
+      "file": "groundcovers_wall_and_rail_review_02/LAG-301.blend",
+      "sha256": "34119de0208cbcd08dc2c7fcde9553bdb1a0822be2b96dc3ed394b158a44e828"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-325.json",
+      "sha256": "d433bcc6bd1db40635e0e74607f74fe45832f674d1108fa44d08fb62f3cabdfc"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-325.png",
+      "sha256": "dd73a4e969ee088a1ba8d3c1a8a1e735d056f7546635b74575fe577b580fce3c"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-325.blend",
+      "sha256": "2fb73456a02d8f82454741875b3ee50602e89555e98171383389197abea62b95"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-335.json",
+      "sha256": "676160f07398ce2b82c1773e1b98056b1b23dd4035a1e99aa973dee096afe681"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-335.png",
+      "sha256": "c5791e9f58522406f3f6070e76e5dd3892bfaefc5e00396f7c32efbb55c0abb0"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-335.blend",
+      "sha256": "7add38d69b775ff5ef2fba7e0eb5e016e02f647ee31c463b64a65e91fffe3d89"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-353.json",
+      "sha256": "14c106855888220643771816ad1c627df714c91e9bc6ae5997519c182290c420"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-353.png",
+      "sha256": "93d7415b743880eeedcfdb6c7a54ce263a5fcc64d36c0ac058fc211d889ee5c5"
+    },
+    {
+      "file": "groundcovers_and_wetland_balconies/LAG-353.blend",
+      "sha256": "67c9cc5272b72cc7e606921cabaa5d3219f3023ed0de19987a98d65ad3cd0325"
+    },
+    {
+      "file": "container_sheets/LAG-173.webp",
+      "sha256": "7c12d12044f47f93b5f21959e32a926c1e5218723a758780bc765d730e9cd15a"
+    },
+    {
+      "file": "plant_modeller_precision/Precision_Pilots_b07av08.blend",
+      "sha256": "a09424fdca86805c7bcd70845c616d6c54b9cc3c4df3428266b09c61aa3e82ca"
+    },
+    {
+      "file": "container_sheets/LAG-031.webp",
+      "sha256": "ec09eb808ffc75b078b9944a6233686b998cc74edbe93b831cc97f37767ea57e"
+    },
+    {
+      "file": "container_sheets/LAG-345.webp",
+      "sha256": "3c10eb20cb0965ad2be4a63531d9ed30551c3559162b08738287a6454d8208a1"
+    },
+    {
+      "file": "plant_modeller_precision/Precision_Pilots_b06bv07.blend",
+      "sha256": "93a84cf90e8578538b9c3c9512df1bfc8d418e8e1c50d1c90aadb017f9f1ce19"
+    },
+    {
+      "file": "climbers_10_review/LAG-283.json",
+      "sha256": "a91fbb332a2a942ed291675cc76ddb16a258e92b922996f9dc133618ff9ad282"
+    },
+    {
+      "file": "climbers_10_review/LAG-283.png",
+      "sha256": "bced7092fd8b7bf00ad185a8c8c214c409ace9bd9a54bf2c4cf28b9af71490c1"
+    },
+    {
+      "file": "climbers_10_review/LAG-283.blend",
+      "sha256": "89abbc123717b7a5a69f1c591bf682d83cdebcabb5a0db5a283ea53f5e80ddfc"
+    },
+    {
+      "file": "PLANT_HOLDER_SYSTEM_GUIDE.md",
+      "sha256": "2460279aedf9c3939b37136393a007b01e3852270d2367492ae582d29a93926e"
+    },
+    {
+      "file": "CURRENT_FACADE_STUDIES.md",
+      "sha256": "99aea7331c5bb23cd40369bc80f43e6ebfc3996cc010b8bf471a612630703ac4"
+    },
+    {
+      "file": "holder_pilots/build_tree_like_herb_balconies.py",
+      "sha256": "af1c6565efcea3bbc6e4d4a71a2b756ef43b364aff5413731b80fb61d9c4c765"
+    },
+    {
+      "file": "holder_pilots/build_wart_fern_trough.py",
+      "sha256": "f95feb0e79c8e1b5a4c082bca15ad6ea955b986d1f341bcc8fd11ce4bf9d5f74"
+    },
+    {
+      "file": "holder_pilots/build_succulent_stepped_rows.py",
+      "sha256": "18bcac3a0e3540a60ccb5351e0888a1cdbde4eb9f1187c9736ffc0dc3bc3f569"
+    },
+    {
+      "file": "holder_pilots/build_groundcover_wall_balconies.py",
+      "sha256": "346d7683f895a032993e8e111a6f6c89fbd0e42fc86acabab65b9a6c9cfc6bbe"
+    },
+    {
+      "file": "holder_pilots/build_silver_inch_two_rails.py",
+      "sha256": "620b9373c2c7344e12e2eb95b9fca5e4355d4bb69d124d7dda9c31598f5a5a85"
+    },
+    {
+      "file": "holder_pilots/build_fern_pots_and_baskets.py",
+      "sha256": "fbeb20464ad1a0fb9826e9e37064e0e15162ae570c197e82b7131f40cd53bd7c"
+    },
+    {
+      "file": "holder_pilots/build_page_two_ferns.py",
+      "sha256": "0a5e94e491761d0c4c6516f4f54f056fd541bb938ad3f6b9050b20a0c1d02d5a"
+    },
+    {
+      "file": "holder_pilots/build_remaining_climbers.py",
+      "sha256": "e7dc490718760f0d7572b0524c5de29c157ed389ffd8de1bbe33de5922750de2"
+    }
+  ]
+}

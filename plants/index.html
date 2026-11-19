@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plants · Lagos Green Maker</title>
+<link rel="stylesheet" href="chapter.css">
+<script src="catalogue.js" defer></script><script src="water-cutaways.js" defer></script><script src="chapter.js" defer></script>
+</head>
+<body>
+<header class="mast"><div><a href="../">Lagos Green Maker</a><span class="chapter-links"><b aria-current="page">Plants</b><a href="../elements/">Elements</a></span></div></header>
+<main id="top">
+  <div class="hero">
+    <div><p class="tag">Plants</p><h1>What can each plant show us?</h1><p class="lead">In Lekki, an oil palm gives two ferns a place to grow. Follow their roots, water and growing space, then explore all 100 plants in the catalogue.</p><a href="#P1" class="button">Start with water and roots ↓</a></div>
+    <figure class="hero-host"><img src="chapter-assets/palm10.webp" alt="Illustration of wart fern and giant sword fern growing on an oil palm trunk"><figcaption>Palm 10 at Lekki · illustrated from the survey. <a href="#P5">See the field record</a></figcaption></figure>
+  </div>
+  <nav class="chapter-outline" aria-label="Research questions"><a href="#P1">P1 Water level</a><a href="#P2">P2 Falling water</a><a href="#P3">P3 Water use</a><a href="#P4">P4 Space</a><a href="#P5">P5 Palms</a><a href="#P6">P6 Wet edges</a><a href="#P7">P7 Benefits</a><a href="#P8">P8 Identity and stock</a></nav>
+
+  <section id="P1">
+    <p class="tag">P1 · Proposed growing test</p>
+    <h2>Can the fern stay healthy with smaller roots?</h2>
+    <p>The wart fern has a stem that creeps along the surface, so we can track its spread and root size separately. Start the three planters with the same roots. Switch stages to see possible changes as the fern grows. <a href="https://www.nparks.gov.sg/florafaunaweb/flora/1/5/1560">Wart fern growing habit</a></p>
+    <div id="water-stages" class="buttons" aria-label="Illustrated stage"><button aria-pressed="true">Start</button><button aria-pressed="false">Early</button><button aria-pressed="false">Later</button></div>
+    <div id="water-cuts" class="cards three" aria-live="polite"></div>
+    <p class="caption">Dashed arrow · water moving up through soil. Solid arrow · where water might enter a root. No dates or water amounts have been measured.</p>
+    <details><summary>How we’d test it</summary><p>Start with four sets of four similar ferns. Give each set a low, middle, high and freely drained planter. Keep position, light and soil comparable. Measure healthy new fronds and survival, plus final root depth, width and washed dry weight. Compare with the freely drained group before judging whether smaller roots are healthy.</p><p>Record the growing period and what counts as healthy before starting. A pot needs its own water supply.</p><p><a href="chapter-assets/P1-trial-log.csv" download>Blank 16-pot trial log</a> · <a href="wart-fern-water-levels/index.html">Full water-level study and sources</a></p></details>
+  </section>
+
+  <section id="P2">
+    <p class="tag">P2 · Proposed follow-up</p>
+    <h2>What happens when the water drops?</h2>
+    <p>Keep working with wart fern so we can focus on what changes when water drops. Once the ferns are growing well, keep one water level steady and lower the other in steps. Some roots might grow deeper if there’s damp soil within reach. Growth could slow if the soil dries out.</p>
+    <div id="fall-stages" class="buttons" aria-label="Water level scenario"><button aria-pressed="true">Same starting level</button><button aria-pressed="false">After lowering one</button></div>
+    <div id="fall-cuts" class="cards two" aria-live="polite"></div>
+    <p class="caption">The dashed line in the lowered pot marks its previous level. A deeper root tip and the amount of new root are two different measurements.</p>
+    <details><summary>How we’d test it</summary><p>Keep a separate set of plants for this follow-up if the first trial ends with harvesting the roots. Repeat both conditions with the same soil and light. Log the waterline, check dampness at several depths and photograph the same root windows. Mark where new tips appear and measure how much visible root grows. At harvest, compare the whole root systems.</p><p>In a tropical forest drying experiment, deeper fine-root growth varied by site. The wart fern response still needs a growing test. <a href="https://doi.org/10.1111/nph.70751">Cordeiro and colleagues</a></p></details>
+  </section>
+
+  <section id="P3">
+    <p class="tag">P3 · Measurement setup</p>
+    <h2>How much water does the fern use?</h2><p>Use the wart fern pots again. Root drawings show where the roots reach. Measuring water in and out gives us an estimate of what the whole fern uses.</p>
+    <div class="split water-led">
+      <div><figure class="water-diagram"><div class="pour">Water added ↓</div><div class="water-section" id="balance-cut"></div><div class="storage-note">Change in water<br>held in soil ↗</div><div class="drain">↓ Drainage collected</div><figcaption>Check water held in the soil. Estimate evaporation with a matching unplanted pot.</figcaption></figure><p>For one planter and one time interval, keep track of every way water enters, leaves or stays in the pot.</p><ol class="balance"><li><b>Water in</b><span>Measure what you add.</span></li><li><b>− Water out</b><span>Catch and measure drainage.</span></li><li><b>− Change in storage</b><span>End minus start. Use a negative number if storage fell.</span></li><li><b>− Evaporation</b><span>Estimate from a matching pot with no fern.</span></li><li><b>= Estimated fern water use</b><span>Record the result for the whole pot.</span></li></ol></div>
+      <form id="water-log" class="panel">
+        <h3>Water log</h3><div class="fields"><label>Pot ID<input name="pot" required></label><label>Interval or date<input name="interval" required></label><label>Water in (mL)<input type="number" min="0" step="any" name="added" required></label><label>Drainage (mL)<input type="number" min="0" step="any" name="drained" required></label><label>Storage change (mL)<input type="number" step="any" name="storage" required></label><label>Evaporation (mL)<input type="number" min="0" step="any" name="evaporation" required></label></div>
+        <output id="water-estimate" aria-live="polite">Enter four readings to see the estimate.</output><p class="button-row"><button type="submit">Add reading</button><button type="button" id="export-water">Download log</button></p>
+        <p id="water-count" class="caption" aria-live="polite">0 readings</p>
+      </form>
+    </div>
+    <details><summary>Could we tell where water enters the roots?</summary><p>The total from the pot gives no depth reading. A later test could put a traceable form of water at a known depth, track where it moves through the soil, and sample the plant. Shade from the fern can affect evaporation, so treat the empty-pot correction as an estimate. <a href="https://hess.copernicus.org/articles/27/123/2023/hess-27-123-2023.html">Tracer study</a></p></details>
+  </section>
+
+  <section id="P4">
+    <p class="tag">P4 · Catalogue models and field measurements</p>
+    <h2>How much room should we give the plant?</h2>
+    <p>The wart fern links the root tests to a design decision. Its stem spreads sideways, and it can grow on a surface or in soil. Singapore’s National Parks Board lists container planting and hanging baskets. Measure the live roots and run a growing test before choosing a holder. <a href="https://www.nparks.gov.sg/florafaunaweb/flora/1/5/1560">Wart fern uses and care</a></p>
+    <div class="holder-options"><h3>Three ways to place the wart fern</h3><p class="caption">Placement sketches. Depth, spacing and fit need a growing test.</p><div class="cards three holder-cards"><article><svg viewBox="0 0 240 160" aria-hidden="true">
+<path d="M91 24l9-5h65v121l-9 5H91z" fill="#c4c8c0" stroke="#59625c" stroke-width="2"/>
+<path d="M91 24h65v121H91z" fill="#e5e4dd" stroke="#59625c" stroke-width="2"/>
+<path d="M102 35h44v100h-44z" fill="#b8a88c"/>
+<path d="M107 45l9-5m15 12 8-4m-28 69 7-6m12 14 8-7" fill="none" stroke="#8d7a60" stroke-width="1"/>
+<image style="mix-blend-mode:multiply" href="chapter-assets/wart-fern.webp" x="77" y="22" width="112" height="70" preserveAspectRatio="xMidYMax meet"/>
+<path d="M107 94q12-5 24-2l10-2" fill="none" stroke="#72583e" stroke-width="3" stroke-linecap="round"/>
+<path d="M111 94q-5 9-4 21m13-23q-1 11-7 17m14-17q4 10 0 21m6-22q7 6 8 15m-16 1 6 5m-16-9-8 2" fill="none" stroke="#72583e" stroke-width="1.3" stroke-linecap="round"/>
+</svg><h3>Mount</h3><p>Grow against an upright pad. The saved fern model below uses this arrangement.</p></article><article><svg viewBox="0 0 240 160" aria-hidden="true"><image href="chapter-assets/wart-fern.webp" x="70" y="5" width="100" height="80" preserveAspectRatio="xMidYMax meet"/><path d="M71 85H165L155 146H81Z" fill="#ddd5c6" stroke="#5e655e" stroke-width="2"/><path d="M110 146h16" stroke="#f8f8f5" stroke-width="3"/><path d="M91 84q22-4 42 0 M102 85q-7 12-9 24 M112 85q7 9-1 25 M122 86q5 8 14 20" fill="none" stroke="#72583e" stroke-width="1.8"/></svg><h3>Pot</h3><p>Give one fern its own soil and drain. Check how much room the live roots need.</p></article><article><svg viewBox="0 0 240 160" aria-hidden="true"><image href="chapter-assets/wart-fern.webp" x="70" y="5" width="100" height="80" preserveAspectRatio="xMidYMax meet"/><path d="M31 85H211V133H31Z" fill="#ddd5c6" stroke="#5e655e" stroke-width="2"/><path d="M55 133h13M168 133h13" stroke="#f8f8f5" stroke-width="3"/><path d="M91 84q22-4 42 0 M102 85q-7 12-9 24 M112 85q7 9-1 25 M122 86q5 8 14 20" fill="none" stroke="#72583e" stroke-width="1.8"/></svg><h3>Trough</h3><p>Give the stem room to spread sideways. Test crowding if several ferns share it.</p></article></div></div>
+    <label class="picker">Explore saved models <select id="size-species"></select></label>
+    <div id="size-view"></div>
+    <details><summary>Record a live plant</summary>
+      <p>Enter a specimen ID, date and measurements. Download the record to keep it with the plant.</p>
+      <form id="root-form"><div class="fields field-grid"><label>Specimen or stock ID<input name="specimen" required></label><label>Date<input type="date" name="date" required></label><label>Plant height (cm)<input name="height" type="number" min="0" step="any"></label><label>Canopy width (cm)<input name="width" type="number" min="0" step="any"></label><label>Canopy depth (cm)<input name="canopyDepth" type="number" min="0" step="any"></label><label>Rootball width (cm)<input name="rootWidth" type="number" min="0" step="any"></label><label>Rootball depth (cm)<input name="rootDepth" type="number" min="0" step="any"></label><label>Creeping stem length (cm)<input name="stem" type="number" min="0" step="any"></label></div><button type="submit">Download plant measurement</button></form>
+    </details>
+    <div class="split depth"><figure><img src="chapter-assets/depth.webp" loading="lazy" alt="Matching wart fern cutaways at planting, with shallow and deep planter bases"><figcaption>Proposed wart fern depth test</figcaption></figure><div><h3>Shallow or deep?</h3><p>Use plants whose roots fit both pots at the start. Track healthy new fronds, when each pot needs water and whether roots crowd the bottom.</p><a href="wart-fern-planter-depth/index.html">Open the depth comparison</a></div></div>
+  </section>
+
+  <section id="P5">
+    <p class="tag">P5 · Lekki Conservation Centre</p>
+    <h2>What helps a fern hold on to a palm?</h2>
+    <div class="split">
+      <figure><img src="chapter-assets/palm10.webp" loading="lazy" alt="Illustrated cutaway of two ferns attached to an oil palm trunk"><figcaption>Illustrated attachment on oil palm bark</figcaption></figure>
+      <div><h3>One palm gives two ferns a place to grow</h3>
+        <table><caption>Positions recorded in the field</caption><thead><tr><th scope="col">Host</th><th scope="col">Wart fern</th><th scope="col">Giant sword fern</th></tr></thead><tbody><tr><th scope="row">Palm 8</th><td>Trunk</td><td>Crown</td></tr><tr><th scope="row">Palm 10</th><td>Base, trunk, crown</td><td>Base, trunk, crown</td></tr></tbody></table>
+        <p>Palm 8 shows the two ferns in different parts of the same host. Palm 10 shows both across all three parts. To learn why those patches worked, compare wetness, shade, roughness and trapped debris on patches with and without ferns. <a href="https://ir.unilag.edu.ng/items/881f8c54-cab7-4b3f-8f4e-7bf6a44d3551">Lekki palm survey</a></p>
+      </div>
+    </div>
+    <details><summary>From palm bark to a wall planter</summary><div class="split"><figure><img src="chapter-assets/shared.webp" loading="lazy" alt="Illustrated cutaway of two ferns sharing a wall planter"><figcaption>Proposed shared holder</figcaption></figure><p>The two ferns have grown on the same oil palm. A shared wall planter gives them a different kind of space. Compare one of each with same-species pairs and single plants to see how much room they need. <a href="shared-fern-planter/index.html">Shared fern trial</a> · <a href="palm-10/index.html">Palm 10 field table</a></p></div></details>
+  </section>
+
+  <section id="P6">
+    <p class="tag">P6 · Ibeju-Lekki</p>
+    <h2>What grows along the wet edge?</h2><p>White water lily and raffia palm help us ask where plants sit as the ground gets wetter. Floating lily leaves and a rooted palm give us two points of comparison. The planting section shows an arrangement to check in the field.</p>
+    <figure class="wetland"><img src="chapter-assets/wetland.webp" loading="lazy" alt="Illustrated wet edge with white water lily in water and raffia palm near the margin"><figcaption>Illustrated placement for a planting study</figcaption></figure>
+    <div class="split">
+      <div><h3>Both plants were found at all three sites</h3><p>The survey reported frequencies for each whole site. It described site B as dry and compact. The exact patch where the water lily grew at B is unknown.</p><p><a href="https://api-ir.unilag.edu.ng/server/api/core/bitstreams/06462c4b-b9f6-4e8f-9808-3d567dc95759/content">Wetland survey, Tables 3–5</a> · <a href="ibeju-lekki/index.html">Full wetland study</a></p></div>
+      <table><caption>Reported species frequency</caption><thead><tr><th scope="col">Site</th><th scope="col">Water lily</th><th scope="col">Raffia</th></tr></thead><tbody><tr><th scope="row">A · Marshy</th><td>5.1%</td><td>3.6%</td></tr><tr><th scope="row">B · Dry and compact</th><td>0.9%</td><td>16.1%</td></tr><tr><th scope="row">C · Marshy</th><td>11.2%</td><td>12.6%</td></tr></tbody></table>
+    </div>
+    <details><summary>What we’d check next</summary><p>Mark plots from standing water to drier ground. Log plant names, water depth or soil wetness, date and photo. Repeat in another season to see where each plant persists.</p></details>
+  </section>
+
+  <section id="P7">
+    <p class="tag">P7 · Measurements to make</p>
+    <h2>What could each plant contribute?</h2>
+    <div class="cards three benefits">
+      <article><figure class="benefit-art screen-art"><img src="chapter-assets/wart-fern.webp" loading="lazy" alt="Wart fern fronds"><div class="screen-grid" aria-label="Target coverage grid" role="img"></div></figure><div class="measure">Same view → Area covered</div><h3>Wart fern · Cover</h3><p>Its evergreen fronds make it useful for testing year-round cover. Measure the same screen area across the seasons. Track spores on fertile fronds. <a href="https://www.nparks.gov.sg/florafaunaweb/flora/1/5/1560">NParks fern profile</a></p></article>
+      <article><figure class="benefit-art"><img src="chapter-assets/oil-palm.webp" loading="lazy" alt="Oil palm drawing from the coloured atlas"><svg class="shade-map" viewBox="0 0 150 42" role="img" aria-label="A ground grid with an illustrative shaded area"><path d="M17 3h106l19 35H6Z" fill="#f1f2ec" stroke="#889689"/><path d="M59 9c21-7 51 3 58 14s-9 12-29 8-41-13-29-22" fill="#79937e" opacity=".65"/><path d="M15 14h114M11 26h126M47 3l-5 35M75 3v35M100 3l7 35" stroke="#647969" fill="none" stroke-width=".6"/></svg></figure><div class="measure">Same ground → Area shaded</div><h3>Oil palm · Shade</h3><p>The oil palm’s broad crown makes it useful for testing shade on the ground. Measure the shaded area at set times. The graphic shows how to mark an area. <a href="https://apps.worldagroforestry.org/treedb2/AFTPDFS/Elaeis_guineensis.PDF">World Agroforestry oil palm profile</a></p></article>
+      <article><figure class="benefit-art"><img src="chapter-assets/water-lily.webp" loading="lazy" alt="White water lily drawing from the coloured atlas"><svg class="watch" viewBox="0 0 48 48" role="img" aria-label="Use the same observation time on each visit"><circle cx="24" cy="24" r="20" fill="white" stroke="#54735f" stroke-width="2"/><path d="M24 10v14l9 6" fill="none" stroke="#54735f" stroke-width="2"/><path d="M24 4a20 20 0 0 1 20 20" fill="none" stroke="#173326" stroke-width="4"/></svg></figure><div class="measure">Same watch time → Visits seen</div><h3>Water lily · Flowers</h3><p>A field study in Côte d’Ivoire recorded visits to its flowers at night and in the morning. In Lagos, log when flowers open and watch for visits in both periods. Local visitors are still unknown. <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2003-44717">Water lily field study</a></p></article>
+    </div>
+    <details><summary>More benefits we could measure</summary><p>Weigh usable harvests from an identified food plant. Record the species and what it did when you watch wildlife. Records of wildlife in the reserve describe presence there. A plant visit needs its own observation. <a href="https://goodwoodpub.com/index.php/JoSTE/article/view/748">Lekki reserve wildlife survey</a></p></details>
+    <label class="picker">Check a catalogue trait <select id="trait-species"></select></label><div id="trait-view" class="panel"></div>
+  </section>
+
+  <section id="P8">
+    <p class="tag">P8 · Catalogue and availability</p>
+    <h2>Can we identify it and find it locally?</h2>
+    <p>Older Lagos records use another name for the wart fern. Matching both names helps us find the field evidence and check we have the right fern for the trial. A dated nursery record is needed to confirm stock. Five species have fresh name and origin checks. The other 95 show their earlier catalogue evidence.</p>
+    <label class="picker">Choose a plant <select id="identity-species"></select></label>
+    <div id="identity-view"></div>
+    <details><summary>How we’d check stock</summary><p>Ask for the scientific name, a recent photo, quantity, growing source and rootball measurements. For wart fern, check both <i>Microsorum scolopendria</i> and <i>Phymatosorus scolopendria</i>. A nursery directory is a starting point for a stock check. <a href="https://eudanafarm.com/collections/ferns">Eudana Farms fern listings</a> · <a href="https://www.savvygardens.ng/">Savvy Garden Centre</a></p></details>
+  </section>
+  <footer><p><a href="#top">Back to top ↑</a> · <a href="../index.html#catalogue">Browse 100 plants</a> · <a href="../elements/">Continue to Elements →</a></p></footer>
+</main></body></html>

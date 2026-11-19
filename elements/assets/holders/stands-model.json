@@ -1,0 +1,94 @@
+{
+  "plant_id": "LAG-410",
+  "common_name": "Desert rose",
+  "species": "Adenium obesum",
+  "category": "succulents_rosettes",
+  "holder": "Trough → medium pots → larger pots",
+  "layout_kind": "succulent_stepped_rows",
+  "water_depth_m": 0.0,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 5,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 0.2174,
+      "plant_top_from_deck_m": 1.05,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-410 | 01 Establishment",
+      "holder": "Shared drained trough",
+      "holder_plan_m": [
+        3.6,
+        0.66
+      ],
+      "pot_diameter_m": null,
+      "growing_medium_depth_m": 0.22,
+      "row_counts": [
+        3,
+        2
+      ],
+      "rear_holder_base_m": 0.55
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 5,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 0.45,
+      "plant_top_from_deck_m": 1.266,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "073 | LAG-410 | Adenium obesum",
+      "holder": "Medium pots",
+      "holder_plan_m": [
+        3.0,
+        0.4
+      ],
+      "pot_diameter_m": 0.4,
+      "growing_medium_depth_m": 0.22,
+      "row_counts": [
+        3,
+        2
+      ],
+      "rear_holder_base_m": 0.55
+    },
+    {
+      "stage": "Developed",
+      "instances": 5,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 1.0617,
+      "plant_top_from_deck_m": 1.968,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-410 | 03 Developed envelope",
+      "holder": "Larger pots",
+      "holder_plan_m": [
+        3.16,
+        0.56
+      ],
+      "pot_diameter_m": 0.56,
+      "growing_medium_depth_m": 0.31,
+      "row_counts": [
+        3,
+        2
+      ],
+      "rear_holder_base_m": 0.55
+    }
+  ],
+  "rear_rise_m": 0.55,
+  "row_centres_y_m": [
+    -0.94,
+    0.18
+  ]
+}

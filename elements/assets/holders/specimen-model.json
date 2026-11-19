@@ -1,0 +1,39 @@
+{
+  "plant_id": "LAG-027",
+  "common_name": "Breadfruit",
+  "species": "Artocarpus altilis",
+  "planter_footprint_m": [
+    2.36,
+    2.36
+  ],
+  "planter_diameter_m": 2.36,
+  "planter_height_m": 0.66,
+  "trial_medium_depth_m": 0.55,
+  "geometric_medium_volume_m3": 2.121,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "source_scene": "LAG-027 | 01 Establishment",
+      "crown_width_m": 2.4837,
+      "plant_height_m": 1.7763,
+      "assembly_top_m": 2.386,
+      "maximum_overhang_m": 0.0
+    },
+    {
+      "stage": "Intermediate",
+      "source_scene": "100 | LAG-027 | Artocarpus altilis",
+      "crown_width_m": 5.0408,
+      "plant_height_m": 4.5,
+      "assembly_top_m": 5.11,
+      "maximum_overhang_m": 1.084
+    },
+    {
+      "stage": "Developed",
+      "source_scene": "LAG-027 | 03 Developed envelope",
+      "crown_width_m": 18.9317,
+      "plant_height_m": 15.903,
+      "assembly_top_m": 16.513,
+      "maximum_overhang_m": 9.599
+    }
+  ]
+}

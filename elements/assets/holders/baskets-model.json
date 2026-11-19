@@ -1,0 +1,26 @@
+{
+  "plant_id": "LAG-337",
+  "holder": "Hanging wire baskets",
+  "provision": "Ø470 mm hanging wire baskets  /  Sphagnum and side planting",
+  "spacing_m": 1.82,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "plants": 2,
+      "crown_width_m": 0.4526,
+      "source_scene": "LAG-337 | 01 Establishment"
+    },
+    {
+      "stage": "Intermediate",
+      "plants": 2,
+      "crown_width_m": 0.9746,
+      "source_scene": "063 | LAG-337 | Platycerium stemaria"
+    },
+    {
+      "stage": "Developed",
+      "plants": 2,
+      "crown_width_m": 1.055,
+      "source_scene": "LAG-337 | 03 Developed envelope"
+    }
+  ]
+}

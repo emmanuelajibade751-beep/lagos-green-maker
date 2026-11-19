@@ -1,0 +1,38 @@
+{
+  "plant_id": "LAG-983",
+  "common_name": "Silver inch plant",
+  "species": "Tradescantia zebrina",
+  "holder": "Two horizontal guardrail bars with thirteen pots per bar.",
+  "layout_kind": "rail_two",
+  "growing_medium_depth_m": 0.15,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 26,
+      "source_scene": "LAG-983 | 01 Establishment",
+      "height_above_deck_m": 1.18,
+      "front_spill_mm": 0,
+      "lowest_lower_leaf_m": 0.207
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 26,
+      "source_scene": "057 | LAG-983 | Tradescantia zebrina",
+      "height_above_deck_m": 1.177,
+      "front_spill_mm": 0,
+      "lowest_lower_leaf_m": 0.209
+    },
+    {
+      "stage": "Developed",
+      "instances": 26,
+      "source_scene": "LAG-983 | 03 Developed envelope",
+      "height_above_deck_m": 1.283,
+      "front_spill_mm": 0,
+      "lowest_lower_leaf_m": 0.145
+    }
+  ],
+  "rows": 2,
+  "pots_per_row": 13,
+  "vertical_rail_spacing_m": 0.55,
+  "horizontal_pot_spacing_m": 0.28
+}

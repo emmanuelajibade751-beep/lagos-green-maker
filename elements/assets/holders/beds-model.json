@@ -1,0 +1,58 @@
+{
+  "plant_id": "LAG-363",
+  "common_name": "Spanish shawl",
+  "species": "Heterotis rotundifolia",
+  "category": "creepers_groundcovers",
+  "holder": "Continuous floor bed",
+  "layout_kind": "mat",
+  "holder_plan_m": [
+    3.6,
+    1.6
+  ],
+  "growing_medium_depth_m": 0.2,
+  "water_depth_m": 0.0,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 3,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 0.0747,
+      "plant_top_from_deck_m": 0.338,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-363 | 01 Establishment"
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 3,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 0.2,
+      "plant_top_from_deck_m": 0.463,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "055 | LAG-363 | Heterotis rotundifolia"
+    },
+    {
+      "stage": "Developed",
+      "instances": 3,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 0.1084,
+      "plant_top_from_deck_m": 0.371,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-363 | 03 Developed envelope"
+    }
+  ]
+}

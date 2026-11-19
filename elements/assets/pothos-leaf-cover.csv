@@ -1,0 +1,4 @@
+stage,catalogue_height_m,opening_width_m,opening_height_m,prior_front_leaf_m2,revised_front_leaf_m2,prior_percent_covered,revised_percent_covered
+Establishment,0.4565,1.12,1.285,0.1473,0.1473,10.24,10.24
+Intermediate,0.8,1.12,1.285,0.2567,0.286,17.84,19.87
+Developed,1.1947,1.12,1.285,0.2992,0.3983,20.79,27.68

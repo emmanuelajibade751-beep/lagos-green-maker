@@ -1,0 +1,31 @@
+{
+  "plant_id": "LAG-301",
+  "common_name": "Beach morning glory",
+  "species": "Ipomoea pes-caprae",
+  "holder": "Planting flush with inner wall",
+  "layout_kind": "flush",
+  "growing_medium_depth_m": 0.3,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 6,
+      "source_scene": "LAG-301 | 01 Establishment",
+      "height_above_deck_m": 2.922,
+      "front_spill_mm": 0
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 6,
+      "source_scene": "049 | LAG-301 | Ipomoea pes-caprae",
+      "height_above_deck_m": 2.922,
+      "front_spill_mm": 0
+    },
+    {
+      "stage": "Developed",
+      "instances": 6,
+      "source_scene": "LAG-301 | 03 Developed envelope",
+      "height_above_deck_m": 2.922,
+      "front_spill_mm": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "plant_id": "LAG-283",
+  "species": "Epipremnum aureum",
+  "planter": "Rectangular trough: 1.20 x 0.52 m external plan, 0.28 m medium depth. Trial provision.",
+  "support": "Open mesh with soft training ties",
+  "note": "A floor trough sits below an open mesh. Soft ties guide the stems across the mesh. The aerial roots are shown free and do not carry the vine on smooth wire. Use a sheltered position with bright indirect light. The later views add trained lateral shoots to compare foliage coverage across three modelled size stages.",
+  "stages": {
+    "Establishment": {
+      "stage": "01",
+      "catalogue_height_m": 0.4565,
+      "plant_parts": 5,
+      "assembly_height_m": 1.685,
+      "clear_depth_behind_assembly_m": 1.96,
+      "source_scene": "LAG-283 | 01 Establishment",
+      "source_file": "Growth_Stages_b05v08.blend",
+      "training_ties": 2,
+      "projection_before": {
+        "front_projected_leaf_m2": 0.1473,
+        "mesh_coverage_pct": 10.24
+      },
+      "projection_after": {
+        "front_projected_leaf_m2": 0.1473,
+        "mesh_coverage_pct": 10.24
+      }
+    },
+    "Intermediate": {
+      "stage": "02",
+      "catalogue_height_m": 0.8,
+      "plant_parts": 11,
+      "assembly_height_m": 1.685,
+      "clear_depth_behind_assembly_m": 1.96,
+      "source_scene": "044 | LAG-283 | Epipremnum aureum",
+      "source_file": "Precision_Pilots_b05v08.blend",
+      "training_ties": 5,
+      "projection_before": {
+        "front_projected_leaf_m2": 0.2567,
+        "mesh_coverage_pct": 17.84
+      },
+      "projection_after": {
+        "front_projected_leaf_m2": 0.286,
+        "mesh_coverage_pct": 19.87
+      }
+    },
+    "Developed": {
+      "stage": "03",
+      "catalogue_height_m": 1.1947,
+      "plant_parts": 10,
+      "assembly_height_m": 1.685,
+      "clear_depth_behind_assembly_m": 1.96,
+      "source_scene": "LAG-283 | 03 Developed envelope",
+      "source_file": "Growth_Stages_b05v08.blend",
+      "training_ties": 14,
+      "projection_before": {
+        "front_projected_leaf_m2": 0.2992,
+        "mesh_coverage_pct": 20.79
+      },
+      "projection_after": {
+        "front_projected_leaf_m2": 0.3983,
+        "mesh_coverage_pct": 27.68
+      }
+    }
+  }
+}

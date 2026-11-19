@@ -1,0 +1,58 @@
+{
+  "plant_id": "LAG-325",
+  "common_name": "Egyptian white waterlily",
+  "species": "Nymphaea lotus",
+  "category": "aquatic_wetland",
+  "holder": "Rooted waterlily basin",
+  "layout_kind": "lilies",
+  "holder_plan_m": [
+    3.6,
+    1.24
+  ],
+  "growing_medium_depth_m": 0.2,
+  "water_depth_m": 0.3,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 4,
+      "datum": "water surface",
+      "plant_top_from_datum_m": 0.0137,
+      "plant_top_from_deck_m": 0.564,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-325 | 01 Establishment"
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 4,
+      "datum": "water surface",
+      "plant_top_from_datum_m": 0.2,
+      "plant_top_from_deck_m": 0.75,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "064 | LAG-325 | Nymphaea lotus"
+    },
+    {
+      "stage": "Developed",
+      "instances": 4,
+      "datum": "water surface",
+      "plant_top_from_datum_m": 0.2066,
+      "plant_top_from_deck_m": 0.757,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-325 | 03 Developed envelope"
+    }
+  ]
+}

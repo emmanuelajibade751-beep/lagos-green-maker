@@ -1,0 +1,39 @@
+{
+  "study": "E1 wart fern shallow versus deep planters",
+  "plant_id": "LAG-320",
+  "scope": "Illustrative rectangular fill with common inside plan and shared drained-wet density. Live stock, real mix and installed mass not measured.",
+  "defaults": {
+    "inside_length_mm": 500,
+    "inside_width_mm": 350,
+    "shallow_fill_mm": 150,
+    "deep_fill_mm": 300,
+    "assumed_drained_wet_mix_density_kg_per_l": 0.7,
+    "shallow_holder_plant_support_kg": null,
+    "deep_holder_plant_support_kg": null
+  },
+  "exact_default_calculation": {
+    "shallow_volume_l": 26.25,
+    "deep_volume_l": 52.5,
+    "shallow_drained_wet_mix_kg": 18.375,
+    "deep_drained_wet_mix_kg": 36.75,
+    "reduction_in_volume_l": 26.25,
+    "reduction_in_mix_mass_kg": 18.375,
+    "shallow_assembly_kg": null,
+    "deep_assembly_kg": null
+  },
+  "formulas": {
+    "soil_envelope_l": "inside_length_mm * inside_width_mm * filled_depth_mm / 1000000",
+    "drained_wet_mix_kg": "soil_envelope_l * drained_wet_bulk_mix_density_kg_per_l",
+    "assembly_kg": "drained_wet_mix_kg + empty_holder_plant_and_support_kg, if available"
+  },
+  "density_basis": "Editable design assumption only, applied equally to isolate the effect of geometric volume. Real drained-wet density can vary with depth, packing, mix and drainage interval. Retained pore water is included. Fully saturated mix or water ponded above the soil line requires a separate load case.",
+  "reference": {
+    "title": "Characterizing Air and Water Content of Soilless Substrates to Optimize Root Growth",
+    "authors": "Félix R. Arguedas, John D. Lea-Cox and Andrew G. Ristvey",
+    "year": 2007,
+    "locator": "Materials and Methods and Table 1",
+    "url": "https://ipps.org/wp-content/uploads/2025/03/57_153.pdf",
+    "scope": "Primary container substrate experiment for saturation and free-drainage method. Does not supply the example mix density or verified fern holder depth."
+  },
+  "art": "Approved planting-day cutaways from wart_fern_planter_depth/index.html. Artwork shows a fixed depth comparison, with no dimensional fit or growth verdict."
+}

@@ -1,0 +1,42 @@
+{
+  "scope": "Local design questions, saved study references and proposed trial methods.",
+  "E1": "e1-assumptions.json",
+  "E2": {
+    "source": "shared_fern_planter_trial/index.html",
+    "evidence": "Palm 10 co-occurrence informed species choice. Holder trial compares mixed and same-species pairs and singles. No growing outcomes."
+  },
+  "E3": {
+    "units": "Depth in mm, soil plan area in m², volume in L.",
+    "equal_volume": "soil plan area m² = soil litres / depth mm",
+    "equal_reserved_area": "soil plan area equals reserved bounding width × length except for circular pot which uses π/4 of square reserved area",
+    "ratios": {
+      "rectangular": 1.5,
+      "trough": 3
+    },
+    "scope": "Straight-sided inside soil outlines only. Source holders and their actual dimensions are linked in the library."
+  },
+  "E4": "e4-mix-source.json",
+  "E5": {
+    "mount": "plant_modeller_precision/Precision_Pilots_b06av06.blend",
+    "pot": "fern_special_holders_06_review/LAG-320.blend",
+    "analog": "lekki_palm10_attachment/index.html",
+    "scope": "Saved pot and pad geometry and observed host relationship motivate a proposed rough mounting test."
+  },
+  "E6": {
+    "formula": "rain_mm × catchment_m2 = rain_input_l; rain_input_l minus collected drainage_plus_overflow_l = input balance at cutoff",
+    "source": "https://eprints.whiterose.ac.uk/id/eprint/128999/",
+    "scope": "Roof experiment informs the collection method. Runoff and timing for this fern planter are unmeasured."
+  },
+  "E7": {
+    "source": "ferns_06_review_03/LAG-320.json",
+    "scope": "Geometry informs a full-size mock-up service path and log. Reach, safe access, actual kit mass and support capacity need separate checks."
+  },
+  "E8": {
+    "formula": "measured_daily_supply_demand_l × trial_gap_days = volume target in L",
+    "sources": [
+      "https://www.scielo.br/j/brag/a/JrRDSWQ97XWK5RXd5YQ5ZQb/?lang=pt",
+      "https://www.mdpi.com/2311-7524/2/4/13"
+    ],
+    "scope": "Capacity alone cannot establish how quickly water will reach the mix. Measure system losses, usable water, wetness, overflow and fern health."
+  }
+}

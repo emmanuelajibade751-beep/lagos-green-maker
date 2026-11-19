@@ -1,0 +1,58 @@
+{
+  "plant_id": "LAG-335",
+  "common_name": "Water lettuce",
+  "species": "Pistia stratiotes",
+  "category": "aquatic_wetland",
+  "holder": "Contained floating basin",
+  "layout_kind": "floating",
+  "holder_plan_m": [
+    3.6,
+    1.24
+  ],
+  "growing_medium_depth_m": 0.0,
+  "water_depth_m": 0.35,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 10,
+      "datum": "water surface",
+      "plant_top_from_datum_m": 0.0735,
+      "plant_top_from_deck_m": 0.473,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-335 | 01 Establishment"
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 10,
+      "datum": "water surface",
+      "plant_top_from_datum_m": 0.15,
+      "plant_top_from_deck_m": 0.55,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "069 | LAG-335 | Pistia stratiotes"
+    },
+    {
+      "stage": "Developed",
+      "instances": 10,
+      "datum": "water surface",
+      "plant_top_from_datum_m": 0.1141,
+      "plant_top_from_deck_m": 0.514,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-335 | 03 Developed envelope"
+    }
+  ]
+}

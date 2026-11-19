@@ -1,0 +1,25 @@
+{
+  "source": "Félix R. Arguedas, John D. Lea-Cox and Andrew G. Ristvey (2007), Characterizing Air and Water Content of Soilless Substrates to Optimize Root Growth. Table 1 and methods.",
+  "url": "https://ipps.org/wp-content/uploads/2025/03/57_153.pdf",
+  "methods": "5.7 cm physical column height, 722 mL reported column volume, saturation followed by overnight gravity draining, 10 replicate columns.",
+  "media": [
+    {
+      "mix": "100% Sri Lankan coconut coir",
+      "reported_water_held_ml": 341,
+      "air_pct": 37.0,
+      "total_porosity_pct": 84.0,
+      "diagram_water_pct": 47.0,
+      "diagram_solid_pct": 16.0
+    },
+    {
+      "mix": "Pine bark and sphagnum peat moss (4:1 by volume)",
+      "reported_water_held_ml": 517,
+      "air_pct": 2.0,
+      "total_porosity_pct": 73.6,
+      "diagram_water_pct": 71.6,
+      "diagram_solid_pct": 26.4
+    }
+  ],
+  "diagram_basis": "Water percentage uses total porosity minus air space and solids use 100 minus total porosity. Directly reported water is shown in mL. Rounding can differ from dividing the reported mL by column volume.",
+  "limits": "Published substrate properties only. Local mix properties, drainage, plant performance and planter geometry still need measurement."
+}

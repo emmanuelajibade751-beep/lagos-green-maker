@@ -1,0 +1,58 @@
+{
+  "plant_id": "LAG-353",
+  "common_name": "Southern cattail",
+  "species": "Typha domingensis",
+  "category": "aquatic_wetland",
+  "holder": "Rooted wetland basin",
+  "layout_kind": "wetland",
+  "holder_plan_m": [
+    2.8,
+    1.45
+  ],
+  "growing_medium_depth_m": 0.4,
+  "water_depth_m": 0.1,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "instances": 1,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 1.3065,
+      "plant_top_from_deck_m": 1.757,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "source_scene": "LAG-353 | 01 Establishment"
+    },
+    {
+      "stage": "Intermediate",
+      "instances": 1,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 2.2,
+      "plant_top_from_deck_m": 2.65,
+      "overhang_m": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.173,
+        "rear_m": 0.0
+      },
+      "source_scene": "068 | LAG-353 | Typha domingensis"
+    },
+    {
+      "stage": "Developed",
+      "instances": 1,
+      "datum": "soil surface",
+      "plant_top_from_datum_m": 2.8925,
+      "plant_top_from_deck_m": 3.342,
+      "overhang_m": {
+        "left_m": 0.046,
+        "right_m": 0.046,
+        "front_m": 0.613,
+        "rear_m": 0.333
+      },
+      "source_scene": "LAG-353 | 03 Developed envelope"
+    }
+  ]
+}

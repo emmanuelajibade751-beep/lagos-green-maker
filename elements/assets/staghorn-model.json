@@ -1,0 +1,24 @@
+{
+  "width_m": 4.0,
+  "height_m": 1.1175,
+  "timber_depth_m": 0.032,
+  "plank_face_to_mesh_plane_m": 0.38,
+  "nominal_mesh_open_fraction": 0.672,
+  "stages": [
+    {
+      "stage": "01 | Establishment",
+      "tip_projection_beyond_mesh_m": 0,
+      "front_clearance_m": 0.0325
+    },
+    {
+      "stage": "02 | Intermediate",
+      "tip_projection_beyond_mesh_m": 0.0279,
+      "front_clearance_m": 0
+    },
+    {
+      "stage": "03 | Developed",
+      "tip_projection_beyond_mesh_m": 0.0171,
+      "front_clearance_m": 0
+    }
+  ]
+}

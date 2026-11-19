@@ -1,0 +1,3496 @@
+{
+  "units": "mm",
+  "scope": "Evaluated developed scene geometry only. Appearance names are Blender material labels.",
+  "assemblies": {
+    "Golden pothos": {
+      "source": "climbers_10_review/LAG-283.blend",
+      "sha256": "89abbc123717b7a5a69f1c591bf682d83cdebcabb5a0db5a283ea53f5e80ddfc",
+      "scene": "Golden pothos | Three stages",
+      "parts": [
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Balcony slab.003",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            3000.0,
+            200.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1500.0,
+              -200.0
+            ],
+            [
+              6850.0,
+              1500.0,
+              0.0
+            ]
+          ],
+          "materials": [
+            "White built elements"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side handrail.006",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            35.0,
+            3000.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              2832.5,
+              -1500.0,
+              1082.5
+            ],
+            [
+              2867.5,
+              1500.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side post.018",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2835.0,
+              -1515.0,
+              0.0
+            ],
+            [
+              2865.0,
+              -1485.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side post.019",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2835.0,
+              -15.0,
+              0.0
+            ],
+            [
+              2865.0,
+              15.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side post.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2835.0,
+              1485.0,
+              0.0
+            ],
+            [
+              2865.0,
+              1515.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side handrail.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            35.0,
+            3000.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              6832.5,
+              -1500.0,
+              1082.5
+            ],
+            [
+              6867.5,
+              1500.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side post.021",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6835.0,
+              -1515.0,
+              0.0
+            ],
+            [
+              6865.0,
+              -1485.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side post.022",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6835.0,
+              -15.0,
+              0.0
+            ],
+            [
+              6865.0,
+              15.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Side post.023",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6835.0,
+              1485.0,
+              0.0
+            ],
+            [
+              6865.0,
+              1515.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Front handrail.003",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            35.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1507.5,
+              1082.5
+            ],
+            [
+              6850.0,
+              -1472.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Front post.011",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              2862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Front post.012",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              3837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              3862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Front post.013",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              4837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              4862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Front post.014",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              5837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              5862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Balcony.002",
+          "name": "Front post.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              6862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Planter base.002",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1200.0,
+            520.0,
+            50.0
+          ],
+          "world_bounds_mm": [
+            [
+              4250.0,
+              -980.0,
+              25.0
+            ],
+            [
+              5450.0,
+              -460.0,
+              75.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Long trough wall.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1200.0,
+            25.0,
+            390.0
+          ],
+          "world_bounds_mm": [
+            [
+              4250.0,
+              -980.0,
+              25.0
+            ],
+            [
+              5450.0,
+              -955.0,
+              415.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Short trough wall.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            470.0,
+            390.0
+          ],
+          "world_bounds_mm": [
+            [
+              4250.0,
+              -955.0,
+              25.0
+            ],
+            [
+              4275.0,
+              -485.0,
+              415.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Long trough wall.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1200.0,
+            25.0,
+            390.0
+          ],
+          "world_bounds_mm": [
+            [
+              4250.0,
+              -485.0,
+              25.0
+            ],
+            [
+              5450.0,
+              -460.0,
+              415.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Short trough wall.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            470.0,
+            390.0
+          ],
+          "world_bounds_mm": [
+            [
+              5425.0,
+              -955.0,
+              25.0
+            ],
+            [
+              5450.0,
+              -485.0,
+              415.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Rootable substrate.002",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1150.0,
+            470.0,
+            280.0
+          ],
+          "world_bounds_mm": [
+            [
+              4275.0,
+              -955.0,
+              75.0
+            ],
+            [
+              5425.0,
+              -485.0,
+              355.0
+            ]
+          ],
+          "materials": [
+            "Growing medium | warm earth"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Trough foot.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            60.0,
+            420.0,
+            25.0
+          ],
+          "world_bounds_mm": [
+            [
+              4330.0,
+              -930.0,
+              0.0
+            ],
+            [
+              4390.0,
+              -510.0,
+              25.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Planter and drainage.002",
+          "name": "Trough foot.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            60.0,
+            420.0,
+            25.0
+          ],
+          "world_bounds_mm": [
+            [
+              5310.0,
+              -930.0,
+              0.0
+            ],
+            [
+              5370.0,
+              -510.0,
+              25.0
+            ]
+          ],
+          "materials": [
+            "Planter | warm white"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Mesh frame upright.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            25.0,
+            1470.0
+          ],
+          "world_bounds_mm": [
+            [
+              4278.5,
+              -602.5,
+              205.0
+            ],
+            [
+              4301.5,
+              -577.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Mesh frame upright.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            25.0,
+            1470.0
+          ],
+          "world_bounds_mm": [
+            [
+              5398.5,
+              -602.5,
+              205.0
+            ],
+            [
+              5421.5,
+              -577.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Mesh frame crossrail.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            21.0,
+            21.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -600.5,
+              379.5
+            ],
+            [
+              5410.0,
+              -579.5,
+              400.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Mesh frame crossrail.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            21.0,
+            21.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -600.5,
+              1664.5
+            ],
+            [
+              5410.0,
+              -579.5,
+              1685.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.016",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              4411.94,
+              -592.5,
+              390.0
+            ],
+            [
+              4416.94,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.017",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              4536.39,
+              -592.5,
+              390.0
+            ],
+            [
+              4541.39,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.018",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              4660.83,
+              -592.5,
+              390.0
+            ],
+            [
+              4665.83,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.019",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              4785.28,
+              -592.5,
+              390.0
+            ],
+            [
+              4790.28,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              4909.72,
+              -592.5,
+              390.0
+            ],
+            [
+              4914.72,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.021",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              5034.17,
+              -592.5,
+              390.0
+            ],
+            [
+              5039.17,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.022",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              5158.61,
+              -592.5,
+              390.0
+            ],
+            [
+              5163.61,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Vertical mesh wire.023",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            5.0,
+            5.0,
+            1285.0
+          ],
+          "world_bounds_mm": [
+            [
+              5283.06,
+              -592.5,
+              390.0
+            ],
+            [
+              5288.06,
+              -587.5,
+              1675.0
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.016",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              512.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              517.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.017",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              672.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              677.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.018",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              832.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              837.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.019",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              992.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              997.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              1152.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              1157.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.021",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              1312.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              1317.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.022",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              1472.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              1477.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Horizontal mesh wire.023",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1120.0,
+            5.0,
+            5.0
+          ],
+          "world_bounds_mm": [
+            [
+              4290.0,
+              -592.5,
+              1632.5
+            ],
+            [
+              5410.0,
+              -587.5,
+              1637.5
+            ]
+          ],
+          "materials": [
+            "Trellis | dark sage"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.39,
+            166.78,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4621.95,
+              -749.58,
+              507.8
+            ],
+            [
+              4640.34,
+              -582.8,
+              522.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.39,
+            123.7,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4761.84,
+              -706.5,
+              667.8
+            ],
+            [
+              4780.23,
+              -582.8,
+              682.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.009",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.39,
+            136.59,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4832.01,
+              -719.39,
+              827.8
+            ],
+            [
+              4850.4,
+              -582.8,
+              842.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.010",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.4,
+            142.78,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4823.18,
+              -725.58,
+              987.8
+            ],
+            [
+              4841.58,
+              -582.8,
+              1002.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.011",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.39,
+            108.87,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4872.73,
+              -691.67,
+              1147.8
+            ],
+            [
+              4891.12,
+              -582.8,
+              1162.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.012",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.4,
+            146.6,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4989.34,
+              -729.4,
+              1307.8
+            ],
+            [
+              5007.74,
+              -582.8,
+              1322.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.013",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.36,
+            61.87,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4585.41,
+              -644.67,
+              667.8
+            ],
+            [
+              4603.77,
+              -582.8,
+              682.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.014",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.37,
+            65.01,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4461.63,
+              -647.81,
+              827.8
+            ],
+            [
+              4480.0,
+              -582.8,
+              842.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.015",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.35,
+            54.62,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4452.61,
+              -637.42,
+              987.8
+            ],
+            [
+              4470.96,
+              -582.8,
+              1002.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.016",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.38,
+            86.49,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4512.87,
+              -669.29,
+              1147.8
+            ],
+            [
+              4531.25,
+              -582.8,
+              1162.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.017",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.38,
+            80.57,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4557.49,
+              -663.37,
+              1307.8
+            ],
+            [
+              4575.87,
+              -582.8,
+              1322.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.018",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.38,
+            83.41,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              4995.65,
+              -666.21,
+              827.8
+            ],
+            [
+              5014.03,
+              -582.8,
+              842.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.019",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.36,
+            58.43,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              5221.62,
+              -641.23,
+              987.8
+            ],
+            [
+              5239.98,
+              -582.8,
+              1002.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Climbing support.002",
+          "name": "Soft training tie.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            18.38,
+            77.84,
+            14.4
+          ],
+          "world_bounds_mm": [
+            [
+              5260.36,
+              -660.64,
+              1147.8
+            ],
+            [
+              5278.74,
+              -582.8,
+              1162.2
+            ]
+          ],
+          "materials": [
+            "Rooting pole | coir"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "LAG-283 | attached axes and pedicels.005",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            655.13,
+            132.55,
+            1151.05
+          ],
+          "world_bounds_mm": [
+            [
+              4491.85,
+              -767.09,
+              336.68
+            ],
+            [
+              5146.98,
+              -634.54,
+              1487.73
+            ]
+          ],
+          "materials": [
+            "LAG-283 | climbing or creeping axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "LAG-283 | aerial roots.005",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            582.55,
+            106.0,
+            1047.89
+          ],
+          "world_bounds_mm": [
+            [
+              4549.69,
+              -747.62,
+              438.97
+            ],
+            [
+              5132.24,
+              -641.62,
+              1486.86
+            ]
+          ],
+          "materials": [
+            "LAG-283 | climbing or creeping axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "Individual blade meshes.003",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            932.08,
+            314.33,
+            1145.71
+          ],
+          "world_bounds_mm": [
+            [
+              4366.61,
+              -841.99,
+              403.96
+            ],
+            [
+              5298.69,
+              -527.66,
+              1549.67
+            ]
+          ],
+          "materials": [
+            "LAG-283 | leaf tone 1.002",
+            "LAG-283 | leaf tone 2.002",
+            "LAG-283 | leaf tone 3.002",
+            "LAG-283 | leaf tone 4.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "Connecting petioles.002",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            678.61,
+            143.49,
+            1083.98
+          ],
+          "world_bounds_mm": [
+            [
+              4492.93,
+              -764.58,
+              419.06
+            ],
+            [
+              5171.54,
+              -621.09,
+              1503.04
+            ]
+          ],
+          "materials": [
+            "LAG-283 | climbing or creeping axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "Visible midribs.002",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            949.93,
+            282.67,
+            1138.64
+          ],
+          "world_bounds_mm": [
+            [
+              4361.1,
+              -824.02,
+              405.9
+            ],
+            [
+              5311.03,
+              -541.35,
+              1544.54
+            ]
+          ],
+          "materials": [
+            "LAG-283 | raised leaf veins.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "New stems | trained lateral growth.001",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            817.14,
+            40.07,
+            872.86
+          ],
+          "world_bounds_mm": [
+            [
+              4454.48,
+              -664.76,
+              562.16
+            ],
+            [
+              5271.62,
+              -624.69,
+              1435.02
+            ]
+          ],
+          "materials": [
+            "LAG-283 | climbing or creeping axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "New leaf blades | lateral shoots.001",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1074.75,
+            149.35,
+            868.37
+          ],
+          "world_bounds_mm": [
+            [
+              4323.66,
+              -741.49,
+              574.8
+            ],
+            [
+              5398.41,
+              -592.14,
+              1443.17
+            ]
+          ],
+          "materials": [
+            "LAG-283 | leaf tone 1.002",
+            "LAG-283 | leaf tone 2.002",
+            "LAG-283 | leaf tone 3.002",
+            "LAG-283 | leaf tone 4.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "Petioles.002",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            863.9,
+            49.46,
+            792.83
+          ],
+          "world_bounds_mm": [
+            [
+              4437.64,
+              -674.08,
+              644.53
+            ],
+            [
+              5301.54,
+              -624.62,
+              1437.36
+            ]
+          ],
+          "materials": [
+            "LAG-283 | climbing or creeping axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "Midribs.002",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            1070.16,
+            110.16,
+            814.65
+          ],
+          "world_bounds_mm": [
+            [
+              4326.06,
+              -722.78,
+              609.46
+            ],
+            [
+              5396.22,
+              -612.62,
+              1424.11
+            ]
+          ],
+          "materials": [
+            "Pothos new shoot veins.001"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Golden pothos.002",
+          "name": "Secondary veins.002",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            1065.79,
+            135.6,
+            842.98
+          ],
+          "world_bounds_mm": [
+            [
+              4328.43,
+              -735.06,
+              590.96
+            ],
+            [
+              5394.22,
+              -599.46,
+              1433.94
+            ]
+          ],
+          "materials": [
+            "Pothos new shoot veins.001"
+          ],
+          "solidify_thickness_mm": []
+        }
+      ]
+    },
+    "African staghorn": {
+      "source": "fern_special_holders_10_compact_frontage/LAG-337.blend",
+      "sha256": "bc58a11137a5410aceabe4322a0a0fd73e5a342da8430939b2981b1108b2a151",
+      "scene": "African staghorn | Compact guardrail frontage",
+      "parts": [
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Balcony slab.003",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            3000.0,
+            200.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1500.0,
+              -200.0
+            ],
+            [
+              6850.0,
+              1500.0,
+              0.0
+            ]
+          ],
+          "materials": [
+            "White built elements"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side handrail.006",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            35.0,
+            3000.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              2832.5,
+              -1500.0,
+              1082.5
+            ],
+            [
+              2867.5,
+              1500.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side post.018",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2835.0,
+              -1515.0,
+              0.0
+            ],
+            [
+              2865.0,
+              -1485.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side post.019",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2835.0,
+              -15.0,
+              0.0
+            ],
+            [
+              2865.0,
+              15.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side post.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2835.0,
+              1485.0,
+              0.0
+            ],
+            [
+              2865.0,
+              1515.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side handrail.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            35.0,
+            3000.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              6832.5,
+              -1500.0,
+              1082.5
+            ],
+            [
+              6867.5,
+              1500.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side post.021",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6835.0,
+              -1515.0,
+              0.0
+            ],
+            [
+              6865.0,
+              -1485.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side post.022",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6835.0,
+              -15.0,
+              0.0
+            ],
+            [
+              6865.0,
+              15.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Side post.023",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            30.0,
+            30.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6835.0,
+              1485.0,
+              0.0
+            ],
+            [
+              6865.0,
+              1515.0,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Front handrail.003",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            35.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1507.5,
+              1082.5
+            ],
+            [
+              6850.0,
+              -1472.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Front post.011",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              2837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              2862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Front post.012",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              3837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              3862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Front post.013",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              4837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              4862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Front post.014",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              5837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              5862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Original balcony and guardrails.002",
+          "name": "Front post.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            25.0,
+            25.0,
+            1100.0
+          ],
+          "world_bounds_mm": [
+            [
+              6837.5,
+              -1502.5,
+              0.0
+            ],
+            [
+              6862.5,
+              -1477.5,
+              1100.0
+            ]
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Timber slab and sphagnum.004",
+          "name": "Sphagnum root pad.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            253.78,
+            95.68,
+            271.39
+          ],
+          "world_bounds_mm": [
+            [
+              3692.69,
+              -1040.68,
+              629.28
+            ],
+            [
+              3946.47,
+              -945.0,
+              900.67
+            ]
+          ],
+          "materials": [
+            "Damp sphagnum"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Timber slab and sphagnum.004",
+          "name": "Visible sphagnum fibres.004",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            235.76,
+            37.22,
+            247.5
+          ],
+          "world_bounds_mm": [
+            [
+              3701.4,
+              -1043.55,
+              642.02
+            ],
+            [
+              3937.16,
+              -1006.33,
+              889.52
+            ]
+          ],
+          "materials": [
+            "Sphagnum fibres"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Timber slab and sphagnum.004",
+          "name": "Soft ties under shield fronds.004",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            308.28,
+            62.79,
+            44.15
+          ],
+          "world_bounds_mm": [
+            [
+              3665.86,
+              -1032.67,
+              686.34
+            ],
+            [
+              3974.14,
+              -969.88,
+              730.49
+            ]
+          ],
+          "materials": [
+            "Soft horticultural tie"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Staghorn geometry.004",
+          "name": "Overlapping basal shield fronds.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            351.12,
+            50.6,
+            301.96
+          ],
+          "world_bounds_mm": [
+            [
+              3644.44,
+              -1068.0,
+              614.02
+            ],
+            [
+              3995.56,
+              -1017.4,
+              915.98
+            ]
+          ],
+          "materials": [
+            "Staghorn shield | leaf tone 1.002",
+            "Staghorn shield | leaf tone 2.002",
+            "Staghorn shield | leaf tone 3.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Staghorn geometry.004",
+          "name": "LAG-337 | connected shoots and stalks.007",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            438.26,
+            325.39,
+            243.48
+          ],
+          "world_bounds_mm": [
+            [
+              3607.91,
+              -1357.23,
+              546.97
+            ],
+            [
+              4046.17,
+              -1031.84,
+              790.45
+            ]
+          ],
+          "materials": [
+            "LAG-337 | living axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Staghorn geometry.004",
+          "name": "Individual blade meshes.006",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1054.35,
+            282.22,
+            626.13
+          ],
+          "world_bounds_mm": [
+            [
+              3305.9,
+              -1366.11,
+              200.79
+            ],
+            [
+              4360.25,
+              -1083.89,
+              826.92
+            ]
+          ],
+          "materials": [
+            "LAG-337 | leaf tone 1.002",
+            "LAG-337 | leaf tone 2.002",
+            "LAG-337 | leaf tone 3.002",
+            "LAG-337 | leaf tone 4.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Staghorn geometry.004",
+          "name": "Visible midribs.003",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            1055.03,
+            282.61,
+            622.46
+          ],
+          "world_bounds_mm": [
+            [
+              3305.59,
+              -1367.13,
+              200.56
+            ],
+            [
+              4360.62,
+              -1084.52,
+              823.02
+            ]
+          ],
+          "materials": [
+            "LAG-337 | foliar veins.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Staghorn geometry.004",
+          "name": "Live attachment rhizome.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            16.0,
+            20.0,
+            16.0
+          ],
+          "world_bounds_mm": [
+            [
+              3812.0,
+              -1037.0,
+              757.0
+            ],
+            [
+              3828.0,
+              -1017.0,
+              773.0
+            ]
+          ],
+          "materials": [
+            "Mount rhizome.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Sphagnum retaining mesh.004",
+          "name": "Flexible mesh around sphagnum pad.004",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            290.4,
+            64.33,
+            290.08
+          ],
+          "world_bounds_mm": [
+            [
+              3674.8,
+              -1037.13,
+              619.96
+            ],
+            [
+              3965.2,
+              -972.8,
+              910.04
+            ]
+          ],
+          "materials": [
+            "Pale bronze root-pad mesh"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Sphagnum retaining mesh.004",
+          "name": "Mesh retaining tab.016",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              3665.5,
+              -979.5,
+              640.0
+            ],
+            [
+              3686.5,
+              -968.5,
+              658.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Sphagnum retaining mesh.004",
+          "name": "Mesh retaining tab.017",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              3665.5,
+              -979.5,
+              872.0
+            ],
+            [
+              3686.5,
+              -968.5,
+              890.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Sphagnum retaining mesh.004",
+          "name": "Mesh retaining tab.018",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              3953.5,
+              -979.5,
+              640.0
+            ],
+            [
+              3974.5,
+              -968.5,
+              658.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 1.002 / Sphagnum retaining mesh.004",
+          "name": "Mesh retaining tab.019",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              3953.5,
+              -979.5,
+              872.0
+            ],
+            [
+              3974.5,
+              -968.5,
+              890.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Timber slab and sphagnum.005",
+          "name": "Sphagnum root pad.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            253.78,
+            95.68,
+            271.39
+          ],
+          "world_bounds_mm": [
+            [
+              5752.69,
+              -1040.68,
+              629.28
+            ],
+            [
+              6006.47,
+              -945.0,
+              900.67
+            ]
+          ],
+          "materials": [
+            "Damp sphagnum"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Timber slab and sphagnum.005",
+          "name": "Visible sphagnum fibres.005",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            235.76,
+            37.22,
+            247.5
+          ],
+          "world_bounds_mm": [
+            [
+              5761.4,
+              -1043.55,
+              642.02
+            ],
+            [
+              5997.16,
+              -1006.33,
+              889.52
+            ]
+          ],
+          "materials": [
+            "Sphagnum fibres"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Timber slab and sphagnum.005",
+          "name": "Soft ties under shield fronds.005",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            308.28,
+            62.79,
+            44.15
+          ],
+          "world_bounds_mm": [
+            [
+              5725.86,
+              -1032.67,
+              686.34
+            ],
+            [
+              6034.14,
+              -969.88,
+              730.49
+            ]
+          ],
+          "materials": [
+            "Soft horticultural tie"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Staghorn geometry.005",
+          "name": "Overlapping basal shield fronds.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            351.12,
+            50.6,
+            301.96
+          ],
+          "world_bounds_mm": [
+            [
+              5704.44,
+              -1068.0,
+              614.02
+            ],
+            [
+              6055.56,
+              -1017.4,
+              915.98
+            ]
+          ],
+          "materials": [
+            "Staghorn shield | leaf tone 1.002",
+            "Staghorn shield | leaf tone 2.002",
+            "Staghorn shield | leaf tone 3.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Staghorn geometry.005",
+          "name": "LAG-337 | connected shoots and stalks.008",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            438.26,
+            325.39,
+            243.48
+          ],
+          "world_bounds_mm": [
+            [
+              5667.91,
+              -1357.23,
+              546.97
+            ],
+            [
+              6106.17,
+              -1031.84,
+              790.45
+            ]
+          ],
+          "materials": [
+            "LAG-337 | living axes.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Staghorn geometry.005",
+          "name": "Individual blade meshes.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            1054.35,
+            282.22,
+            626.13
+          ],
+          "world_bounds_mm": [
+            [
+              5365.9,
+              -1366.11,
+              200.79
+            ],
+            [
+              6420.25,
+              -1083.89,
+              826.92
+            ]
+          ],
+          "materials": [
+            "LAG-337 | leaf tone 1.002",
+            "LAG-337 | leaf tone 2.002",
+            "LAG-337 | leaf tone 3.002",
+            "LAG-337 | leaf tone 4.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Staghorn geometry.005",
+          "name": "Visible midribs.004",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            1055.03,
+            282.61,
+            622.46
+          ],
+          "world_bounds_mm": [
+            [
+              5365.59,
+              -1367.13,
+              200.56
+            ],
+            [
+              6420.62,
+              -1084.52,
+              823.02
+            ]
+          ],
+          "materials": [
+            "LAG-337 | foliar veins.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Staghorn geometry.005",
+          "name": "Live attachment rhizome.009",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            16.0,
+            20.0,
+            16.0
+          ],
+          "world_bounds_mm": [
+            [
+              5872.0,
+              -1037.0,
+              757.0
+            ],
+            [
+              5888.0,
+              -1017.0,
+              773.0
+            ]
+          ],
+          "materials": [
+            "Mount rhizome.002"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Sphagnum retaining mesh.005",
+          "name": "Flexible mesh around sphagnum pad.005",
+          "object_type": "CURVE",
+          "xyz_extent_mm": [
+            290.4,
+            64.33,
+            290.08
+          ],
+          "world_bounds_mm": [
+            [
+              5734.8,
+              -1037.13,
+              619.96
+            ],
+            [
+              6025.2,
+              -972.8,
+              910.04
+            ]
+          ],
+          "materials": [
+            "Pale bronze root-pad mesh"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Sphagnum retaining mesh.005",
+          "name": "Mesh retaining tab.020",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              5725.5,
+              -979.5,
+              640.0
+            ],
+            [
+              5746.5,
+              -968.5,
+              658.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Sphagnum retaining mesh.005",
+          "name": "Mesh retaining tab.021",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              5725.5,
+              -979.5,
+              872.0
+            ],
+            [
+              5746.5,
+              -968.5,
+              890.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Sphagnum retaining mesh.005",
+          "name": "Mesh retaining tab.022",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              6013.5,
+              -979.5,
+              640.0
+            ],
+            [
+              6034.5,
+              -968.5,
+              658.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Timber mount 2.002 / Sphagnum retaining mesh.005",
+          "name": "Mesh retaining tab.023",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            21.0,
+            11.0,
+            18.0
+          ],
+          "world_bounds_mm": [
+            [
+              6013.5,
+              -979.5,
+              872.0
+            ],
+            [
+              6034.5,
+              -968.5,
+              890.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Full-height, full-width timber panel.002",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            32.0,
+            1117.5
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -970.0,
+              0.0
+            ],
+            [
+              6850.0,
+              -938.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Honey-toned timber with longitudinal grain"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Timber backing deck-fixed post.006",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            44.0,
+            52.0,
+            984.0
+          ],
+          "world_bounds_mm": [
+            [
+              3108.0,
+              -937.0,
+              0.0
+            ],
+            [
+              3152.0,
+              -885.0,
+              984.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Backing post foot.006",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            100.0,
+            120.0,
+            13.0
+          ],
+          "world_bounds_mm": [
+            [
+              3080.0,
+              -952.0,
+              0.0
+            ],
+            [
+              3180.0,
+              -832.0,
+              13.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Backing post cleat.006",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            105.0,
+            21.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              3077.5,
+              -941.5,
+              872.5
+            ],
+            [
+              3182.5,
+              -920.5,
+              907.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Timber backing deck-fixed post.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            44.0,
+            52.0,
+            984.0
+          ],
+          "world_bounds_mm": [
+            [
+              4828.0,
+              -937.0,
+              0.0
+            ],
+            [
+              4872.0,
+              -885.0,
+              984.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Backing post foot.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            100.0,
+            120.0,
+            13.0
+          ],
+          "world_bounds_mm": [
+            [
+              4800.0,
+              -952.0,
+              0.0
+            ],
+            [
+              4900.0,
+              -832.0,
+              13.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Backing post cleat.007",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            105.0,
+            21.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              4797.5,
+              -941.5,
+              872.5
+            ],
+            [
+              4902.5,
+              -920.5,
+              907.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Timber backing deck-fixed post.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            44.0,
+            52.0,
+            984.0
+          ],
+          "world_bounds_mm": [
+            [
+              6548.0,
+              -937.0,
+              0.0
+            ],
+            [
+              6592.0,
+              -885.0,
+              984.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Backing post foot.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            100.0,
+            120.0,
+            13.0
+          ],
+          "world_bounds_mm": [
+            [
+              6520.0,
+              -952.0,
+              0.0
+            ],
+            [
+              6620.0,
+              -832.0,
+              13.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous timber backing.002",
+          "name": "Backing post cleat.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            105.0,
+            21.0,
+            35.0
+          ],
+          "world_bounds_mm": [
+            [
+              6517.5,
+              -941.5,
+              872.5
+            ],
+            [
+              6622.5,
+              -920.5,
+              907.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Full-frontage square mesh.002",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            0.9,
+            1117.5
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1350.0,
+              0.0
+            ],
+            [
+              6850.0,
+              -1349.1,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Muted green wind mesh"
+          ],
+          "solidify_thickness_mm": [
+            0.9
+          ]
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Upper or lower perimeter rail.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            23.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1361.5,
+              0.0
+            ],
+            [
+              6850.0,
+              -1338.5,
+              23.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Upper or lower perimeter rail.009",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            23.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1361.5,
+              1094.5
+            ],
+            [
+              6850.0,
+              -1338.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Upper or lower perimeter rail.010",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            23.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -981.5,
+              0.0
+            ],
+            [
+              6850.0,
+              -958.5,
+              23.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Upper or lower perimeter rail.011",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            4000.0,
+            23.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -981.5,
+              1094.5
+            ],
+            [
+              6850.0,
+              -958.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Mesh frame end upright.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            23.0,
+            1117.5
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1361.5,
+              0.0
+            ],
+            [
+              2873.0,
+              -1338.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Edge spacer between mesh and timber.008",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            380.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1350.0,
+              0.0
+            ],
+            [
+              2873.0,
+              -970.0,
+              23.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Edge spacer between mesh and timber.009",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            380.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              2850.0,
+              -1350.0,
+              1094.5
+            ],
+            [
+              2873.0,
+              -970.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Mesh frame deck foot.004",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            70.0,
+            80.0,
+            13.0
+          ],
+          "world_bounds_mm": [
+            [
+              2826.5,
+              -1390.0,
+              0.0
+            ],
+            [
+              2896.5,
+              -1310.0,
+              13.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Mesh frame end upright.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            23.0,
+            1117.5
+          ],
+          "world_bounds_mm": [
+            [
+              6827.0,
+              -1361.5,
+              0.0
+            ],
+            [
+              6850.0,
+              -1338.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Edge spacer between mesh and timber.010",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            380.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              6827.0,
+              -1350.0,
+              0.0
+            ],
+            [
+              6850.0,
+              -970.0,
+              23.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Edge spacer between mesh and timber.011",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            380.0,
+            23.0
+          ],
+          "world_bounds_mm": [
+            [
+              6827.0,
+              -1350.0,
+              1094.5
+            ],
+            [
+              6850.0,
+              -970.0,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Mesh frame deck foot.005",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            70.0,
+            80.0,
+            13.0
+          ],
+          "world_bounds_mm": [
+            [
+              6803.5,
+              -1390.0,
+              0.0
+            ],
+            [
+              6873.5,
+              -1310.0,
+              13.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Mesh frame central upright.002",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            23.0,
+            23.0,
+            1117.5
+          ],
+          "world_bounds_mm": [
+            [
+              4838.5,
+              -1361.5,
+              0.0
+            ],
+            [
+              4861.5,
+              -1338.5,
+              1117.5
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        },
+        {
+          "collection": "03 | Developed / Continuous outward mesh and edge frame.002",
+          "name": "Mesh central deck foot.002",
+          "object_type": "MESH",
+          "xyz_extent_mm": [
+            75.0,
+            80.0,
+            13.0
+          ],
+          "world_bounds_mm": [
+            [
+              4812.5,
+              -1390.0,
+              0.0
+            ],
+            [
+              4887.5,
+              -1310.0,
+              13.0
+            ]
+          ],
+          "materials": [
+            "Warm graphite screen frame"
+          ],
+          "solidify_thickness_mm": []
+        }
+      ]
+    }
+  }
+}

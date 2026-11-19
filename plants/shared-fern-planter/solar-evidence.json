@@ -1,0 +1,83 @@
+{
+  "method": "Arithmetic means of four equal-area wall receivers per face. Adjacent numbered north wall faces at level m (48–52 m). Positions chosen before extracting values.",
+  "source": {
+    "relativePath": "solar_14d_checkerboard_balcony/Ladybug_Checkerboard_Sensors.csv",
+    "sha256": "0700a8f4952cbdfc64f16236dd968a389b5a8d90fc3e6cbab55c3b06a956b1ee"
+  },
+  "weather": "Lagos–Ikeja PVGIS 5.3 typical meteorological year, SARAH3/ERA5 2005–2023",
+  "geometry": "14D unplanted checkerboard tower with balconies and 64 surrounding building masses. +Y assumed north. Wall sensors offset 20 mm. Geometric sun sampled every 30 minutes.",
+  "samples": [
+    {
+      "voxel": "59m",
+      "face": "N",
+      "sensors": [
+        {
+          "sensor": "1636",
+          "voxel": "59m",
+          "face": "N",
+          "direct_sun_h": "818.5",
+          "irradiation_kwh_m2": "318.23599787850816"
+        },
+        {
+          "sensor": "1637",
+          "voxel": "59m",
+          "face": "N",
+          "direct_sun_h": "529.0",
+          "irradiation_kwh_m2": "146.79603193547598"
+        },
+        {
+          "sensor": "1638",
+          "voxel": "59m",
+          "face": "N",
+          "direct_sun_h": "820.0",
+          "irradiation_kwh_m2": "319.46493755661822"
+        },
+        {
+          "sensor": "1639",
+          "voxel": "59m",
+          "face": "N",
+          "direct_sun_h": "451.0",
+          "irradiation_kwh_m2": "143.08646162973605"
+        }
+      ],
+      "annual_kwh_m2": 231.8958572500846,
+      "annual_direct_sun_h": 654.625
+    },
+    {
+      "voxel": "60m",
+      "face": "N",
+      "sensors": [
+        {
+          "sensor": "1640",
+          "voxel": "60m",
+          "face": "N",
+          "direct_sun_h": "640.0",
+          "irradiation_kwh_m2": "334.11667247911163"
+        },
+        {
+          "sensor": "1641",
+          "voxel": "60m",
+          "face": "N",
+          "direct_sun_h": "608.0",
+          "irradiation_kwh_m2": "322.91091475133169"
+        },
+        {
+          "sensor": "1642",
+          "voxel": "60m",
+          "face": "N",
+          "direct_sun_h": "657.5",
+          "irradiation_kwh_m2": "338.27662863722418"
+        },
+        {
+          "sensor": "1643",
+          "voxel": "60m",
+          "face": "N",
+          "direct_sun_h": "616.0",
+          "irradiation_kwh_m2": "326.84491071236494"
+        }
+      ],
+      "annual_kwh_m2": 330.5372816450081,
+      "annual_direct_sun_h": 630.375
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "plant_id": "LAG-320",
+  "holder": "Two stepped drained troughs",
+  "provision": "Two stepped troughs. Each has 165 mm of growing medium and three screened drain slots.",
+  "spacing_m": 0.305,
+  "stages": [
+    {
+      "stage": "Establishment",
+      "plants": 20,
+      "crown_width_m": 0.613,
+      "source_scene": "LAG-320 | 01 Establishment",
+      "balcony_overhang": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "holder": "Two stepped drained troughs",
+      "assembled_canopy_width_m": 3.493,
+      "assembly_top_m": 1.279
+    },
+    {
+      "stage": "Intermediate",
+      "plants": 20,
+      "crown_width_m": 0.8524,
+      "source_scene": "062 | LAG-320 | Microsorum scolopendria",
+      "balcony_overhang": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "holder": "Two stepped drained troughs",
+      "assembled_canopy_width_m": 3.704,
+      "assembly_top_m": 1.427
+    },
+    {
+      "stage": "Developed",
+      "plants": 20,
+      "crown_width_m": 0.9051,
+      "source_scene": "LAG-320 | 03 Developed envelope",
+      "balcony_overhang": {
+        "left_m": 0.0,
+        "right_m": 0.0,
+        "front_m": 0.0,
+        "rear_m": 0.0
+      },
+      "holder": "Two stepped drained troughs",
+      "assembled_canopy_width_m": 3.774,
+      "assembly_top_m": 1.515
+    }
+  ],
+  "trough_exterior_m": [
+    3.6,
+    0.62,
+    0.267
+  ],
+  "medium_depth_m": 0.165,
+  "drains_per_trough": 3,
+  "rows": 2,
+  "plants_per_row": 10,
+  "row_spacing_m": 1.28,
+  "layout": "Dense stepped rows with ten plants per trough. Root competition and long-term density are untested.",
+  "rear_lift_m": 0.78,
+  "trough_count": 2,
+  "plants_per_trough": 10,
+  "geometric_medium_volume_m3_per_trough": 0.32
+}

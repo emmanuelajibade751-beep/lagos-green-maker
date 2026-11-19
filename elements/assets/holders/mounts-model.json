@@ -1,0 +1,93 @@
+{
+  "id": "LAG-320",
+  "name": "Microsorum scolopendria",
+  "category": "Ferns",
+  "checked_model_stage": "02 Intermediate",
+  "source_file": "Precision_Pilots_b06av06.blend",
+  "source_scene": "062 | LAG-320 | Microsorum scolopendria",
+  "source_sha256": "d168e7f31907b264346e70dcbfc353705624480c054b596322eb497e5ad4eb39",
+  "modelled_system": "mount",
+  "modelled_medium_volume_l": 14.400000822544094,
+  "volume_scope": "geometric_modelled_root_medium_envelope_excluding_separate_drain_water_shell_objects",
+  "medium_objects": [
+    {
+      "object": "Root attachment pad | 40 mm face depth.002",
+      "bounds_m": [
+        [
+          -0.30000001192092896,
+          -0.03999999910593033,
+          0.0
+        ],
+        [
+          0.30000001192092896,
+          0.0,
+          0.6000000238418579
+        ]
+      ],
+      "world_axis_extents_xyz_m": [
+        0.6000000238418579,
+        0.03999999910593033,
+        0.6000000238418579
+      ],
+      "orientation_note": "World X/Y/Z envelope, not automatically rooting width/length/depth. Vertical mounting-pad face depth follows its own surface orientation.",
+      "closed_mesh": true,
+      "geometric_volume_l": 14.400000822544094,
+      "status": "measured_existing_model_geometry_not_species_minimum",
+      "materials": [
+        "Soil"
+      ]
+    }
+  ],
+  "design_allowances_mm": {
+    "width_mm": 600,
+    "length_mm": 600,
+    "soil_mm": 40,
+    "service_mm": 0,
+    "freeboard_mm": 0,
+    "water_mm": 0
+  },
+  "stock_rootball_status": "unknown",
+  "installed_usable_volume_status": "unverified",
+  "source_review": "QUALIFIED",
+  "comparison": "Attachment-pad world XYZ bounds are recorded. World Z is not the pad face depth or a universal rooting-depth allowance.",
+  "published_container_guidance": [],
+  "species_requirement": "No species- and stage-specific minimum usable rooting volume or validated long-term container envelope was established in this audit.",
+  "species_specific_actions": [
+    {
+      "claim": "Show the rhizome close to its supporting surface and separate attachment/feeding roots; a deep tree-style soil volume is not inferred.",
+      "status": "proposed_design_implication",
+      "source_ids": [
+        "B320-01",
+        "B320-02"
+      ]
+    }
+  ],
+  "proposed_variant_status": "No replacement variant authorised by this evidence alone. Preserve the current model; specify stock and growing strategy before a dimensional correction.",
+  "other_stage_scope": "Stages01 and03 retain their own source geometry. Stage02 dimensions are not assigned to them. Exact root dimensions and calendar ages remain uncalibrated.",
+  "sources": [
+    {
+      "id": "B320-01",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250082806",
+      "title": "Phymatosorus scolopendria",
+      "publisher": "Flora of China / Missouri Botanical Garden and Harvard University Herbaria",
+      "accessed": "2026-11-17",
+      "locator": "Species morphology and habitat",
+      "supported_claims": [
+        "Rhizome diameter3–5mm; scales; rock/tree-trunk habitat."
+      ],
+      "access_note": "Live indexed flora text read; direct page timed out."
+    },
+    {
+      "id": "B320-02",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=125270",
+      "title": "Phymatosorus",
+      "publisher": "Flora of China",
+      "accessed": "2026-11-17",
+      "locator": "Genus morphology",
+      "supported_claims": [
+        "Long-creeping fleshy scaly rhizome; genus context for the species."
+      ],
+      "access_note": "Live publisher text or indexed publisher passage read."
+    }
+  ]
+}
